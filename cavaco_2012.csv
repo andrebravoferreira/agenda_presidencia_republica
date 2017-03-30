@@ -3,8 +3,8 @@ data,hora,evento,local
 4 de janeiro de 2012,19:00,"O Presidente da República recebe os cumprimentos dos Embaixadores de Portugal acreditados junto de vários Estados e organizações internacionais, por ocasião do Seminário Diplomático que decorre em Lisboa",""
 5 de janeiro de 2012,11:30,"O Presidente da República recebe, em audiência, o Presidente da Autoridade Nacional de Comunicações (ANACOM), Prof. José Manuel Amado da Silva",""
 5 de janeiro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-6 de janeiro de 2012,18:00,"O Presidente da República recebe a Banda Musical de Vila Verde, o Grupo de Cantares do Centro de Desporto e Cultura JuveNorte, da Póvoa de Varzim, e os Janeireiros de Boliqueime, Loulé, que cantarão “as Janeiras”","Palácio de Belém
-"
+6 de janeiro de 2012,18:00,"O Presidente da República recebe a Banda Musical de Vila Verde, o Grupo de Cantares do Centro de Desporto e Cultura JuveNorte, da Póvoa de Varzim, e os Janeireiros de Boliqueime, Loulé, que cantarão “as Janeiras”
+",Palácio de Belém
 10 de janeiro de 2012,"",O Presidente da República recebe as cartas credenciais de novos Embaixadores em Portugal:,""
 10 de janeiro de 2012,10:00,"Embaixador de Moçambique, Jacon Jeremias Nyambir",""
 10 de janeiro de 2012,10:25,"Embaixador do Peru, Néstor Francisco Popolizio Bardales",""
@@ -18,8 +18,8 @@ data,hora,evento,local
  - Embaixadora de Andorra, Maria Ubach Font
  - Embaixador da Antiga República Jugoslava da Macedónia, Agron Budjaku
  - Embaixador do Vietname, Duong Chi Dung",""
-11 de janeiro de 2012,11:00,"O Presidente da República recebe os cumprimentos de Ano Novo do Corpo Diplomático acreditado em Portugal, proferindo uma intervenção","Palácio de Queluz
-"
+11 de janeiro de 2012,11:00,"O Presidente da República recebe os cumprimentos de Ano Novo do Corpo Diplomático acreditado em Portugal, proferindo uma intervenção
+",Palácio de Queluz
 12 de janeiro de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Associação da Hotelaria, Restauração e Similares de Portugal (AHRESP)",""
 12 de janeiro de 2012,18:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 13 de janeiro de 2012,18:00,"O Presidente da República recebe, em audiência, a Direção da Confederação Internacional dos Empresários Portugueses",""
@@ -31,11 +31,13 @@ data,hora,evento,local
 17 de janeiro de 2012,12:00,"O Presidente da República recebe, em audiência, o Procurador-Geral da República",""
 18 de janeiro de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Associação Portuguesa para o Desenvolvimento das Comunicações (APDC)",""
 18 de janeiro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-20 de janeiro de 2012,10:15,Inauguração das novas instalações da Faculdade de Medicina da Universidade do Porto,"Faculdade de Medicina da Universidade do Porto
-"
+20 de janeiro de 2012,10:15,"Inauguração das novas instalações da Faculdade de Medicina da Universidade do Porto
+
+",Faculdade de Medicina da Universidade do Porto
 20 de janeiro de 2012,11:00,"Inauguração das novas instalações da Faculdade de Farmácia e do Instituto de Ciências Biomédicas Abel Salazar
-- Intervenção do Presidente da República","Faculdade de Farmácia e Instituto de Ciências Biomédicas Abel Salazar da Universidade do Porto
-"
+- Intervenção do Presidente da República
+
+",Faculdade de Farmácia e Instituto de Ciências Biomédicas Abel Salazar da Universidade do Porto
 20 de janeiro de 2012,"",Visita ao Município do Porto,""
 20 de janeiro de 2012,12:30,Chegada à Câmara Municipal do Porto,""
 20 de janeiro de 2012,13:00,Visita ao Gabinete do Munícipe,""
@@ -50,20 +52,25 @@ data,hora,evento,local
  - Grande-Oficial da Ordem Militar de Sant’Iago da Espada,
    Professora Doutora Maria Ângela Brito de Sousa
  - Grande-Oficial da Ordem do Infante Dom Henrique,
-   Engenheiro Francisco Nápoles Ferraz de Almeida e Sousa","Hotel Intercontinental, Porto
-"
+   Engenheiro Francisco Nápoles Ferraz de Almeida e Sousa
+
+","Hotel Intercontinental, Porto"
 21 de janeiro de 2012,11:25,"Inauguração do Centro Logístico da Garland
-- Intervenção do Presidente da República","Zona Industrial da Maia
-"
+- Intervenção do Presidente da República
+
+",Zona Industrial da Maia
 21 de janeiro de 2012,15:00,"Inauguração do Passeio das Margens do Ave (Parceria para a Regeneração Urbana)
-- Intervenção do Presidente da República","Zona Ribeirinha de Santo Tirso
-"
+- Intervenção do Presidente da República
+
+",Zona Ribeirinha de Santo Tirso
 21 de janeiro de 2012,16:30,"Inauguração da “Casa de Esmeriz”
-- Intervenção do Presidente da República","Esmeriz, Vila Nova de Famalicão
-"
+- Intervenção do Presidente da República
+
+","Esmeriz, Vila Nova de Famalicão"
 21 de janeiro de 2012,17:55,"Sessão Solene de Abertura de Guimarães Capital Europeia da Cultura 2012
-- Intervenção do Presidente da República","Pavilhão Multiusos de Guimarães
-"
+- Intervenção do Presidente da República
+
+",Pavilhão Multiusos de Guimarães
 23 de janeiro de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção da Federação das Indústrias Portuguesas Agro-Alimentares",""
 23 de janeiro de 2012,17:00,"O Presidente da República recebe, em audiência, o Governador do Banco de Portugal, Dr. Carlos Costa",""
 24 de janeiro de 2012,18:40,"O Presidente da República recebe, em audiência, o Presidente do Governo de Espanha, Mariano Rajoy",""
@@ -71,37 +78,37 @@ data,hora,evento,local
 26 de janeiro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 27 de janeiro de 2012,11:30,"O Presidente da República recebe, em audiência, o Secretário Executivo da Comunidade dos Países de Língua Portuguesa (CPLP), Engº Domingos Simões Pereira.",""
 30 de janeiro de 2012,15:15,"O Presidente da República recebe, em audiência, o Ministro dos Negócios Estrangeiros do Peru, Rafael Roncagliolo.",""
-31 de janeiro de 2012,14:55,O Presidente da República preside à Sessão Solene de Abertura do Ano Judicial.,"Supremo Tribunal de Justiça, Lisboa
-"
+31 de janeiro de 2012,14:55,"O Presidente da República preside à Sessão Solene de Abertura do Ano Judicial.
+","Supremo Tribunal de Justiça, Lisboa"
 2 de fevereiro de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Associação Nacional de Freguesias (ANAFRE)",""
 2 de fevereiro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-6 de fevereiro de 2012,10:30,"O Presidente da República preside à Sessão Solene de inauguração da sede da Comunidade dos Países de Língua Portuguesa (CPLP), proferindo uma intervenção","Palácio do Conde de Penafiel, Lisboa
-"
+6 de fevereiro de 2012,10:30,"O Presidente da República preside à Sessão Solene de inauguração da sede da Comunidade dos Países de Língua Portuguesa (CPLP), proferindo uma intervenção
+","Palácio do Conde de Penafiel, Lisboa"
 6 de fevereiro de 2012,17:30,O Presidente da República recebe um grupo de estudantes finlandeses que se encontram em Portugal no âmbito do Programa ERASMUS,""
 6 de fevereiro de 2012,18:30,"O Presidente da República recebe, em audiência, o Ministro dos Negócios Estrangeiros e da Cooperação do Reino de Marrocos, Saâdedine El Othmani",""
 7 de fevereiro de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção do Sindicato dos Magistrados do Ministério Público",""
-9 de fevereiro de 2012,11:00,Visita ao Centro Tecnológico da Nokia-Siemens,"	Sede da Nokia-Siemens Networks, Oy, Finlândia
-"
-9 de fevereiro de 2012,11:45,Visita à Nokia House e Almoço,"	Sede da Nokia, Helsínquia, Finlândia
-"
-9 de fevereiro de 2012,13:45,Apresentação sobre o Cluster do Mar finlandês,"FINPRO (Agência Finlandesa de Promoção das Exportações), Helsínquia, Finlândia
-"
-9 de fevereiro de 2012,15:45,Apresentação sobre o cluster de nanotecnologia finlandês e Visita ao Laboratório Micronova,"Laboratório Micronova da Universidade de Aalto, Finlândia
-"
+9 de fevereiro de 2012,11:00,"Visita ao Centro Tecnológico da Nokia-Siemens
+","	Sede da Nokia-Siemens Networks, Oy, Finlândia"
+9 de fevereiro de 2012,11:45,"Visita à Nokia House e Almoço
+","	Sede da Nokia, Helsínquia, Finlândia"
+9 de fevereiro de 2012,13:45,"Apresentação sobre o Cluster do Mar finlandês 
+","FINPRO (Agência Finlandesa de Promoção das Exportações), Helsínquia, Finlândia"
+9 de fevereiro de 2012,15:45,"Apresentação sobre o cluster de nanotecnologia finlandês e Visita ao Laboratório Micronova
+","Laboratório Micronova da Universidade de Aalto, Finlândia"
 9 de fevereiro de 2012,17:35,Visita à empresa Picosun,""
 10 de fevereiro de 2012,"","Reunião Informal de Chefes de Estado Europeus
 
 no âmbito do denominado Grupo de Arraiolos em Helsínquia, Finlândia
 
 10 e 11 de fevereiro de 2012",""
-10 de fevereiro de 2012,13:00,"A Presidente da Finlândia, Tarja Halonen, acolhe os Chefes de Estado participantes na Reunião Informal do Grupo de Arraiolos","	Hotel Hilton Kalastajatorppa
-"
+10 de fevereiro de 2012,13:00,"A Presidente da Finlândia, Tarja Halonen, acolhe os Chefes de Estado participantes na Reunião Informal do Grupo de Arraiolos
+",	Hotel Hilton Kalastajatorppa
 10 de fevereiro de 2012,13:30,"Primeira Sessão Plenária
 	Tema: “Europe’s strenghts and interests in the global context”",""
 10 de fevereiro de 2012,16:15,"Segunda Sessão Plenária
 	Tema: “Tolerance and Combating Discrimination”",""
-10 de fevereiro de 2012,19:30,"Jantar oferecido pela Presidente da República da Finlândia, Tarja Halonen, em honra dos Chefes de Estado","	Palácio Presidencial
-"
+10 de fevereiro de 2012,19:30,"Jantar oferecido pela Presidente da República da Finlândia, Tarja Halonen, em honra dos Chefes de Estado
+",	Palácio Presidencial
 11 de fevereiro de 2012,"","Reunião Informal de Chefes de Estado Europeus
 
 no âmbito do denominado Grupo de Arraiolos em Helsínquia, Finlândia
@@ -110,8 +117,8 @@ no âmbito do denominado Grupo de Arraiolos em Helsínquia, Finlândia
 11 de fevereiro de 2012,09:30,"Terceira Sessão Plenária
 Tema: “Europe’s Southern Neighbourhood”",""
 11 de fevereiro de 2012,11:00,Conferência de Imprensa,""
-11 de fevereiro de 2012,12:30,Almoço dos Chefes de Estado,"Navio quebra-gelo ”Sisu-Urho” e cruzeiro no Golfo da Finlândia
-"
+11 de fevereiro de 2012,12:30,"Almoço dos Chefes de Estado
+",Navio quebra-gelo ”Sisu-Urho” e cruzeiro no Golfo da Finlândia
 13 de fevereiro de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Federação Portuguesa de Futebol",""
 14 de fevereiro de 2012,15:45,"O Presidente da República recebe, em audiência, o Presidente do Parlamento Alemão, Bundestag, Prof. Norbert Lammert",""
 15 de fevereiro de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção da Câmara dos Solicitadores",""
@@ -186,8 +193,8 @@ Palácio da Cidadela, Cascais",""
 29 de fevereiro de 2012,11:00,"O Presidente da República recebe, em audiência, a Direção da União Geral de Trabalhadores (UGT)",""
 1 de março de 2012,11:30,"O Presidente da República recebe, em audiência, o Presidente da Fundação Centro Cultural de Belém, Dr. Vasco Graça Moura",""
 1 de março de 2012,19:00,"O Presidente da República preside à Sessão de Encerramento do 
-I Congresso Mundial de Empresários das Comunidades Portuguesas e Lusofonia","Hotel Ritz, Lisboa
-"
+I Congresso Mundial de Empresários das Comunidades Portuguesas e Lusofonia 
+","Hotel Ritz, Lisboa"
 2 de março de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Liga dos Bombeiros Portugueses",""
 5 de março de 2012,10:30,"O Presidente da República recebe, em audiência, o Presidente da COTEC, Eng. Carlos Moreira da Silva",""
 6 de março de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Confederação Geral dos Trabalhadores Portugueses- Intersindical Nacional (CGTP-IN)",""
@@ -212,15 +219,15 @@ I Congresso Mundial de Empresários das Comunidades Portuguesas e Lusofonia","Ho
 Inauguração e visita às instalações do Centro Escolar de Mesão Frio
 	- Intervenção do Presidente da República",""
 17 de março de 2012,"",Visita ao Concelho de Mirandela,""
-17 de março de 2012,10:30,Inauguração e visita ao Lar do Centro Social Paroquial do Romeu,"	Romeu, Mirandela
-"
-17 de março de 2012,11:15,Visita à Fábrica Topitéu (Alheiras de Mirandela),"	Zona Industrial de Mirandela
-"
-17 de março de 2012,11:50,Inauguração e visita ao Centro de Hemodiálise da Nordial,"	Avenida Olímpio Guedes de Andrade, Mirandela
-"
+17 de março de 2012,10:30,"Inauguração e visita ao Lar do Centro Social Paroquial do Romeu
+","	Romeu, Mirandela"
+17 de março de 2012,11:15,"Visita à Fábrica Topitéu (Alheiras de Mirandela)
+",	Zona Industrial de Mirandela
+17 de março de 2012,11:50,"Inauguração e visita ao Centro de Hemodiálise da Nordial
+","	Avenida Olímpio Guedes de Andrade, Mirandela"
 17 de março de 2012,12:30,"Sessão Solene de Boas Vindas
-	- Intervenção do Presidente da República","	Auditório Municipal de Mirandela 
-"
+	- Intervenção do Presidente da República
+",	Auditório Municipal de Mirandela 
 17 de março de 2012,"",Visita ao Concelho de Alijó,""
 17 de março de 2012,15:30,"Sessão Solene de Boas Vindas
 	-Intervenção do Presidente da República
@@ -242,23 +249,23 @@ Visita ao Espaço Miguel Torga","	Auditório Municipal de Sabrosa
 26 de março de 2012,"","Visita Oficial a Portugal do Presidente da República da Sérvia
 
 26 e 27 de março de 2012",""
-26 de março de 2012,11:00,Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões,"Mosteiro dos Jerónimos
-"
+26 de março de 2012,11:00,"Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões
+",Mosteiro dos Jerónimos
 26 de março de 2012,11:55,"Chegada do Presidente da República da Sérvia, Boris Tadic, ao Palácio de Belém
 - Fotografia Oficial
 - Assinatura do Livro de Honra",""
 26 de março de 2012,12:00,"Encontro do Presidente da República com o Presidente da República da Sérvia, Boris Tadic",""
-26 de março de 2012,12:35,Declarações dos Chefes de Estado à Comunicação Social,"Sala das Bicas
-"
-26 de março de 2012,13:00,"Almoço oferecido pelo Presidente da República Portuguesa e Dra. Maria Cavaco Silva ao Presidente da República da Sérvia, Boris Tadic","Sala de Jantar, Palácio de Belém
-"
-26 de março de 2012,20:15,"Banquete oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva em honra do Presidente da República da Sérvia, Boris Tadic","Palácio da Cidadela, Cascais
-"
+26 de março de 2012,12:35,"Declarações dos Chefes de Estado à Comunicação Social
+",Sala das Bicas
+26 de março de 2012,13:00,"Almoço oferecido pelo Presidente da República Portuguesa e Dra. Maria Cavaco Silva ao Presidente da República da Sérvia, Boris Tadic
+","Sala de Jantar, Palácio de Belém"
+26 de março de 2012,20:15,"Banquete oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva em honra do Presidente da República da Sérvia, Boris Tadic
+","Palácio da Cidadela, Cascais"
 27 de março de 2012,"","Visita Oficial a Portugal do Presidente da República da Sérvia
 
 26 e 27 de março de 2012",""
-27 de março de 2012,10:55,O Presidente da República preside à XVII Cerimónia de Entrega dos Prémios Norte-Sul do Conselho da Europa ao Presidente da República da Sérvia Boris Tadic e à jornalista e ativista dos direitos humanos tunisina Souhayr Belhassen.,"Sala do Senado, Assembleia da República
-"
+27 de março de 2012,10:55,"O Presidente da República preside à XVII Cerimónia de Entrega dos Prémios Norte-Sul do Conselho da Europa ao Presidente da República da Sérvia Boris Tadic e à jornalista e ativista dos direitos humanos tunisina Souhayr Belhassen.
+","Sala do Senado, Assembleia da República"
 29 de março de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Liga Portuguesa de Futebol Profissional",""
 29 de março de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 30 de março de 2012,17:00,"O Presidente da República recebe um grupo de 24 jovens estudantes japoneses oriundos da zona de Soma-Fukushima, no nordeste do Japão, atingida pelo terramoto e pelo tsunami que lhe sucedeu, em Março de 2011, que se encontra de visita a Portugal, no âmbito de uma iniciativa de intercâmbio educativo e cultural.
@@ -267,13 +274,14 @@ Acompanhados por professores e representantes de ONGs japonesas, os jovens estud
 2 de abril de 2012,12:40,O Presidente da República oferece um almoço em honra dos Deputados Portugueses eleitos para o Parlamento Europeu,""
 3 de abril de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Ordem dos Enfermeiros",""
 3 de abril de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção do Conselho Nacional da Juventude",""
-3 de abril de 2012,21:30,O Presidente da República assiste à ante-estreia do Filme “Tabu” do realizador Miguel Gomes,"	Cinemateca Portuguesa/Museu do Cinema, Lisboa
-"
+3 de abril de 2012,21:30,"O Presidente da República assiste à ante-estreia do Filme “Tabu” do realizador Miguel Gomes
+	
+","	Cinemateca Portuguesa/Museu do Cinema, Lisboa"
 4 de abril de 2012,11:30,"O Presidente da República recebe, em audiência, a Junta Metropolitana de Lisboa",""
 4 de abril de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 9 de abril de 2012,17:00,"O Presidente da República confere o título de Membro Honorário da Ordem de Mérito à Rádio Renascença, por ocasião do seu 75º aniversário",""
-10 de abril de 2012,12:00,"O Presidente da República inaugura as novas instalações da Microsoft Portugal, proferindo uma intervenção","Rua Fogo de Santelmo, Parque das Nações, Lisboa
-"
+10 de abril de 2012,12:00,"O Presidente da República inaugura as novas instalações da Microsoft Portugal, proferindo uma intervenção
+","Rua Fogo de Santelmo, Parque das Nações, Lisboa"
 10 de abril de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção da Sociedade Histórica da Independência de Portugal",""
 11 de abril de 2012,"","Visita Oficial a Portugal do Presidente Federal da República da Áustria e Senhora Margit Fischer
 
@@ -285,8 +293,8 @@ Acompanhados por professores e representantes de ONGs japonesas, os jovens estud
 	- Assinatura do Livro de Honra",""
 11 de abril de 2012,12:45,"Encontro do Presidente da República e Dra. Maria Cavaco Silva com o Presidente Federal da República da Áustria, Dr. Heinz Fischer e Senhora Margit Fischer",""
 11 de abril de 2012,12:50,"Encontro do Presidente da República com o Presidente Federal da República da Áustria, Dr. Heinz Fischer",""
-11 de abril de 2012,13:30,Declarações à imprensa dos dois Chefes de Estado,"	Sala das Bicas
-"
+11 de abril de 2012,13:30,"Declarações à imprensa dos dois Chefes de Estado
+",	Sala das Bicas
 11 de abril de 2012,13:50,"Almoço oferecido pelo Presidente da República e Dra. Maria Cavaco Silva em honra do Presidente Federal da República da Áustria, Dr. Heinz Fischer e Senhora Margit Fischer",""
 11 de abril de 2012,19:50,"Receção e Jantar oferecidos pelo Presidente da República e Dra. Maria Cavaco Silva, em honra do Presidente Federal da República da Áustria, Dr. Heinz Fischer e Senhora Margit Fischer	
  
@@ -294,32 +302,32 @@ Acompanhados por professores e representantes de ONGs japonesas, os jovens estud
 - Discurso do Presidente da República Federal da Áustria","		Palácio Nacional da Ajuda
 "
 12 de abril de 2012,17:15,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-12 de abril de 2012,19:30,O Presidente da República inaugura a Pousada de Cascais,"Cidadela, Cascais
-"
+12 de abril de 2012,19:30,"O Presidente da República inaugura a Pousada de Cascais 
+","Cidadela, Cascais"
 13 de abril de 2012,"",Visita Oficial a Portugal do Presidente Federal da República da Áustria e Senhora Margit Fischer,""
 13 de abril de 2012,10:05,"O Presidente da República e a Dra. Maria Cavaco Silva acompanham o Presidente Federal da República da Áustria e a Senhora Margit Fischer numa visita ao Palácio Nacional de Mafra 
 		
 		- Visita à biblioteca
 	- Interpretação musical a seis órgãos na Basílica",""
-13 de abril de 2012,12:30,O Presidente da República e a Dra. Maria Cavaco Silva oferecem um almoço em honra do Presidente Federal da República da Áustria e da Senhora Margit Fischer,"	Restaurante do Hotel Fortaleza do Guincho
-"
+13 de abril de 2012,12:30,"O Presidente da República e a Dra. Maria Cavaco Silva oferecem um almoço em honra do Presidente Federal da República da Áustria e da Senhora Margit Fischer
+",	Restaurante do Hotel Fortaleza do Guincho
 16 de abril de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Associação Nacional das Farmácias",""
 18 de abril de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Confederação dos Agricultores de Portugal - CAP",""
 19 de abril de 2012,"",Visita de Estado a Portugal do Presidente da República da Polónia,""
-19 de abril de 2012,10:45,Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões,"Mosteiro dos Jerónimos
-"
+19 de abril de 2012,10:45,"Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões
+",Mosteiro dos Jerónimos
 19 de abril de 2012,11:30,"Chegada do Presidente da República da Polónia, Bronislaw Komorowski, e da Senhora Anna Komorowska ao Palácio de Belém
 - Honras Militares
 - Hinos Nacionais
 - Fotografia Oficial
-- Assinatura do Livro de Honra","   Sala das Bicas
-"
+- Assinatura do Livro de Honra
+",   Sala das Bicas
 19 de abril de 2012,11:45,Encontro do Presidente da República e Dra. Maria Cavaco Silva com o Presidente da República da Polónia e Senhora Anna Komorowska,""
 19 de abril de 2012,11:50,Encontro do Presidente da República com o Presidente da República da Polónia,""
-19 de abril de 2012,12:45,Declarações dos Chefes de Estado à Comunicação Social,"Sala das Bicas
-"
-19 de abril de 2012,13:15,Almoço oferecido pelo Presidente da República Portuguesa e Dra. Maria Cavaco Silva ao Presidente da República da Polónia e Senhora Anna Komorowska,"Sala de Jantar, Palácio de Belém
-"
+19 de abril de 2012,12:45,"Declarações dos Chefes de Estado à Comunicação Social
+",Sala das Bicas
+19 de abril de 2012,13:15,"Almoço oferecido pelo Presidente da República Portuguesa e Dra. Maria Cavaco Silva ao Presidente da República da Polónia e Senhora Anna Komorowska
+","Sala de Jantar, Palácio de Belém"
 19 de abril de 2012,19:55,"Receção e jantar oferecidos pelo Presidente da República e Dra. Maria Cavaco Silva, em honra do Presidente da República da Polónia, Bronislaw Komorowski e Senhora Anna Komorowska 
 - Discurso do Presidente da República
 - Discurso do Presidente da República da Polónia","Palácio Nacional de Queluz
@@ -396,8 +404,8 @@ Acompanhados por professores e representantes de ONGs japonesas, os jovens estud
 28 de abril de 2012,"","Presidente da República preside às cerimónias comemorativas
 
 do Centenário do Sporting Clube Olhanense",""
-28 de abril de 2012,20:00,Inauguração da nova Sala de Troféus do Sporting Clube Olhanense,"		Estádio José Arcanjo, Olhão
-"
+28 de abril de 2012,20:00,"Inauguração da nova Sala de Troféus do Sporting Clube Olhanense 
+","		Estádio José Arcanjo, Olhão"
 28 de abril de 2012,20:30,"Gala Comemorativa do Centenário do Sporting Clube Olhanense
  
 - Intervenção do Presidente da Direção do Sporting Clube Olhanense
@@ -424,21 +432,21 @@ do Centenário do Sporting Clube Olhanense",""
 - Intervenção do Presidente da Comissão Europeia
 - Intervenção do Primeiro-Ministro","Palácio da Cidadela, Cascais
 "
-4 de maio de 2012,15:15,"Conferência de Imprensa, para apresentação das conclusões do Conselho para a Globalização 2012","Palácio da Cidadela, Cascais
-"
+4 de maio de 2012,15:15,"Conferência de Imprensa, para apresentação das conclusões do Conselho para a Globalização 2012 
+","Palácio da Cidadela, Cascais"
 4 de maio de 2012,15:35,Palavras de boas vindas do Presidente da República a 50 alunos de Universidades Portuguesas que irão manter um debate com os Conselheiros da COTEC Portugal,""
-7 de maio de 2012,11:00,O Presidente da República visita a Associação Protectora dos Diabéticos de Portugal,"Rua Rodrigo da Fonseca, Lisboa
-"
+7 de maio de 2012,11:00,"O Presidente da República visita a Associação Protectora dos Diabéticos de Portugal
+","Rua Rodrigo da Fonseca, Lisboa"
 9 de maio de 2012,11:00,"O Presidente da República recebe, em audiência, a Secretária Geral da Assembleia da República, a Juíza Conselheira Maria Adelina de Sá Carvalho",""
-9 de maio de 2012,17:30,"O Presidente da República preside à Sessão de Encerramento do 9º Encontro Nacional Inovação COTEC, durante a qual serão anunciados os vencedores Concurso “Valorização do Conhecimento e Fomento do Empreendedorismo 2012”, e à Assembleia-Geral da COTEC Portugal","Auditório da Culturgest, Lisboa
-"
+9 de maio de 2012,17:30,"O Presidente da República preside à Sessão de Encerramento do 9º Encontro Nacional Inovação COTEC, durante a qual serão anunciados os vencedores Concurso “Valorização do Conhecimento e Fomento do Empreendedorismo 2012”, e à Assembleia-Geral da COTEC Portugal
+","Auditório da Culturgest, Lisboa"
 10 de maio de 2012,15:00,"O Presidente da República recebe, em audiência, o Secretário-Geral do Partido Socialista, Dr. António José Seguro",""
 10 de maio de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-11 de maio de 2012,10:50,"O Presidente da República visita o Fórum do Mar, uma iniciativa conjunta da Associação Empresarial de Portugal e do Oceano XXI - Cluster do Conhecimento e Economia do Mar","Exponor, Matosinhos
-"
+11 de maio de 2012,10:50,"O Presidente da República visita o Fórum do Mar, uma iniciativa conjunta da Associação Empresarial de Portugal e do Oceano XXI - Cluster do Conhecimento e Economia do Mar
+","Exponor, Matosinhos"
 14 de maio de 2012,11:30,"O Presidente da República recebe, em audiência, uma delegação do Projeto “Limpar Portugal”",""
-14 de maio de 2012,19:00,"O Presidente da República preside à Cerimónia de Entrega do “Prémio Pessoa 2011”, por ocasião do 25º Aniversário deste galardão.","Culturgest – Caixa Geral de Depósitos, Lisboa
-"
+14 de maio de 2012,19:00,"O Presidente da República preside à Cerimónia de Entrega do “Prémio Pessoa 2011”, por ocasião do 25º Aniversário deste galardão.
+","Culturgest – Caixa Geral de Depósitos, Lisboa"
 15 de maio de 2012,11:30,"O Presidente da República recebe, em audiência, a direção da Ordem dos Advogados",""
 15 de maio de 2012,15:30,"O Presidente da República recebe, em audiência, a direção da Associação Nacional de Municípios Portugueses (ANMP)",""
 16 de maio de 2012,15:00,"O Presidente da República recebe, em audiência, o Presidente Interino e o Primeiro Ministro da Guiné-Bissau, respetivamente, Raimundo Pereira e Carlos Gomes Júnior",""
@@ -554,8 +562,8 @@ do Centenário do Sporting Clube Olhanense",""
 - Intervenção do Presidente da República",""
 28 de maio de 2012,23:30,Partida do Presidente da República e Dra. Maria Cavaco Silva com destino a Lisboa,""
 30 de maio de 2012,"",Visita Oficial a Portugal de Suas Altezas Reais os Príncipes das Astúrias,""
-30 de maio de 2012,11:10,Início da Visita Oficial a Portugal dos Príncipes das Astúrias com a deposição de uma coroa de flores no túmulo de Luís Vaz de Camões,"	Mosteiro dos Jerónimos, Lisboa
-"
+30 de maio de 2012,11:10,"Início da Visita Oficial a Portugal dos Príncipes das Astúrias com a deposição de uma coroa de flores no túmulo de Luís Vaz de Camões
+","	Mosteiro dos Jerónimos, Lisboa"
 30 de maio de 2012,11:45,"Chegada dos Príncipes das Astúrias ao Palácio de Belém
 - Honras Militares
 - Execução dos Hinos Nacionais de Espanha e Portugal
@@ -565,12 +573,12 @@ do Centenário do Sporting Clube Olhanense",""
 - Assinatura do Livro de Honra",""
 30 de maio de 2012,12:15,"Encontro do Presidente da República e Dr.ª Maria Cavaco Silva com os Príncipes das Astúrias
 - Encontro do Presidente da República com o Príncipe das Astúrias",""
-30 de maio de 2012,13:30,Almoço oferecido pelo Presidente da República e Dra. Maria Cavaco Silva aos Príncipes das Astúrias,"Palácio de Belém
-"
+30 de maio de 2012,13:30,"Almoço oferecido pelo Presidente da República e Dra. Maria Cavaco Silva aos Príncipes das Astúrias
+",Palácio de Belém
 31 de maio de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 31 de maio de 2012,"",Visita Oficial a Portugal de Suas Altezas Reais os Príncipes das Astúrias,""
-31 de maio de 2012,19:45,"Banquete oferecido pelo Presidente da República e Dra. Maria Cavaco Silva, em honra de Suas Altezas Reais os Príncipes das Astúrias","	Sala do Trono, Palácio Nacional de Queluz 	
-"
+31 de maio de 2012,19:45,"Banquete oferecido pelo Presidente da República e Dra. Maria Cavaco Silva, em honra de Suas Altezas Reais os Príncipes das Astúrias
+","	Sala do Trono, Palácio Nacional de Queluz "
 1 de junho de 2012,"",Visita Oficial a Portugal de Suas Altezas Reais os Príncipes das Astúrias,""
 1 de junho de 2012,18:30,"O Presidente da República e a Dra. Maria Cavaco Silva assistem à Cerimónia de Entrega dos Prémios Europa Nostra 2012
  
@@ -589,34 +597,34 @@ do Centenário do Sporting Clube Olhanense",""
 4 de junho de 2012,15:00,"O Presidente da República recebe, em audiência, a Seleção Nacional de Futebol, antes da partida para o EURO 2012",""
 5 de junho de 2012,12:00,"O Presidente da República recebe, em audiência, o Vice-Presidente da Conferência Consultiva Política do Povo Chinês e Ex-Chefe do Executivo da Região Administrativa Especial de Macau, Dr. Edmund Ho",""
 5 de junho de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção da Câmara de Comércio e Indústria Portugal - Angola",""
-6 de junho de 2012,10:30,O Presidente da República preside à inauguração do MedSim– Centro de Treino Avançado para Equipas Médicas,"	Auditório Egas Moniz da Faculdade de Medicina da Universidade de Lisboa, Hospital de Santa Maria, Lisboa 
-"
-6 de junho de 2012,15:00,O Presidente da República preside à Cerimónia de Entrega do Prémio Empreendedorismo Inovador na Diáspora Portuguesa,"Palácio da Cidadela, Cascais
-"
+6 de junho de 2012,10:30,"O Presidente da República preside à inauguração do MedSim– Centro de Treino Avançado para Equipas Médicas 
+","	Auditório Egas Moniz da Faculdade de Medicina da Universidade de Lisboa, Hospital de Santa Maria, Lisboa"
+6 de junho de 2012,15:00,"O Presidente da República preside à Cerimónia de Entrega do Prémio Empreendedorismo Inovador na Diáspora Portuguesa
+","Palácio da Cidadela, Cascais"
 6 de junho de 2012,18:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 9 de junho de 2012,"","Programa Oficial das Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas 9 e 10 de Junho de 2012",""
-9 de junho de 2012,10:00,Deposição de coroa de flores no túmulo de Luís de Camões,"	Mosteiro dos Jerónimos, Lisboa
-"
-9 de junho de 2012,10:45,Cerimónia Militar do Içar da Bandeira e Guarda de Honra Militar,"Praça do Comércio, Lisboa
-"
+9 de junho de 2012,10:00,"Deposição de coroa de flores no túmulo de Luís de Camões
+","	Mosteiro dos Jerónimos, Lisboa"
+9 de junho de 2012,10:45,"Cerimónia Militar do Içar da Bandeira e Guarda de Honra Militar
+","Praça do Comércio, Lisboa"
 9 de junho de 2012,11:00,"Sessão Solene de Boas Vindas da Câmara Municipal de Lisboa
 - Alocução do Presidente da Câmara Municipal de Lisboa
 - Alocução do Presidente da República","	Pátio da Galé
 "
 9 de junho de 2012,11:30,"Inauguração da exposição “O Fado e o Cinema”
-Descerramento de placa de homenagem da Câmara Municipal de Lisboa","	Paços do Concelho
-"
-9 de junho de 2012,12:35,Gravação da Mensagem do Presidente da República dirigida às Comunidades Portuguesas,"	Fundação Champalimaud
-"
-9 de junho de 2012,13:00,Almoço em honra de personalidades que se distinguiram em Portugal e no Estrangeiro no âmbito das suas atividades profissionais,"	Fundação Champalimaud
-"
+Descerramento de placa de homenagem da Câmara Municipal de Lisboa
+",	Paços do Concelho
+9 de junho de 2012,12:35,"Gravação da Mensagem do Presidente da República dirigida às Comunidades Portuguesas
+",	Fundação Champalimaud
+9 de junho de 2012,13:00,"Almoço em honra de personalidades que se distinguiram em Portugal e no Estrangeiro no âmbito das suas atividades profissionais
+",	Fundação Champalimaud
 9 de junho de 2012,17:00,"Visita ao Bairro da Mouraria
 	Local de início: Largo do Martim Moniz",""
-9 de junho de 2012,18:00,"Receção oferecida pelo Presidente da Câmara Municipal de Lisboa, por ocasião do Dia de Portugal, de Camões e das Comunidades Portuguesas","	Miradouro do Chão de Loureiro
-"
+9 de junho de 2012,18:00,"Receção oferecida pelo Presidente da Câmara Municipal de Lisboa, por ocasião do Dia de Portugal, de Camões e das Comunidades Portuguesas
+",	Miradouro do Chão de Loureiro
 10 de junho de 2012,"","Programa Oficial das Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas 9 e 10 de Junho de 2012",""
-10 de junho de 2012,09:45,Homenagem aos Militares Mortos,"	Monumento aos Combatentes, Forte do Bom Sucesso
-"
+10 de junho de 2012,09:45,"Homenagem aos Militares Mortos
+","	Monumento aos Combatentes, Forte do Bom Sucesso"
 10 de junho de 2012,10:00,"Cerimónia Militar comemorativa do Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Alocução do Presidente da República","	Praça do Império
 "
@@ -625,15 +633,15 @@ Descerramento de placa de homenagem da Câmara Municipal de Lisboa","	Paços do 
 - Alocução do Presidente da República
 - Imposição de insígnias","	Grande Auditório do Centro Cultural de Belém
 "
-10 de junho de 2012,13:00,Cerimónia de largada da etapa de Lisboa da Regata Volvo Ocean Race,"	Doca de Pedrouços
-"
-10 de junho de 2012,19:00,Sessão de Apresentação de Cumprimentos do Corpo Diplomático,"	Palácio de Belém
-"
-10 de junho de 2012,20:30,"Jantar oferecido pelo Presidente da República, por ocasião das Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas","	Jardim da Cascata, Palácio de Belém
-"
+10 de junho de 2012,13:00,"Cerimónia de largada da etapa de Lisboa da Regata Volvo Ocean Race
+",	Doca de Pedrouços
+10 de junho de 2012,19:00,"Sessão de Apresentação de Cumprimentos do Corpo Diplomático
+",	Palácio de Belém
+10 de junho de 2012,20:30,"Jantar oferecido pelo Presidente da República, por ocasião das Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
+","	Jardim da Cascata, Palácio de Belém"
 11 de junho de 2012,"","Visita de Estado a Portugal do Presidente da República de Cabo Verde, Jorge Carlos Fonseca, e da Dra. Lígia Fonseca",""
-11 de junho de 2012,10:00,Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões,"Mosteiro dos Jerónimos, Lisboa
-"
+11 de junho de 2012,10:00,"Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões
+","Mosteiro dos Jerónimos, Lisboa"
 11 de junho de 2012,11:20,"Chegada do Presidente da República de Cabo Verde e Dra. Lígia Fonseca ao Palácio de Belém
 
 - Honras Militares
@@ -651,8 +659,8 @@ Descerramento de placa de homenagem da Câmara Municipal de Lisboa","	Paços do 
 14 de junho de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 15 de junho de 2012,10:30,"O Presidente da República recebe, em audiência, o Presidente da Fundação para a Análise e Estudos Sociais de Espanha e ex-Presidente do Governo espanhol, José Maria Aznar",""
 15 de junho de 2012,11:30,"O Presidente da República recebe, em audiência, o ator Ruy de Carvalho, que lhe fará entrega do seu mais recente livro, “Os anjos não têm asas”",""
-15 de junho de 2012,20:00,"O Presidente da República participa na Cerimónia de Homenagem ao Dr. Vasco Graça Moura, proferindo uma intervenção.","	Fundação Cupertino de Miranda, Porto
-"
+15 de junho de 2012,20:00,"O Presidente da República participa na Cerimónia de Homenagem ao Dr. Vasco Graça Moura, proferindo uma intervenção.
+","	Fundação Cupertino de Miranda, Porto"
 16 de junho de 2012,"",Visita ao Concelho da Póvoa de Varzim,""
 16 de junho de 2012,11:55,"Chegada do Presidente da República e da Dra. Maria Cavaco Silva à Praia de Aguçadoura
 - visita ao miradouro sobre a duna para observação de torre eólica flutuante
@@ -664,8 +672,8 @@ Descerramento de placa de homenagem da Câmara Municipal de Lisboa","	Paços do 
 	- Intervenção do Presidente da República",""
 16 de junho de 2012,"",Celebrações do Dia da Cidade da Póvoa de Varzim,""
 16 de junho de 2012,15:30,Inauguração e visita ao Auditório Musical da Póvoa de Varzim,""
-16 de junho de 2012,16:00,Receção nos Paços do Concelho,"		Câmara Municipal da Póvoa do Varzim
-"
+16 de junho de 2012,16:00,"Receção nos Paços do Concelho 
+",		Câmara Municipal da Póvoa do Varzim
 16 de junho de 2012,16:30,"Sessão Solene comemorativa do Dia da Cidade
 - Atribuição da Medalha da Cidade a HORPOZIM - Associação de Horticultura da Póvoa de Varzim pelo seu 25° aniversário
 - Atribuição da Medalha da Cidade aos Leões da Lapa Futebol Clube
@@ -699,8 +707,8 @@ Intervenções:
 27 de junho de 2012,11:30,"O Presidente da República recebe, em audiência, os responsáveis da equipa impulsionadora do projeto Portugal Economy Probe, que reúne numerosas instituições e empresas e pretende promover uma imagem mais correta do país nos mercados internacionais e nos círculos de decisão mundial",""
 27 de junho de 2012,17:30,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 28 de junho de 2012,11:15,"O Presidente da República recebe, em audiência, a Seleção Nacional Feminina de Futebol Sub-19, antes da sua partida para o Campeonato da Europa 2012",""
-29 de junho de 2012,10:30,"O Presidente da República preside, no Centro de Tropas Comandos, à cerimónia comemorativa do 50º Aniversário dos Comandos, durante a qual agraciará um batalhão e quatro companhias de Comandos","	CTC – Serra da Carregueira (EN 250), Sintra  
-"
+29 de junho de 2012,10:30,"O Presidente da República preside, no Centro de Tropas Comandos, à cerimónia comemorativa do 50º Aniversário dos Comandos, durante a qual agraciará um batalhão e quatro companhias de Comandos
+","	CTC – Serra da Carregueira (EN 250), Sintra"
 2 de julho de 2012,12:00,"O Presidente da República recebe, em audiência, a Direção da Associação Lisbonense de Proprietários",""
 3 de julho de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Associação Sindical dos Juízes Portugueses",""
 3 de julho de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção da APORVELA, por ocasião da próxima Regata dos Grandes Veleiros - Lisboa 2012",""
@@ -709,8 +717,8 @@ Intervenções:
 5 de julho de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 6 de julho de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção do Sindicato dos Magistrados do Ministério Público",""
 6 de julho de 2012,16:00,"O Presidente da República recebe, em audiência, os subscritores do Manifesto “Energia para Portugal - por uma nova política energética”",""
-6 de julho de 2012,19:00,O Presidente da República preside à Inauguração do Parque de Escultura Contemporânea Almourol,"Vila Nova da Barquinha
-"
+6 de julho de 2012,19:00,"O Presidente da República preside à Inauguração do Parque de Escultura Contemporânea Almourol
+",Vila Nova da Barquinha
 9 de julho de 2012,10:00,"O Presidente da República recebe, em audiência, a Delegação responsável pelo Projeto “Duets”- Art on Chairs no âmbito do qual, será apresentada a Cadeira do Presidente pelo Designer Paulo Lobo",""
 10 de julho de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Fundação Arpad Szenes – Vieira da Silva",""
 10 de julho de 2012,16:00,"O Presidente da República recebe, em audiência, o Presidente da Generalitat da Catalunha, Artur Mas",""
@@ -729,27 +737,27 @@ Intervenções:
 16 de julho de 2012,15:00,Partido Social Democrata (PSD),""
 16 de julho de 2012,15:45,Partido Socialista (PS),""
 18 de julho de 2012,"","Deslocação do Presidente da República à República de Moçambique, por ocasião da IX Conferência de Chefes de Estado e de Governo da CPLP",""
-18 de julho de 2012,16:30,O Presidente da República realiza um Encontro com Empresários Portugueses,"Hotel Polana, Sala Bazaruto, Maputo
-"
-18 de julho de 2012,18:30,O Presidente da República oferece uma Receção em honra da Comunidade Portuguesa,"Hotel Indy, Sala Imbomdeiro, Maputo
-"
+18 de julho de 2012,16:30,"O Presidente da República realiza um Encontro com Empresários Portugueses
+","Hotel Polana, Sala Bazaruto, Maputo"
+18 de julho de 2012,18:30,"O Presidente da República oferece uma Receção em honra da Comunidade Portuguesa
+","Hotel Indy, Sala Imbomdeiro, Maputo"
 19 de julho de 2012,"","Deslocação do Presidente da República à República de Moçambique, por ocasião da IX Conferência de Chefes de Estado e de Governo da CPLP",""
 19 de julho de 2012,11:30,"O Presidente da República encontra-se, em Maputo, com o seu homólogo moçambicano, Armando Guebuza",""
-19 de julho de 2012,16:30,O Presidente da República procede à entrega simbólica de obras ao Fundo Bibliográfico de Língua Portuguesa,"	Centro Cultural da Embaixada de Portugal
-"
+19 de julho de 2012,16:30,"O Presidente da República procede à entrega simbólica de obras ao Fundo Bibliográfico de Língua Portuguesa
+",	Centro Cultural da Embaixada de Portugal
 19 de julho de 2012,19:00,"O Presidente da República, Aníbal Cavaco Silva participa no jantar inaugural da IX Cimeira dos Chefes de Estado e de Governo da CPLP",""
 20 de julho de 2012,"",IX Conferência de Chefes de Estado e de Governo da CPLP,""
-20 de julho de 2012,09:30,Sessão Solene de Abertura da Cimeira da CPLP,"Centro Internacional de Conferências Joaquim Chissano, Maputo
-"
+20 de julho de 2012,09:30,"Sessão Solene de Abertura da Cimeira da CPLP 
+","Centro Internacional de Conferências Joaquim Chissano, Maputo"
 20 de julho de 2012,11:45,Debate Temático: “A CPLP e os Desafios da Segurança Alimentar e Nutricional”,""
 20 de julho de 2012,13:00,Almoço oferecido pela Presidência moçambicana da CPLP,""
 20 de julho de 2012,14:45,Sessão operativa,""
 20 de julho de 2012,15:50,Debate político geral,""
 20 de julho de 2012,18:00,Conferência de Imprensa,""
-21 de julho de 2012,17:00,Encontro com empresários e quadros portugueses na África do Sul,"		Hotel Sheraton, Sala Jacarandá II, Pretória
-"
-21 de julho de 2012,18:00,Receção em honra da Comunidade Portuguesa na África do Sul,"		Residência da Embaixada de Portugal, Pretória
-"
+21 de julho de 2012,17:00,"Encontro com empresários e quadros portugueses na África do Sul
+","		Hotel Sheraton, Sala Jacarandá II, Pretória"
+21 de julho de 2012,18:00,"Receção em honra da Comunidade Portuguesa na África do Sul
+","		Residência da Embaixada de Portugal, Pretória"
 23 de julho de 2012,12:00,"O Presidente da República recebe, em audiência, uma delegação da organização The Indus Entrepreneurs (TiE), um grupo de investidores da diáspora indiana vocacionado para fomentar o empreendedorismo nas áreas das ciências, banca, engenharia e novas tecnologias, que se encontra em Portugal para o seu encontro anual.",""
 23 de julho de 2012,12:45,"O Presidente da República recebe a Presidente e os Vice-Presidentes da Assembleia da República, bem como os líderes dos Grupos Parlamentares, por ocasião do final da Sessão Legislativa, oferecendo-lhes seguidamente um almoço",""
 23 de julho de 2012,16:30,"O Presidente da República recebe, em audiência, o Presidente da Câmara Municipal de Lisboa, Dr. António Costa",""
@@ -757,8 +765,8 @@ Intervenções:
 24 de julho de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Confederação do Comércio e Serviços de Portugal (CCP)",""
 24 de julho de 2012,15:30,"O Presidente da República recebe, em audiência, a Secretária-Geral da Confederação Europeia de Sindicatos, Bernardette Ségol, acompanhada pelos representantes da UGT e da CGTP-IN",""
 25 de julho de 2012,"","Visita de Estado a Portugal do Presidente da República Democrática de São Tomé e Príncipe, Manuel Pinto da Costa",""
-25 de julho de 2012,10:35,"Início da Visita de Estado a Portugal do Presidente da República Democrática de São Tomé e Príncipe, Manuel Pinto da Costa, com a deposição de uma coroa de flores no túmulo de Luís Vaz de Camões","		Mosteiro dos Jerónimos, Lisboa
-"
+25 de julho de 2012,10:35,"Início da Visita de Estado a Portugal do Presidente da República Democrática de São Tomé e Príncipe, Manuel Pinto da Costa, com a deposição de uma coroa de flores no túmulo de Luís Vaz de Camões
+","		Mosteiro dos Jerónimos, Lisboa"
 25 de julho de 2012,11:20,"Chegada do Presidente da República Democrática de São Tomé e Príncipe, Manuel Pinto da Costa,  ao Palácio de Belém
 - Honras Militares
 - Execução dos Hinos Nacionais de São Tomé e Príncipe e Portugal
@@ -767,8 +775,8 @@ Intervenções:
 - Fotografia Oficial
 - Assinatura do Livro de Honra",""
 25 de julho de 2012,11:30,Encontro do Presidente da República com o Presidente da República Democrática de São Tomé e Príncipe,""
-25 de julho de 2012,12:15,Declarações à Imprensa dos dois Chefes de Estado,"		Sala das Bicas
-"
+25 de julho de 2012,12:15,"Declarações à Imprensa dos dois Chefes de Estado
+",		Sala das Bicas
 25 de julho de 2012,20:00,"Jantar oferecido pelo Presidente da República e Dra. Maria Cavaco Silva em honra do Presidente da República Democrática de São Tomé e Príncipe, Manuel Pinto da Costa
 - Discurso e brinde do Presidente da República Portuguesa
 - Discurso e brinde do Presidente da República Democrática de São Tomé e Príncipe","		Salão de Vidro, Palácio da Cidadela, Cascais
@@ -776,33 +784,33 @@ Intervenções:
 26 de julho de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 26 de julho de 2012,18:30,O Presidente da República preside à reunião do Conselho Superior de Defesa Nacional,""
 27 de julho de 2012,"",Participação do Presidente da República na Cerimónia de Abertura dos Jogos Olímpicos,""
-27 de julho de 2012,17:00,O Presidente da República e a Dra. Maria Cavaco Silva participam na receção oferecida pela Rainha Isabel II aos Chefes de Estado e de Governo convidados para a Cerimónia de Abertura dos Jogos Olímpicos,"Palácio de Buckingham, Londres
-"
-27 de julho de 2012,21:00,O Presidente da República assiste à Cerimónia de Abertura dos Jogos Olímpicos,"		Estádio Olímpico, Londres
-"
-28 de julho de 2012,12:00,O Presidente da República e a Dra. Maria Cavaco Silva visitam a Aldeia Olímpica e encontram-se com os atletas e técnicos portugueses e os dirigentes do Comité Olímpico Português,"		Área Internacional da Aldeia Olímpica – Village Plaza
-"
+27 de julho de 2012,17:00,"O Presidente da República e a Dra. Maria Cavaco Silva participam na receção oferecida pela Rainha Isabel II aos Chefes de Estado e de Governo convidados para a Cerimónia de Abertura dos Jogos Olímpicos
+","Palácio de Buckingham, Londres"
+27 de julho de 2012,21:00,"O Presidente da República assiste à Cerimónia de Abertura dos Jogos Olímpicos
+","		Estádio Olímpico, Londres"
+28 de julho de 2012,12:00,"O Presidente da República e a Dra. Maria Cavaco Silva visitam a Aldeia Olímpica e encontram-se com os atletas e técnicos portugueses e os dirigentes do Comité Olímpico Português
+",		Área Internacional da Aldeia Olímpica – Village Plaza
 30 de julho de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da União Geral de Trabalhadores (UGT)",""
 30 de julho de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção da Confederação Geral dos Trabalhadores Portugueses (CGTP-IN)",""
-1 de setembro de 2012,09:00,"O Presidente da República assiste ao início do 6º Torneio de Golfe “Taça Portugal Solidário”, cujos fundos angariados revertem em benefício do Serviço de Cardiologia do Hospital de Santa Cruz","Clubhouse do Campo de Golfe Oceânico Victoria, Vilamoura
-"
-1 de setembro de 2012,20:00,"O Presidente da República participa no jantar da 6º Torneio de Golfe “Taça Portugal Solidário”, durante o qual será entregue a receita do Torneio ao Serviço de Cardiologia do Hospital de Santa Cruz","Hotel Tivoli Victoria, Vilamoura
-"
+1 de setembro de 2012,09:00,"O Presidente da República assiste ao início do 6º Torneio de Golfe “Taça Portugal Solidário”, cujos fundos angariados revertem em benefício do Serviço de Cardiologia do Hospital de Santa Cruz
+","Clubhouse do Campo de Golfe Oceânico Victoria, Vilamoura"
+1 de setembro de 2012,20:00,"O Presidente da República participa no jantar da 6º Torneio de Golfe “Taça Portugal Solidário”, durante o qual será entregue a receita do Torneio ao Serviço de Cardiologia do Hospital de Santa Cruz
+","Hotel Tivoli Victoria, Vilamoura"
 3 de setembro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 5 de setembro de 2012,11:30,"O Presidente da República recebe, em audiência, representantes de diversas Organizações Não Governamentais relacionadas com a área do Ambiente",""
 6 de setembro de 2012,11:00,"O Presidente da República recebe, em audiência, a Dra. Maria Portas, médica veterinária, que lhe fará entrega do seu mais recente livro, “Cavalo Garrano”",""
 6 de setembro de 2012,11:30,"O Presidente da República recebe, em audiência, uma Delegação da Confederação Portuguesa de Construção e do Imobiliário",""
-7 de setembro de 2012,10:55,O Presidente da República inaugura a empresa de Nanotecnologia – Innovnano,"Parque Tecnológico de Coimbra
-"
+7 de setembro de 2012,10:55,"O Presidente da República inaugura a empresa de Nanotecnologia – Innovnano
+",Parque Tecnológico de Coimbra
 7 de setembro de 2012,15:05,O Presidente da República inaugura  o Centro Escolar EB1 Domingos de Abreu de Vieira do Minho,""
-7 de setembro de 2012,16:20,O Presidente da República inaugura e visita o Núcleo Museológico “Casa da Lã”,"	Freguesia de Bucos, Cabeceiras de Basto
-"
-7 de setembro de 2012,17:00,O Presidente da República visita o Mosteiro de São Miguel de Refojos e o Núcleo Museológico de Arte Sacra do Baixo Tâmega,"Cabeceiras de Basto
-"
+7 de setembro de 2012,16:20,"O Presidente da República inaugura e visita o Núcleo Museológico “Casa da Lã”
+","	Freguesia de Bucos, Cabeceiras de Basto"
+7 de setembro de 2012,17:00,"O Presidente da República visita o Mosteiro de São Miguel de Refojos e o Núcleo Museológico de Arte Sacra do Baixo Tâmega
+",Cabeceiras de Basto
 13 de setembro de 2012,11:30,"O Presidente da República recebe, em audiência, o Secretário-Geral do Partido Socialista, Dr. António José Seguro",""
 13 de setembro de 2012,16:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-14 de setembro de 2012,18:30,O Presidente da República preside à cerimónia de entrega do Prémio António Champalimaud de Visão 2012,"Fundação Champalimaud, Passeio Marítimo de Pedrouços
-"
+14 de setembro de 2012,18:30,"O Presidente da República preside à cerimónia de entrega do Prémio António Champalimaud de Visão 2012
+","Fundação Champalimaud, Passeio Marítimo de Pedrouços"
 17 de setembro de 2012,"",O Presidente da República recebe as cartas credenciais de novos Embaixadores em Portugal,""
 17 de setembro de 2012,10:00,"Embaixador do México, Benito Andión Sancho",""
 17 de setembro de 2012,10:25,"Embaixador da Bélgica, Bernard Pierre",""
@@ -820,8 +828,8 @@ Embaixador de Malta, Joseph Filletti",""
 18 de setembro de 2012,11:30,"O Presidente da República condecora o Engº Domingos Simões Pereira, com a Grã-Cruz da Ordem do Infante D. Henrique, pelo trabalho desenvolvido enquanto Secretário Executivo da Comunidade dos Países de Língua Portuguesa (CPLP)",""
 20 de setembro de 2012,11:30,"O Presidente da República recebe, em audiência, o Ministro dos Assuntos Europeus da Turquia, Egemen Bağış",""
 20 de setembro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-21 de setembro de 2012,10:30,O Presidente da República inaugura e visita a fábrica da Embraer,"Parque da Indústria Aeronáutica, Évora 
-"
+21 de setembro de 2012,10:30,"O Presidente da República inaugura e visita a fábrica da Embraer
+","Parque da Indústria Aeronáutica, Évora"
 21 de setembro de 2012,17:00,O Presidente da República preside à reunião do Conselho de Estado,""
 27 de setembro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 28 de setembro de 2012,11:00,"O Presidente da República recebe, em audiência, o Prof. José Luis da Cruz Vilaça, que vai assumir funções de juiz no Tribunal de Justiça da União Europeia, sediado no Luxemburgo",""
@@ -830,25 +838,25 @@ Embaixador de Malta, Joseph Filletti",""
 1 de outubro de 2012,11:30,"O Presidente da República recebe, em audiência, os Presidentes dos órgãos sociais do Sport Lisboa e Benfica",""
 1 de outubro de 2012,12:45,"O Presidente da República recebe, em audiência, os Chefes dos Estados-Maiores das Forças Armadas, aos quais oferece seguidamente um almoço",""
 1 de outubro de 2012,16:00,"O Presidente da República confere posse ao novo juiz do Tribunal Constitucional, designado pela Assembleia da República, Professor Doutor Pedro Manuel Pena Chancerelle de Machete",""
-2 de outubro de 2012,19:00,"O Presidente da República recebe o Prémio Nueva Economia Fórum 2011, proferindo uma intervenção","		Teatro de la Zarzuela, Madrid
-"
+2 de outubro de 2012,19:00,"O Presidente da República recebe o Prémio Nueva Economia Fórum 2011, proferindo uma intervenção
+","		Teatro de la Zarzuela, Madrid"
 3 de outubro de 2012,"","VIII Encontro da COTEC Europa
 
 Madrid",""
-3 de outubro de 2012,08:00,O Presidente da República reúne-se com os empresários portugueses que participam no VIII Encontro da COTEC Europa,"Hotel Occidental Miguel Angel, Madrid
-"
-3 de outubro de 2012,12:00,"O Presidente da República participa, com o Rei D. Juan Carlos I de Espanha e o Presidente italiano, Giorgio Napolitano, na sessão de encerramento do VIII Encontro COTEC Europa, proferindo uma intervenção","Palácio Real El Pardo, Madrid
-"
-3 de outubro de 2012,13:30,"O Presidente da República participa num almoço oferecido pelo Rei de Espanha em honra dos Chefes de Estado português e italiano, por ocasião do encerramento do VIII Encontro COTEC Europa","	Palácio Real El Pardo, Madrid
-"
+3 de outubro de 2012,08:00,"O Presidente da República reúne-se com os empresários portugueses que participam no VIII Encontro da COTEC Europa
+","Hotel Occidental Miguel Angel, Madrid"
+3 de outubro de 2012,12:00,"O Presidente da República participa, com o Rei D. Juan Carlos I de Espanha e o Presidente italiano, Giorgio Napolitano, na sessão de encerramento do VIII Encontro COTEC Europa, proferindo uma intervenção
+","Palácio Real El Pardo, Madrid"
+3 de outubro de 2012,13:30,"O Presidente da República participa num almoço oferecido pelo Rei de Espanha em honra dos Chefes de Estado português e italiano, por ocasião do encerramento do VIII Encontro COTEC Europa
+","	Palácio Real El Pardo, Madrid"
 5 de outubro de 2012,"",Comemorações do 102º Aniversário da Implantação da República,""
 5 de outubro de 2012,09:45,"Cerimónia Comemorativa do 102º aniversário da Implantação da República
 
 - Honras militares 
 - Cerimónia do Hastear da Bandeira Nacional, na varanda dos Paços do Concelho, ao som do Hino Nacional, executado pela Banda da GNR","Praça do Município, Lisboa
 "
-5 de outubro de 2012,10:00,Sessão Solene com as intervenções do Presidente da Câmara Municipal de Lisboa e do Presidente da República,"Pátio da Galé, Lisboa
-"
+5 de outubro de 2012,10:00,"Sessão Solene com as intervenções do Presidente da Câmara Municipal de Lisboa e do Presidente da República
+","Pátio da Galé, Lisboa"
 8 de outubro de 2012,11:30,"O Presidente da República recebe, em audiência, o Presidente da Hitachi, Takashi Kawamura",""
 8 de outubro de 2012,15:30,"O Presidente da República recebe, em audiência, o Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros da República Checa, Karel Schwarzenberg",""
 11 de outubro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
@@ -866,8 +874,8 @@ Madrid",""
 2 de novembro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 5 de novembro de 2012,15:30,"O Presidente da República recebe, em audiência, o Presidente do Tribunal Constitucional, Juiz Conselheiro Joaquim Sousa Ribeiro, a quem dará posse enquanto membro do Conselho de Estado",""
 6 de novembro de 2012,15:30,"O Presidente da República recebe, em audiência, o Secretário-Geral do Partido Socialista, Dr. António José Seguro",""
-6 de novembro de 2012,19:30,O Presidente da República preside à cerimónia de inauguração do Hotel Myriad,"	Cais das Naus, Parque das Nações, Lisboa
-"
+6 de novembro de 2012,19:30,"O Presidente da República preside à cerimónia de inauguração do Hotel Myriad
+","	Cais das Naus, Parque das Nações, Lisboa"
 8 de novembro de 2012,10:00,"O Presidente da República recebe, em audiência, a Direção da União Geral dos Trabalhadores (UGT)",""
 8 de novembro de 2012,12:45,"O Presidente da República recebe os Embaixadores residentes dos países latino-americanos, oferecendo-lhes de seguida um almoço",""
 8 de novembro de 2012,15:30,"O Presidente da República recebe, em audiência, o Ministro da Justiça e dos Direitos Humanos de Angola, Rui Mangueira",""
@@ -879,8 +887,8 @@ Madrid",""
 14 de novembro de 2012,"","Visita de Estado a Portugal do Presidente da República 
 
 da Colômbia,  Juan Manuel Santos, e Senhora Maria Clemencia Rodriguez de Santos",""
-14 de novembro de 2012,10:30,Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões,"Mosteiro dos Jerónimos, Lisboa
-"
+14 de novembro de 2012,10:30,"Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões
+","Mosteiro dos Jerónimos, Lisboa"
 14 de novembro de 2012,11:15,"Chegada do Presidente da República da Colômbia, Juan Manuel Santos, e Senhora Maria Clemencia Rodriguez de Santos ao Palácio de Belém
 - Honras Militares
 - Hinos Nacionais
@@ -888,42 +896,42 @@ da Colômbia,  Juan Manuel Santos, e Senhora Maria Clemencia Rodriguez de Santos
 - Assinatura do Livro de Honra",""
 14 de novembro de 2012,11:30,"Encontro do Presidente da República e Dra. Maria Cavaco Silva com o Presidente da República da Colômbia, Juan Manuel Santos, e Senhora Maria Clemencia Rodriguez de Santos",""
 14 de novembro de 2012,11:40,Encontro do Presidente da República com o Presidente da República da Colômbia,""
-14 de novembro de 2012,18:30,Inauguração da Exposição de Fernando Botero “VIACRUCIS – A Paixão de Cristo”,"		Galeria D. Luis I, Palácio Nacional da Ajuda
-"
+14 de novembro de 2012,18:30,"Inauguração da Exposição de Fernando Botero “VIACRUCIS – A Paixão de Cristo”
+","		Galeria D. Luis I, Palácio Nacional da Ajuda"
 14 de novembro de 2012,20:30,"Jantar oferecido pelo Presidente da República e Dra. Maria Cavaco Silva, em honra do Presidente da República da Colômbia, Juan Manuel Santos, e Senhora Maria Clemencia Rodriguez de Santos
 - Discurso e Brinde do Presidente da República
 - Discurso e Brinde do Presidente da República da Colômbia","Palácio Nacional de Queluz, Lisboa
 "
-15 de novembro de 2012,09:25,"O Presidente da República preside à cerimónia de abertura da Conferência “Mar de Negócios”, proferindo uma intervenção","		Marina do Parque das Nações, Lisboa
-"
+15 de novembro de 2012,09:25,"O Presidente da República preside à cerimónia de abertura da Conferência “Mar de Negócios”, proferindo uma intervenção
+","		Marina do Parque das Nações, Lisboa"
 15 de novembro de 2012,12:45,"O Presidente da República recebe os Embaixadores dos Estados-Membros da União Europeia e Países do Alargamento, oferecendo-lhes de seguida um almoço",""
 15 de novembro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 16 de novembro de 2012,"","XXII Cimeira Ibero-Americana de Chefes de Estado e de Governo,
 
 Cádis, Espanha",""
-16 de novembro de 2012,18:00,"O Presidente da República, juntamente com os Chefes de Estado e de Governo ibero-americanos, visita o Oratório de São Felipe Neri","Oratório de São Felipe Neri, Cádis
-"
-16 de novembro de 2012,19:00,Ato Inaugural da XXII Cimeira Ibero-Americana de Chefes de Estado e de Governo,"		Teatro Falla, Cádis
-"
-16 de novembro de 2012,21:10,Jantar oferecido pelos Reis de Espanha aos Chefes de Estado e de Governo e Ministros dos Negócios Estrangeiros,"Parador Nacional de Cádis
-"
+16 de novembro de 2012,18:00,"O Presidente da República, juntamente com os Chefes de Estado e de Governo ibero-americanos, visita o Oratório de São Felipe Neri
+","Oratório de São Felipe Neri, Cádis"
+16 de novembro de 2012,19:00,"Ato Inaugural da XXII Cimeira Ibero-Americana de Chefes de Estado e de Governo
+","		Teatro Falla, Cádis"
+16 de novembro de 2012,21:10,"Jantar oferecido pelos Reis de Espanha aos Chefes de Estado e de Governo e Ministros dos Negócios Estrangeiros
+",Parador Nacional de Cádis
 17 de novembro de 2012,"","XXII Cimeira Ibero-Americana de Chefes de Estado e de Governo,
 
 Cádis, Espanha",""
 17 de novembro de 2012,10:00,"Primeira Sessão Plenária da XXII Cimeira Ibero-Americana de Chefes de Estado e de Governo, submetida ao tema “Uma relação renovada no Bicentenário da Constituição de Cádis”
-- Intervenção do Presidente da República","Palácio de Congressos de Cádis
-"
-17 de novembro de 2012,14:00,Almoço / Retiro dos Chefes de Estado e de Governo,"Palácio de Congressos de Cádis
-"
-17 de novembro de 2012,16:45,Segunda Sessão Plenária da XXII Cimeira Ibero-Americana de Chefes de Estado e de Governo,"		Palácio de Congressos de Cádis
-"
-17 de novembro de 2012,18:45,Conferência de Imprensa Final,"Palácio de Congressos de Cádis
-"
+- Intervenção do Presidente da República
+",Palácio de Congressos de Cádis
+17 de novembro de 2012,14:00,"Almoço / Retiro dos Chefes de Estado e de Governo
+",Palácio de Congressos de Cádis
+17 de novembro de 2012,16:45,"Segunda Sessão Plenária da XXII Cimeira Ibero-Americana de Chefes de Estado e de Governo
+",		Palácio de Congressos de Cádis
+17 de novembro de 2012,18:45,"Conferência de Imprensa Final
+",Palácio de Congressos de Cádis
 19 de novembro de 2012,"","Visita Oficial a Portugal do Presidente da República do Peru, 
 
 Ollanta Humala",""
-19 de novembro de 2012,10:45,Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões,"Mosteiro dos Jerónimos, Lisboa
-"
+19 de novembro de 2012,10:45,"Cerimónia de deposição de uma coroa de flores junto ao Túmulo de Luís Vaz de Camões
+","Mosteiro dos Jerónimos, Lisboa"
 19 de novembro de 2012,11:30,"Chegada do Presidente da República do Peru, Ollanta Humala, ao Palácio de Belém
 - Honras Militares
 - Hinos Nacionais
@@ -931,12 +939,12 @@ Ollanta Humala",""
 - Assinatura do Livro de Honra",""
 19 de novembro de 2012,12:00,Encontro do Presidente da República com o Presidente da República do  Peru,""
 19 de novembro de 2012,13:15,Almoço oferecido pelo Presidente da República em honra do Presidente da República do Peru,""
-21 de novembro de 2012,09:25,"O Presidente da República preside à Cerimónia de Abertura do 22º Congresso das Comunicações – sob o tema “Um Mar de Oportunidades” – promovido pela Associação Portuguesa para o Desenvolvimento das Comunicações (APDC), proferindo uma intervenção","		Centro de Congressos de Lisboa (à Junqueira)
-"
-21 de novembro de 2012,17:25,"O Presidente da República preside à Sessão de Encerramento do 6º Encontro Rede PME Inovação COTEC, subordinado ao tema “Acelerar o crescimento das PME”","Auditório da Culturgest, Lisboa
-"
-22 de novembro de 2012,20:20,"O Presidente da República preside à cerimónia de entrega dos Prémios Gazeta 2011, atribuídos pelo Clube de Jornalistas","Salão Nobre da Caixa Geral de Depósitos, Av. João XXI, Lisboa
-"
+21 de novembro de 2012,09:25,"O Presidente da República preside à Cerimónia de Abertura do 22º Congresso das Comunicações – sob o tema “Um Mar de Oportunidades” – promovido pela Associação Portuguesa para o Desenvolvimento das Comunicações (APDC), proferindo uma intervenção
+",		Centro de Congressos de Lisboa (à Junqueira)
+21 de novembro de 2012,17:25,"O Presidente da República preside à Sessão de Encerramento do 6º Encontro Rede PME Inovação COTEC, subordinado ao tema “Acelerar o crescimento das PME”
+","Auditório da Culturgest, Lisboa"
+22 de novembro de 2012,20:20,"O Presidente da República preside à cerimónia de entrega dos Prémios Gazeta 2011, atribuídos pelo Clube de Jornalistas
+","Salão Nobre da Caixa Geral de Depósitos, Av. João XXI, Lisboa"
 23 de novembro de 2012,15:30,"O Presidente da República recebe, em audiência, a Direção da Associação dos Empresários pela Inclusão Social (EPIS)",""
 23 de novembro de 2012,17:00,"O Presidente da República recebe, em audiência, a Direção do Conselho de Reitores das Universidades Portuguesas (CRUP)",""
 26 de novembro de 2012,11:30,"O Presidente da República recebe, em audiência, a Direção da Associação Nacional de Municípios Portugueses (ANMP).",""
@@ -944,8 +952,8 @@ Ollanta Humala",""
 29 de novembro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 30 de novembro de 2012,11:30,"O Presidente da República recebe, em audiência, o Administrador e Diretor de Operações da Nokia Siemens Networks, Samih Elhage",""
 3 de dezembro de 2012,11:30,"O Presidente da República recebe, em audiência, o Presidente da Fundação Carr, Gregory Carr, que reabilitou o Parque Nacional da Gorongosa, em Moçambique",""
-5 de dezembro de 2012,18:30,O Presidente da República preside à cerimónia de entrega do Prémio Literário Revelação Agustina Bessa-Luís e do Prémio Literário Fernando Namora,"Teatro Auditório do Casino Estoril
-"
+5 de dezembro de 2012,18:30,"O Presidente da República preside à cerimónia de entrega do Prémio Literário Revelação Agustina Bessa-Luís e do Prémio Literário Fernando Namora
+",Teatro Auditório do Casino Estoril
 6 de dezembro de 2012,10:30,"O Presidente da República recebe, em audiência, o Secretário-Geral da Organização Mundial do Turismo, Taleb Rifai, o Presidente do Conselho Mundial de Viagens e Turismo, (WTTC), David Scowsill, e outras personalidades do setor",""
 6 de dezembro de 2012,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 7 de dezembro de 2012,10:30,"O Presidente da República recebe, em audiência, o Presidente do Partido Popular Europeu e ex-Primeiro-Ministro belga, Wilfried Martens",""
@@ -954,10 +962,10 @@ Ollanta Humala",""
 13 de dezembro de 2012,11:00,"O Presidente da República recebe, em audiência, o Presidente da Autoridade Nacional Palestiniana, Mahmoud Abbas",""
 13 de dezembro de 2012,15:30,"O Presidente da República recebe, em audiência, uma delegação do Partido Comunista Português (PCP)",""
 14 de dezembro de 2012,11:00,"O Presidente da República recebe, em audiência, o Vice-Presidente da República Federativa do Brasil, Michel Temer",""
-14 de dezembro de 2012,18:30,"O Presidente da República inaugura a Exposição de Natal “E um Filho nos foi dado”, assiste à iluminação da Árvore de Natal e observa a decoração da Mesa da Consoada na Sala de Jantar","Viveiros do Jardim da Cascata e Sala das Bicas, Palácio de Belém
-"
-17 de dezembro de 2012,17:00,O Presidente da República assiste a uma apresentação dos projetos Judo Total e Judo Social e encontra-se com os atletas e formadores participantes neste programa de desporto inclusivo.,"Complexo Desportivo da Lapa, Rua Almeida Brandão, 39, Lisboa
-"
+14 de dezembro de 2012,18:30,"O Presidente da República inaugura a Exposição de Natal “E um Filho nos foi dado”, assiste à iluminação da Árvore de Natal e observa a decoração da Mesa da Consoada na Sala de Jantar
+","Viveiros do Jardim da Cascata e Sala das Bicas, Palácio de Belém"
+17 de dezembro de 2012,17:00,"O Presidente da República assiste a uma apresentação dos projetos Judo Total e Judo Social e encontra-se com os atletas e formadores participantes neste programa de desporto inclusivo.
+","Complexo Desportivo da Lapa, Rua Almeida Brandão, 39, Lisboa"
 18 de dezembro de 2012,15:30,"O Presidente da República recebe, em audiência, o Presidente da China Three Gorges, Cao Guangjing.",""
 20 de dezembro de 2012,12:30,"O Presidente da República recebe a Presidente, os Vice-Presidentes e os Líderes dos Grupos Parlamentares da Assembleia da República, que lhe apresentam cumprimentos de Boas Festas",""
 20 de dezembro de 2012,17:00,"O Presidente da República recebe o Primeiro-Ministro e os membros do Governo, que lhe apresentam cumprimentos de Boas Festas",""

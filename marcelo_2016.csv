@@ -1,10 +1,10 @@
 data,hora,evento,local
-1 de dezembro de 2016,10:00,Cerimónia Comemorativa do Dia da Restauração,"Praça dos Restauradores, Lisboa
-"
-3 de dezembro de 2016,14:00,Cerimónia de condecoração de Carlos do Carmo,"Palácio de Belém
-"
-3 de dezembro de 2016,15:00,"Visita à Casa do Tejo - Direito ao Lazer, da Associação de Paralisia Cerebral de Lisboa (APCL), assinalando o Dia Internacional da Pessoa com Deficiência","Lisboa
-"
+1 de dezembro de 2016,10:00,"Cerimónia Comemorativa do Dia da Restauração
+","Praça dos Restauradores, Lisboa"
+3 de dezembro de 2016,14:00,"Cerimónia de condecoração de Carlos do Carmo
+",Palácio de Belém
+3 de dezembro de 2016,15:00,"Visita à Casa do Tejo - Direito ao Lazer, da Associação de Paralisia Cerebral de Lisboa (APCL), assinalando o Dia Internacional da Pessoa com Deficiência
+",Lisboa
 5 de dezembro de 2016,"","PORTUGAL PRÓXIMO - Beira Interior
 
 Castelo Branco, Covilhã e Guarda",""
@@ -20,20 +20,20 @@ Castelo Branco, Covilhã e Guarda",""
 - Intervenção do Presidente da República","Edifício da Câmara Municipal da Guarda
 "
 5 de dezembro de 2016,19:00,Visita à Cidade Natal da Guarda,""
-6 de dezembro de 2016,15:30,Reunião do Conselho Superior de Defesa Nacional,"Quartel de Santo Ovídio, Porto
-"
-7 de dezembro de 2016,12:30,Sessão de Encerramento dos 40 anos da CCP - Confederação do Comércio e Serviços de Portugal,"Fundação Calouste Gulbenkian, Lisboa
-"
-7 de dezembro de 2016,15:30,Comemorações do Dia da Academia Portuguesa da História,"Palácio dos Lilases, Lisboa
-"
-8 de dezembro de 2016,12:00,Homenagem a Mário Cesariny,"Cemitério dos Prazeres, Lisboa
-"
-9 de dezembro de 2016,14:30,Visita à AutoEuropa - 25 Anos em Portugal,"AutoEuropa, Palmela
-"
+6 de dezembro de 2016,15:30,"Reunião do Conselho Superior de Defesa Nacional
+","Quartel de Santo Ovídio, Porto"
+7 de dezembro de 2016,12:30,"Sessão de Encerramento dos 40 anos da CCP - Confederação do Comércio e Serviços de Portugal
+","Fundação Calouste Gulbenkian, Lisboa"
+7 de dezembro de 2016,15:30,"Comemorações do Dia da Academia Portuguesa da História
+","Palácio dos Lilases, Lisboa"
+8 de dezembro de 2016,12:00,"Homenagem a Mário Cesariny
+","Cemitério dos Prazeres, Lisboa"
+9 de dezembro de 2016,14:30,"Visita à AutoEuropa - 25 Anos em Portugal
+","AutoEuropa, Palmela"
 10 de dezembro de 2016,12:00,"Condecoração do Almirante Luís Macieira Fragoso, ex-Chefe do Estado-Maior da Armada",""
 10 de dezembro de 2016,12:30,"Tomada de Posse do Chefe de Estado-Maior da Armada, Almirante António Silva Ribeiro",""
-10 de dezembro de 2016,17:30,Convenção 40 Anos de Poder Local Democrático,"Local: Convento São Francisco, Coimbra
-"
+10 de dezembro de 2016,17:30,"Convenção 40 Anos de Poder Local Democrático
+","Local: Convento São Francisco, Coimbra"
 12 de dezembro de 2016,"","Participação do Presidente da República na cerimónia de juramento do novo secretário-geral das Nações Unidas, António Guterres
 
 Nova Iorque, Estados Unidos da América",""
@@ -69,8 +69,8 @@ Nova Iorque, Estados Unidos da América",""
 - Encontro dos dois Chefes de Estado
 - Encontro dos dois Chefes de Estado alargado às delegações",""
 14 de dezembro de 2016,12:20,Declarações dos dois Chefes de Estado à imprensa,""
-14 de dezembro de 2016,20:00,Jantar oferecido pelo Presidente da República em honra do Presidente da República Checa,"Palácio Nacional da Ajuda
-"
+14 de dezembro de 2016,20:00,"Jantar oferecido pelo Presidente da República em honra do Presidente da República Checa
+",Palácio Nacional da Ajuda
 15 de dezembro de 2016,"","Visita de Estado a Portugal do Presidente da República Checa Milo Zeman
 
 14 e 15 de dezembro de 2016",""
@@ -81,15 +81,15 @@ Nova Iorque, Estados Unidos da América",""
 - Intervenção do Presidente da República
 - Intervenção do Presidente da República Checa","Sede da AIP – Associação Industrial Portuguesa, Lisboa
 "
-15 de dezembro de 2016,16:30,Inauguração das novas instalações do Global Media Group,"Torres de Lisboa, Rua Tomás da Fonseca, Torre E, 3.º - Lisboa
-"
+15 de dezembro de 2016,16:30,"Inauguração das novas instalações do Global Media Group
+","Torres de Lisboa, Rua Tomás da Fonseca, Torre E, 3.º - Lisboa"
 15 de dezembro de 2016,"","Visita de Estado a Portugal do Presidente da República Checa Milo Zeman
 
 14 e 15 de dezembro de 2016",""
-15 de dezembro de 2016,18:15,"Concerto, Inauguração da Exposição “Carlos IV e a Fé”e Cocktail oferecido pelo Presidente da República Checa em honra do Presidente da República","Palácio da Cidadela, Cascais
-"
-16 de dezembro de 2016,14:00,Inauguração do Serviço de Internamento da Fundação Champalimaud,"Fundação Champalimaud, Lisboa
-"
+15 de dezembro de 2016,18:15,"Concerto, Inauguração da Exposição “Carlos IV e a Fé”e Cocktail oferecido pelo Presidente da República Checa em honra do Presidente da República
+","Palácio da Cidadela, Cascais"
+16 de dezembro de 2016,14:00,"Inauguração do Serviço de Internamento da Fundação Champalimaud
+","Fundação Champalimaud, Lisboa"
 16 de dezembro de 2016,15:00,"Audiência conjunta com os Bastonários das Ordens da Saúde:
 
 - Bastonária da Ordem dos Enfermeiros, Ana Rita Pedroso Cavaco
@@ -100,45 +100,45 @@ Nova Iorque, Estados Unidos da América",""
 - Bastonária da Ordem dos Nutricionistas, Alexandra Bento
 - Bastonário da Ordem dos Psicólogos Portugueses, Telmo Mourinho
    Baptista",""
-18 de dezembro de 2016,16:30,28.ª Festa de Natal da Comunidade Vida e Paz,"Cantina da Cidade Universitária, Lisboa
-"
-19 de dezembro de 2016,11:30,Visita ao Centro de Apoio Social de Runa (CASR),"Runa, Torres Vedras
-"
-19 de dezembro de 2016,15:00,Visita à Catedral Lusitana de S. Paulo da Igreja Anglicana,"Lisboa
-"
-19 de dezembro de 2016,16:00,Visita à Sinagoga de Lisboa,"Lisboa
-"
-19 de dezembro de 2016,18:30,Ação de promoção da Agenda Solidária do Instituto Português de Oncologia (IPO) 2017,"Praça Central do Centro Comercial Colombo, Lisboa
-"
+18 de dezembro de 2016,16:30,"28.ª Festa de Natal da Comunidade Vida e Paz
+","Cantina da Cidade Universitária, Lisboa"
+19 de dezembro de 2016,11:30,"Visita ao Centro de Apoio Social de Runa (CASR)
+","Runa, Torres Vedras"
+19 de dezembro de 2016,15:00,"Visita à Catedral Lusitana de S. Paulo da Igreja Anglicana
+",Lisboa
+19 de dezembro de 2016,16:00,"Visita à Sinagoga de Lisboa
+",Lisboa
+19 de dezembro de 2016,18:30,"Ação de promoção da Agenda Solidária do Instituto Português de Oncologia (IPO) 2017
+","Praça Central do Centro Comercial Colombo, Lisboa"
 20 de dezembro de 2016,12:30,"Audiência ao Secretário-geral do Partido Comunista Português (PCP), Jerónimo de Sousa",""
 20 de dezembro de 2016,15:00,Reunião do Conselho de Estado,""
-21 de dezembro de 2016,12:00,"Inauguração da Sede da Banda dos Bombeiros Voluntários de Colares, no ano do seu 125.º aniversário","Colares
-"
-21 de dezembro de 2016,15:00,Cerimónia Militar de Entrega do Estandarte Nacional à 1.ª Força Nacional Destacada na Missão Multidimensional Integrada de Estabilização das Nações Unidas na República Centro-Africana,"Regimento de Comandos, Belas
-"
+21 de dezembro de 2016,12:00,"Inauguração da Sede da Banda dos Bombeiros Voluntários de Colares, no ano do seu 125.º aniversário
+",Colares
+21 de dezembro de 2016,15:00,"Cerimónia Militar de Entrega do Estandarte Nacional à 1.ª Força Nacional Destacada na Missão Multidimensional Integrada de Estabilização das Nações Unidas na República Centro-Africana
+","Regimento de Comandos, Belas"
 21 de dezembro de 2016,18:00,Declaração do Presidente da República sobre o Orçamento do Estado para 2017,""
 21 de dezembro de 2016,18:05,Audiência coletiva com a Confederação do Turismo Português (CTP) e empresários e associações nela representados,""
-22 de dezembro de 2016,12:00,Sessão de Encerramento do Encontro Anual do Conselho da Diáspora,"Palácio da Cidadela, Cascais
-"
+22 de dezembro de 2016,12:00,"Sessão de Encerramento do Encontro Anual do Conselho da Diáspora
+","Palácio da Cidadela, Cascais"
 22 de dezembro de 2016,15:30,"Audiência à Ministra da Justiça, Francisca Van Dunem, para apreciação anual dos processos de indulto",""
 22 de dezembro de 2016,18:00,O Primeiro-Ministro e os membros do Governo apresentam cumprimentos de Boas Festas,""
-23 de dezembro de 2016,12:30,"Cerimónia de entrega do Prémio Direitos Humanos 2016, a António Guterres","Sala do Senado, Assembleia da República
-"
-23 de dezembro de 2016,15:00,Marcelo Rebelo de Sousa apresenta cumprimentos de Boas Festas a D. Manuel Clemente,"Seminário Maior de Cristo Rei dos Olivais
-"
+23 de dezembro de 2016,12:30,"Cerimónia de entrega do Prémio Direitos Humanos 2016, a António Guterres
+","Sala do Senado, Assembleia da República"
+23 de dezembro de 2016,15:00,"Marcelo Rebelo de Sousa apresenta cumprimentos de Boas Festas a D. Manuel Clemente
+",Seminário Maior de Cristo Rei dos Olivais
 23 de dezembro de 2016,16:00,"Audiência à Presidente do CDS - Partido Popular (CDS-PP), Assunção Cristas",""
 23 de dezembro de 2016,17:00,Audiência à União das Misericórdias Portuguesas,""
-24 de dezembro de 2016,14:00,Presidente da República associa-se à campanha da Cáritas Portuguesa - 10 Milhões de Estrelas - um Gesto Pela Paz,"Palácio de Belém
-"
+24 de dezembro de 2016,14:00,"Presidente da República associa-se à campanha da Cáritas Portuguesa - 10 Milhões de Estrelas - um Gesto Pela Paz
+",Palácio de Belém
 24 de dezembro de 2016,15:30,Tradicional Ginjinha de Natal do Barreiro,""
-26 de dezembro de 2016,19:30,Festa de Natal da Re-food,"Igreja de Nossa Senhora do Rosário de Fátima, Lisboa
-"
-28 de dezembro de 2016,12:40,5.º Fórum Anual de Graduados Portugueses no Estrangeiro “Pensar Portugal em Territórios do Futuro”,"Auditório da Reitoria da Universidade de Coimbra
-"
-29 de dezembro de 2016,13:00,"Almoço com o Presidente do Partido Social Democrata, Pedro Passos Coelho","Palácio de Belém
-"
-30 de dezembro de 2016,16:00,Visita à Sociedade de Geografia de Lisboa,"Rua das Portas de Santo Antão, Lisboa
-"
+26 de dezembro de 2016,19:30,"Festa de Natal da Re-food
+","Igreja de Nossa Senhora do Rosário de Fátima, Lisboa"
+28 de dezembro de 2016,12:40,"5.º Fórum Anual de Graduados Portugueses no Estrangeiro “Pensar Portugal em Territórios do Futuro”
+",Auditório da Reitoria da Universidade de Coimbra
+29 de dezembro de 2016,13:00,"Almoço com o Presidente do Partido Social Democrata, Pedro Passos Coelho
+",Palácio de Belém
+30 de dezembro de 2016,16:00,"Visita à Sociedade de Geografia de Lisboa
+","Rua das Portas de Santo Antão, Lisboa"
 1 de novembro de 2016,"","Participação do Presidente da República na XI Conferência de Chefes de Estado e de Governo da Comunidade dos Países de Língua Portuguesa
 
 Brasília, 30 de outubro a 1 de novembro de 2016",""
@@ -152,16 +152,16 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
 8 de novembro de 2016,15:15,Visita à Residência D. Leonor por ocasião das comemorações dos 500 anos da Santa Casa da Misericórdia de Viseu,""
 8 de novembro de 2016,16:30,Visita ao Regimento de Infantaria 14 em Viseu,""
 9 de novembro de 2016,16:00,Cerimónia de Homenagem às Missões Olímpica e Paralímpica,""
-9 de novembro de 2016,18:30,Cerimónia da entrega dos Prémios Literários Fernando Namora e Agustina Bessa-Luís,"Casino do Estoril
-"
+9 de novembro de 2016,18:30,"Cerimónia da entrega dos Prémios Literários Fernando Namora e Agustina Bessa-Luís
+",Casino do Estoril
 10 de novembro de 2016,14:30,Visita ao Web Summit Lisbon 2016,""
 10 de novembro de 2016,20:00,Visita ao Lar da Santa Casa da Misericórdia do Cadaval,""
-10 de novembro de 2016,20:30,XIX Cerimónia da Pêra Rocha - Associação Nacional de Produtores de Pera Rocha (ANP),"Cadaval
-"
-11 de novembro de 2016,10:30,Cerimónia de Comemoração do 98.º Aniversário do Armistício da Grande Guerra,"Monumento aos Combatentes do Ultramar, Lisboa 
-"
-11 de novembro de 2016,15:00,Abertura Solene do Ano Letivo da Escola Naval e Encerramento das Jornadas do Mar 2016,"Escola Naval, Almada 
-"
+10 de novembro de 2016,20:30,"XIX Cerimónia da Pêra Rocha - Associação Nacional de Produtores de Pera Rocha (ANP)
+",Cadaval
+11 de novembro de 2016,10:30,"Cerimónia de Comemoração do 98.º Aniversário do Armistício da Grande Guerra
+","Monumento aos Combatentes do Ultramar, Lisboa "
+11 de novembro de 2016,15:00,"Abertura Solene do Ano Letivo da Escola Naval e Encerramento das Jornadas do Mar 2016
+","Escola Naval, Almada "
 14 de novembro de 2016,11:00,"Audiência ao Presidente do Conselho Económico e Social, Professor Doutor António Correia de Campos",""
 14 de novembro de 2016,14:00,Audiência a uma delegação da Confederação Empresarial de Portugal (CIP),""
 14 de novembro de 2016,15:00,Audiência a uma delegação da Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional (CGTP-IN),""
@@ -169,11 +169,11 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
 14 de novembro de 2016,17:00,Audiência a uma delegação da União Geral de Trabalhadores (UGT),""
 14 de novembro de 2016,18:00,Audiência a uma delegação da Confederação dos Agricultores de Portugal (CAP),""
 14 de novembro de 2016,19:00,Audiência a uma delegação da Confederação do Turismo Português (CTP),""
-15 de novembro de 2016,10:00,Sessão de Abertura do Colóquio Comemorativo do 40.º aniversário da Constituição da República Portuguesa,"Fundação Calouste Gulbenkian
-"
+15 de novembro de 2016,10:00,"Sessão de Abertura do Colóquio Comemorativo do 40.º aniversário da Constituição da República Portuguesa
+",Fundação Calouste Gulbenkian
 15 de novembro de 2016,14:00,Encontro com a Federação Portuguesa das Associações de Surdos,""
-15 de novembro de 2016,18:00,Sessão Solene do 150.º aniversário do Clube Militar Naval,"Clube Militar Naval, Lisboa
-"
+15 de novembro de 2016,18:00,"Sessão Solene do 150.º aniversário do Clube Militar Naval
+","Clube Militar Naval, Lisboa"
 16 de novembro de 2016,"","Visita do Presidente da República a Londres
 
 16 e 17 de novembro de 2016",""
@@ -186,12 +186,12 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
 16 e 17 de novembro de 2016",""
 17 de novembro de 2016,11:00,Visita ao atelier da pintora Paula Rego,""
 17 de novembro de 2016,12:30,Encontro com Sua Majestade a Rainha Isabel II no Palácio de Buckingham,""
-18 de novembro de 2016,17:30,Sessão de Encerramento do Seminário: “Lutar contra a Pobreza: a realidade e as propostas do setor social em Portugal”,"Instituto Superior de Economia e Gestão (ISEG-UTL), Lisboa
-"
-18 de novembro de 2016,19:00,"Cerimónia de Lançamento do livro “Mota Pinto, Biografia” de João Pedro George","Fundação Calouste Gulbenkian, Lisboa
-"
-18 de novembro de 2016,20:30,Cerimónia de Entrega dos Prémios Gazeta 2015,"Edifício Sede da Caixa Geral de Depósitos, Lisboa
-"
+18 de novembro de 2016,17:30,"Sessão de Encerramento do Seminário: “Lutar contra a Pobreza: a realidade e as propostas do setor social em Portugal”
+","Instituto Superior de Economia e Gestão (ISEG-UTL), Lisboa"
+18 de novembro de 2016,19:00,"Cerimónia de Lançamento do livro “Mota Pinto, Biografia” de João Pedro George
+","Fundação Calouste Gulbenkian, Lisboa"
+18 de novembro de 2016,20:30,"Cerimónia de Entrega dos Prémios Gazeta 2015
+","Edifício Sede da Caixa Geral de Depósitos, Lisboa"
 21 de novembro de 2016,"","Visita de Estado do Presidente da República Árabe do Egito, Abdel Fattah El Sisi a Portugal",""
 21 de novembro de 2016,10:45,"Cerimónia de boas-vindas ao Presidente da República Árabe do Egito
 
@@ -209,33 +209,33 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
 - Encontro dos dois Chefes de Estado
 - Encontro dos dois Chefes de Estado alargado às delegações",""
 21 de novembro de 2016,12:15,Declarações dos dois Chefes de Estado à imprensa,""
-21 de novembro de 2016,20:00,Jantar oferecido pelo Presidente da República em honra do Presidente da República Árabe do Egito,"Palácio Nacional da Ajuda
-"
-22 de novembro de 2016,12:30,Sessão de Entrega de Prémios do 13.º Encontro Nacional de Inovação COTEC,"Convento do Beato, Lisboa
-"
-22 de novembro de 2016,15:15,Sessão de Abertura da Conferência “40 Anos da Constituição República Portuguesa: O papel dos Politécnicos na Democracia Portuguesa”,"Auditório da Escola Superior de Tecnologia da Saúde de Lisboa
-"
-23 de novembro de 2016,10:00,Conferência do Jornal de Negócios “Que direção para Portugal e a Europa?”,"Grande Auditório do ISCTE-IUL, Lisboa
-"
-23 de novembro de 2016,11:30,Apresentação da Agenda Solidária IPO 2017 e visita ao serviço de Pediatria do IPO,"Instituto Português de Oncologia, Lisboa
-"
-24 de novembro de 2016,09:30,Sessão de Abertura do Congresso Internacional - Comemoração dos 50 anos do Código Civil,"Auditório da Faculdade de Direito da Universidade de Coimbra
-"
+21 de novembro de 2016,20:00,"Jantar oferecido pelo Presidente da República em honra do Presidente da República Árabe do Egito
+",Palácio Nacional da Ajuda
+22 de novembro de 2016,12:30,"Sessão de Entrega de Prémios do 13.º Encontro Nacional de Inovação COTEC
+","Convento do Beato, Lisboa"
+22 de novembro de 2016,15:15,"Sessão de Abertura da Conferência “40 Anos da Constituição República Portuguesa: O papel dos Politécnicos na Democracia Portuguesa”
+",Auditório da Escola Superior de Tecnologia da Saúde de Lisboa
+23 de novembro de 2016,10:00,"Conferência do Jornal de Negócios “Que direção para Portugal e a Europa?”
+","Grande Auditório do ISCTE-IUL, Lisboa"
+23 de novembro de 2016,11:30,"Apresentação da Agenda Solidária IPO 2017 e visita ao serviço de Pediatria do IPO
+","Instituto Português de Oncologia, Lisboa"
+24 de novembro de 2016,09:30,"Sessão de Abertura do Congresso Internacional - Comemoração dos 50 anos do Código Civil
+",Auditório da Faculdade de Direito da Universidade de Coimbra
 25 de novembro de 2016,10:30,Receção do Presidente da República à Força Nacional Destacada na Standing NATO Maritime Group 1 e visita ao N.R.P. “Álvares Cabral”,""
-25 de novembro de 2016,16:45,"Visita ao Centro Clínico Académico (2CA), uma parceira entre o Hospital de Braga e a Escola de Medicina da Universidade do Minho","Hospital de Braga
-"
-25 de novembro de 2016,18:00,Visita ao Laboratório Ibérico Internacional de Nanotecnologia (INL),"Braga
-"
-25 de novembro de 2016,21:00,I Fórum Missionário – Conferência “O que nos une a todos?”,"Auditório Vita, Braga
-"
-26 de novembro de 2016,11:00,"Visita ao Hospital da Senhora da Oliveira - Guimarães, onde se inclui uma Sessão de Homenagem ao Dr. Fernando Alberto Ribeiro da Silva","Hospital da Senhora da Oliveira - Guimarães
-"
-26 de novembro de 2016,18:00,Cerimónia de Entrega do Prémio de Mérito de Gestor Hospitalar a Eduardo Barroso,"Centro de Cultura e Congressos da Secção Regional do Norte da Ordem dos Médicos (SRN-OM), Porto
-"
-26 de novembro de 2016,20:30,Cerimónia de entrega do 18.º Prémio do Jovem Empreendedor - ANJE,"Mosteiro de São Bento da Vitória, Porto
-"
-27 de novembro de 2016,16:00,Cerimónia Portugal Solidário 2016 - Entrega do Prémio Manuel António da Mota,"Palácio da Bolsa, Porto
-"
+25 de novembro de 2016,16:45,"Visita ao Centro Clínico Académico (2CA), uma parceira entre o Hospital de Braga e a Escola de Medicina da Universidade do Minho
+",Hospital de Braga
+25 de novembro de 2016,18:00,"Visita ao Laboratório Ibérico Internacional de Nanotecnologia (INL)
+",Braga
+25 de novembro de 2016,21:00,"I Fórum Missionário – Conferência “O que nos une a todos?”
+","Auditório Vita, Braga"
+26 de novembro de 2016,11:00,"Visita ao Hospital da Senhora da Oliveira - Guimarães, onde se inclui uma Sessão de Homenagem ao Dr. Fernando Alberto Ribeiro da Silva
+",Hospital da Senhora da Oliveira - Guimarães
+26 de novembro de 2016,18:00,"Cerimónia de Entrega do Prémio de Mérito de Gestor Hospitalar a Eduardo Barroso
+","Centro de Cultura e Congressos da Secção Regional do Norte da Ordem dos Médicos (SRN-OM), Porto"
+26 de novembro de 2016,20:30,"Cerimónia de entrega do 18.º Prémio do Jovem Empreendedor - ANJE
+","Mosteiro de São Bento da Vitória, Porto"
+27 de novembro de 2016,16:00,"Cerimónia Portugal Solidário 2016 - Entrega do Prémio Manuel António da Mota
+","Palácio da Bolsa, Porto"
 28 de novembro de 2016,"","Visita de Estado a Portugal de Suas Majestades os Reis de Espanha
 
 28 a 30 de novembro de 2016",""
@@ -253,40 +253,40 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
 - Apresentação das comitivas
 - Encontro do Presidente da República com os Reis de Espanha",""
 28 de novembro de 2016,12:00,Sessão solene de boas vindas na Câmara Municipal do Porto,""
-28 de novembro de 2016,20:30,Jantar de Estado oferecido pelo Presidente da República em honra de Suas Majestades os Reis de Espanha,"Paço dos Duques de Bragança, Guimarães
-"
+28 de novembro de 2016,20:30,"Jantar de Estado oferecido pelo Presidente da República em honra de Suas Majestades os Reis de Espanha
+","Paço dos Duques de Bragança, Guimarães"
 29 de novembro de 2016,"","Visita de Estado a Portugal de Suas Majestades os Reis de Espanha
 
 28 a 30 de novembro de 2016",""
-29 de novembro de 2016,12:30,Almoço oferecido pelo Presidente da Câmara Municipal do Porto em honra de Suas Majestades os Reis de Espanha,"Palácio da Bolsa, Porto
-"
+29 de novembro de 2016,12:30,"Almoço oferecido pelo Presidente da Câmara Municipal do Porto em honra de Suas Majestades os Reis de Espanha
+","Palácio da Bolsa, Porto"
 29 de novembro de 2016,19:00,"Audiência ao Presidente do Governo Regional dos Açores, Dr. Vasco Cordeiro",""
-30 de novembro de 2016,10:00,Abertura Solene do Ano Letivo da Academia da Força Aérea,"Academia da Força Aérea, Sintra
-"
+30 de novembro de 2016,10:00,"Abertura Solene do Ano Letivo da Academia da Força Aérea
+","Academia da Força Aérea, Sintra"
 30 de novembro de 2016,"","Visita de Estado a Portugal de Suas Majestades os Reis de Espanha
 
 28 a 30 de novembro de 2016",""
 30 de novembro de 2016,16:00,Visita de Suas Majestades os Reis de Espanha à Fundação Champalimaud,""
-1 de outubro de 2016,16:15,Visita à Casa do Artista comemorando o dia mundial da Música e o dia internacional das Pessoas Idosas,"Casa do Artista, entrada pelo Teatro Armando Cortez, Estrada da Pontinha, Lisboa
-"
+1 de outubro de 2016,16:15,"Visita à Casa do Artista comemorando o dia mundial da Música e o dia internacional das Pessoas Idosas
+","Casa do Artista, entrada pelo Teatro Armando Cortez, Estrada da Pontinha, Lisboa"
 3 de outubro de 2016,12:00,"Tomada de Posse do Presidente do Tribunal de Contas, Vítor Caldeira",""
-3 de outubro de 2016,16:00,Inauguração da nova Delegação da APELA - Associação Portuguesa de Esclerose Lateral Amiotrófica no Porto,"Centro Hospitalar Conde de Ferreira, Porto
-"
+3 de outubro de 2016,16:00,"Inauguração da nova Delegação da APELA - Associação Portuguesa de Esclerose Lateral Amiotrófica no Porto
+","Centro Hospitalar Conde de Ferreira, Porto"
 4 de outubro de 2016,12:00,Audiência coletiva aos Representantes das Empresas Portuguesas participantes no Web Summit 2016 em Lisboa,""
-4 de outubro de 2016,15:00,Inauguração do Museu da Música Mecânica,"Pinhal Novo, Palmela
-"
-4 de outubro de 2016,19:00,"Inauguração do MAAT - Museu de Arte, Arquitetura e Tecnologia","Central Tejo, Lisboa
-"
-5 de outubro de 2016,11:00,Cerimónia Comemorativa do 106.º Aniversário da Implantação da República,"Praça do Município, Lisboa
-"
-5 de outubro de 2016,12:20,Visita à Sede da Liga dos Combatentes,"Lisboa
-"
-5 de outubro de 2016,15:00,Cerimónia Militar de Entrega de Espadas na Academia Militar,"Lisboa
-"
-5 de outubro de 2016,17:00,Visita à Mercearia Social – Valor Humano,"Lisboa
-"
-5 de outubro de 2016,19:00,Cerimónia de Imposição de Condecorações,"Palácio de Belém
-"
+4 de outubro de 2016,15:00,"Inauguração do Museu da Música Mecânica
+","Pinhal Novo, Palmela"
+4 de outubro de 2016,19:00,"Inauguração do MAAT - Museu de Arte, Arquitetura e Tecnologia
+","Central Tejo, Lisboa"
+5 de outubro de 2016,11:00,"Cerimónia Comemorativa do 106.º Aniversário da Implantação da República
+","Praça do Município, Lisboa"
+5 de outubro de 2016,12:20,"Visita à Sede da Liga dos Combatentes
+",Lisboa
+5 de outubro de 2016,15:00,"Cerimónia Militar de Entrega de Espadas na Academia Militar
+",Lisboa
+5 de outubro de 2016,17:00,"Visita à Mercearia Social – Valor Humano
+",Lisboa
+5 de outubro de 2016,19:00,"Cerimónia de Imposição de Condecorações
+",Palácio de Belém
 6 de outubro de 2016,"","Visita ao Corpo de Fuzileiros
 
 Escola de Fuzileiros, Barreiro",""
@@ -305,29 +305,29 @@ Escola de Fuzileiros, Barreiro",""
 - Transito para a Base Naval de Lisboa e demonstração da Capacidade de Operações Especiais com abordagem a um navio",""
 6 de outubro de 2016,14:30,Chegada à Base Naval de Lisboa e embarque no N.R.P. “Sagres”,""
 6 de outubro de 2016,15:00,Reunião do Conselho Superior de Defesa Nacional a bordo do N.R.P. “Sagres”,""
-7 de outubro de 2016,11:00,Jornadas “Nos quarenta anos da CRP/76: Impacto e evolução da Constituição”,"Faculdade de Direito da Universidade Católica Portuguesa, Porto
-"
-7 de outubro de 2016,14:00,Inauguração do Pólo Zero da Federação Académica do Porto (FAP),"Passeio dos Clérigos, Porto
-"
-7 de outubro de 2016,15:30,Visita à Faculdade de Ciências da Universidade do Porto no seu 105.º Aniversário,"Edifício FC2 da FCUP, Porto
-"
-10 de outubro de 2016,11:00,Comemoração do 10º aniversário da Bolsa do Voluntariado – Entrajuda,"Avenida de Ceuta, Lisboa
-"
-10 de outubro de 2016,16:00,Inauguração das novas instalações da União Geral de Trabalhadores (UGT),"Rua Vitorino Nemésio, Lisboa
-"
-11 de outubro de 2016,14:00,Cerimónia de encerramento da Participação da Polícia Marítima na Operação “Poseidon” da agência FRONTEX,"Museu de Marinha, Lisboa
-"
+7 de outubro de 2016,11:00,"Jornadas “Nos quarenta anos da CRP/76: Impacto e evolução da Constituição”
+","Faculdade de Direito da Universidade Católica Portuguesa, Porto"
+7 de outubro de 2016,14:00,"Inauguração do Pólo Zero da Federação Académica do Porto (FAP)
+","Passeio dos Clérigos, Porto"
+7 de outubro de 2016,15:30,"Visita à Faculdade de Ciências da Universidade do Porto no seu 105.º Aniversário
+","Edifício FC2 da FCUP, Porto"
+10 de outubro de 2016,11:00,"Comemoração do 10º aniversário da Bolsa do Voluntariado – Entrajuda
+","Avenida de Ceuta, Lisboa"
+10 de outubro de 2016,16:00,"Inauguração das novas instalações da União Geral de Trabalhadores (UGT)
+","Rua Vitorino Nemésio, Lisboa"
+11 de outubro de 2016,14:00,"Cerimónia de encerramento da Participação da Polícia Marítima na Operação “Poseidon” da agência FRONTEX
+","Museu de Marinha, Lisboa"
 12 de outubro de 2016,12:00,"Audiência ao Secretário de Estado da Santa Sé, Cardeal Pietro Parolin",""
-12 de outubro de 2016,15:30,Sessão de Abertura da Comemoração do 25.º aniversário do Conselho Económico e Social,"Fundação Calouste Gulbenkian, Lisboa
-"
-13 de outubro de 2016,14:00,Abertura Solene do Ano Letivo do Instituto dos Pupilos do Exército,"Lisboa
-"
-13 de outubro de 2016,19:15,Sessão de Encerramento do Seminário “Portugal - Uma Estratégia para o Crescimento” do Fórum para a Competitividade,"Centro Cultural de Belém, Lisboa
-"
-14 de outubro de 2016,15:00,"Visita ao Centro Helen Keller, por ocasião do Dia da Bengala Branca","Lisboa
-"
-14 de outubro de 2016,16:30,Fórum Internacional “20 Anos da Rede de Bibliotecas Escolares”,"Fundação Calouste Gulbenkian, Lisboa
-"
+12 de outubro de 2016,15:30,"Sessão de Abertura da Comemoração do 25.º aniversário do Conselho Económico e Social
+","Fundação Calouste Gulbenkian, Lisboa"
+13 de outubro de 2016,14:00,"Abertura Solene do Ano Letivo do Instituto dos Pupilos do Exército
+",Lisboa
+13 de outubro de 2016,19:15,"Sessão de Encerramento do Seminário “Portugal - Uma Estratégia para o Crescimento” do Fórum para a Competitividade
+","Centro Cultural de Belém, Lisboa"
+14 de outubro de 2016,15:00,"Visita ao Centro Helen Keller, por ocasião do Dia da Bengala Branca
+",Lisboa
+14 de outubro de 2016,16:30,"Fórum Internacional “20 Anos da Rede de Bibliotecas Escolares”
+","Fundação Calouste Gulbenkian, Lisboa"
 16 de outubro de 2016,"","Visita de Estado do Presidente da República à Suíça
 
 Genebra e Berna, 16 a 18 de outubro 2016",""
@@ -355,24 +355,24 @@ Genebra e Berna, 16 a 18 de outubro 2016",""
 19 de outubro de 2016,11:50,"Embaixador da Noruega, Anders Erdal",""
 19 de outubro de 2016,12:15,"Embaixador do Brasil, Luiz Alberto Figueiredo Machado",""
 19 de outubro de 2016,12:40,"Embaixadora da Finlândia, Senhora Tarja Laitiainen",""
-19 de outubro de 2016,17:00,Sessão de Encerramento do Fórum “Um novo futuro” – Braga’16 Capital Ibero-Americana da Juventude,"Salão Medieval da Reitoria da Universidade do Minho, Braga
-"
-19 de outubro de 2016,18:00,"“Meeting Juventude” com a participação de Universitários, Empreendedores e Cientistas de Braga","BlackBox do Edifício GNRation, Braga
-"
+19 de outubro de 2016,17:00,"Sessão de Encerramento do Fórum “Um novo futuro” – Braga’16 Capital Ibero-Americana da Juventude
+","Salão Medieval da Reitoria da Universidade do Minho, Braga"
+19 de outubro de 2016,18:00,"“Meeting Juventude” com a participação de Universitários, Empreendedores e Cientistas de Braga
+","BlackBox do Edifício GNRation, Braga"
 20 de outubro de 2016,"","Presidente da República recebe, em audiência, os partidos com assento parlamentar",""
 20 de outubro de 2016,14:00,Pessoas-Animais-Natureza (PAN),""
 20 de outubro de 2016,15:00,Partido Ecologista “Os Verdes” (PEV),""
 20 de outubro de 2016,16:00,Partido Comunista Português (PCP),""
 20 de outubro de 2016,17:00,CDS - Partido Popular (CDS-PP),""
 20 de outubro de 2016,20:00,"Audiência ao Presidente do Parlamento Nacional de Timor-Leste, Adérito Hugo da Costa",""
-21 de outubro de 2016,11:00,Sessão Solene de Abertura do III Congresso Internacional do CADIn,"ISCTE, Lisboa
-"
+21 de outubro de 2016,11:00,"Sessão Solene de Abertura do III Congresso Internacional do CADIn
+","ISCTE, Lisboa"
 21 de outubro de 2016,"","Presidente da República recebe, em audiência, os partidos com assento parlamentar",""
 21 de outubro de 2016,14:00,Bloco de Esquerda (B.E.),""
 21 de outubro de 2016,15:00,Partido Socialista (PS),""
 21 de outubro de 2016,16:00,Partido Social Democrata (PPD/PSD),""
-24 de outubro de 2016,14:30,Abertura Solene do Ano Letivo do Colégio Militar,"Lisboa
-"
+24 de outubro de 2016,14:30,"Abertura Solene do Ano Letivo do Colégio Militar
+",Lisboa
 26 de outubro de 2016,"","Visita de Estado do Presidente da República a Cuba
 
 Havana, 26 e 27 de outubro 2016",""
@@ -426,8 +426,8 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
 31 de outubro de 2016,16:00,Sessão solene de abertura,""
 31 de outubro de 2016,17:00,"Sessão restrita, reservada a Estados-membros e observadores associados",""
 31 de outubro de 2016,20:00,"Jantar em homenagem aos Chefes de Delegação da XI Conferência de Chefes de Estado e Chefes de Delegação da Comunidade dos Países de Língua Portuguesa, oferecido Presidente do Brasil no Palácio da Alvorada",""
-1 de setembro de 2016,10:30,Sessão Solene de Abertura do Ano Judicial,"Supremo Tribunal de Justiça, Lisboa
-"
+1 de setembro de 2016,10:30,"Sessão Solene de Abertura do Ano Judicial
+","Supremo Tribunal de Justiça, Lisboa"
 1 de setembro de 2016,17:00,"O Presidente da República recebe o Primeiro-ministro, Dr. António Costa, para a reunião semanal",""
 1 de setembro de 2016,"",Festa do Livro em Belém,""
 1 de setembro de 2016,18:00,Abertura oficial ao Público,""
@@ -447,8 +447,8 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
 2 de setembro de 2016,14:50,Apresentação dos militares da missão BAP16,""
 2 de setembro de 2016,15:25,Visita à Esquadra 201 “Falcões”,""
 2 de setembro de 2016,15:40,Visita à Esquadra 301 “Jaguares”,""
-2 de setembro de 2016,18:30,Abertura da Feira do Livro do Porto,"Jardins do Palácio de Cristal, Porto
-"
+2 de setembro de 2016,18:30,"Abertura da Feira do Livro do Porto
+","Jardins do Palácio de Cristal, Porto"
 3 de setembro de 2016,21:30,"Festa do Livro em Belém
 – Cinema “Visita ou Memórias e Confissões”. Filme Póstumo de Manoel de Oliveira",""
 4 de setembro de 2016,17:00,"Festa do Livro em Belém
@@ -463,43 +463,43 @@ Brasília, 30 de outubro a 1 de novembro de 2016",""
   - Embaixadora da Mauritânia, Senhora Mint M’Haiham
   - Embaixador da Mongólia, Mundagbaatar Batsaikhan
 - Embaixador do Camboja, Widhya Chem",""
-5 de setembro de 2016,14:20,Visita ao Centro Social de Nossa Senhora da Paz,"Av. Francisco Fernandes – Bela Vista, Setúbal
-"
-6 de setembro de 2016,12:40,Sessão de Encerramento da Apresentação do Barómetro Desenvolvimento Sustentável,"Auditório do Instituto de Ciências Sociais da Universidade de Lisboa
-"
+5 de setembro de 2016,14:20,"Visita ao Centro Social de Nossa Senhora da Paz
+","Av. Francisco Fernandes – Bela Vista, Setúbal"
+6 de setembro de 2016,12:40,"Sessão de Encerramento da Apresentação do Barómetro Desenvolvimento Sustentável
+",Auditório do Instituto de Ciências Sociais da Universidade de Lisboa
 6 de setembro de 2016,"",O Presidente da República recebe as cartas credenciais de novos Embaixadores em Portugal:,""
 6 de setembro de 2016,14:00,"Embaixadora da Roménia, Senhora Ioana Bivolaru",""
 6 de setembro de 2016,14:25,"Embaixador do Mónaco, Henrique Polignac de Barros",""
 6 de setembro de 2016,14:50,"Embaixadora da Colômbia, Senhora Carmenza Jaramillo Gutierrez",""
 6 de setembro de 2016,15:25,"Embaixador do Luxemburgo, Jean Jacques Welfring",""
-6 de setembro de 2016,18:30,Cerimónia de entrega do Prémio António Champalimaud de Visão 2016,"Fundação Champalimaud, Av. Brasília, Lisboa
-"
-7 de setembro de 2016,14:00,Visita ao Departamento Central de Investigação e Ação Penal (DCIAP),"Rua Gomes Freire, 213 - Lisboa
-"
-7 de setembro de 2016,17:00,Encerramento da Conferência “Que Justiça Queremos?” da Associação Sindical dos Juízes Portugueses (ASJP),"Centro Cultural de Belém, Lisboa
-"
-9 de setembro de 2016,16:00,Encontro com os Representantes das Comunidades Religiosas presentes em Portugal,"Varanda do Palácio de Belém
-"
-9 de setembro de 2016,17:00,Visita aos militares internados no Hospital das Forças Armadas,"Azinhaga dos Ulmeiros, Paço do Lumiar
-"
-9 de setembro de 2016,20:30,Gala Emmy Awards,"Pátio da Galé, Lisboa
-"
+6 de setembro de 2016,18:30,"Cerimónia de entrega do Prémio António Champalimaud de Visão 2016
+","Fundação Champalimaud, Av. Brasília, Lisboa"
+7 de setembro de 2016,14:00,"Visita ao Departamento Central de Investigação e Ação Penal (DCIAP)
+","Rua Gomes Freire, 213 - Lisboa"
+7 de setembro de 2016,17:00,"Encerramento da Conferência “Que Justiça Queremos?” da Associação Sindical dos Juízes Portugueses (ASJP)
+","Centro Cultural de Belém, Lisboa"
+9 de setembro de 2016,16:00,"Encontro com os Representantes das Comunidades Religiosas presentes em Portugal
+",Varanda do Palácio de Belém
+9 de setembro de 2016,17:00,"Visita aos militares internados no Hospital das Forças Armadas
+","Azinhaga dos Ulmeiros, Paço do Lumiar"
+9 de setembro de 2016,20:30,"Gala Emmy Awards
+","Pátio da Galé, Lisboa"
 10 de setembro de 2016,"",Visita a Ponte de Lima,""
 10 de setembro de 2016,12:00,Inauguração do Centro de Interpretação da História Militar de Ponte de Lima,""
 10 de setembro de 2016,16:00,Cortejo Etnográfico das Feiras Novas de Ponte de Lima,""
-10 de setembro de 2016,19:00,Visita à Casa da Música,"Avenida da Boavista, Porto
-"
-10 de setembro de 2016,22:00,Concerto “Música para uma noite de Festa” pela Orquestra Sinfónica do Porto -  Casa da Música,"Avenida dos Aliados, Porto
-"
-12 de setembro de 2016,10:00,"Sessão de abertura do Seminário “Portugal 2020”, organizado pela ANMP - Associação Nacional de Municípios Portugueses","Centro de Congressos de Aveiro
-"
+10 de setembro de 2016,19:00,"Visita à Casa da Música
+","Avenida da Boavista, Porto"
+10 de setembro de 2016,22:00,"Concerto “Música para uma noite de Festa” pela Orquestra Sinfónica do Porto -  Casa da Música
+","Avenida dos Aliados, Porto"
+12 de setembro de 2016,10:00,"Sessão de abertura do Seminário “Portugal 2020”, organizado pela ANMP - Associação Nacional de Municípios Portugueses
+",Centro de Congressos de Aveiro
 12 de setembro de 2016,18:00,"Audiência ao Chefe do Executivo de Macau, Chui Sai On",""
 12 de setembro de 2016,19:00,Tomada de posse do Dr. Eugénio José da Cruz Fonseca como vogal do Conselho das Ordens de Mérito Civil,""
 14 de setembro de 2016,"","12.º Encontro Informal de Chefes de Estado Europeus do Grupo de Arraiolos
 
 Plovdiv e Sófia, Bulgária, 14 e 15 de setembro 2016",""
-14 de setembro de 2016,14:15,"Cumprimentos de boas-vindas pelo Presidente da República da Bulgária, Rosen Plevneliev","Museu Etnográfico, Plovdiv
-"
+14 de setembro de 2016,14:15,"Cumprimentos de boas-vindas pelo Presidente da República da Bulgária, Rosen Plevneliev
+","Museu Etnográfico, Plovdiv"
 14 de setembro de 2016,15:00,Sessão de abertura,""
 14 de setembro de 2016,15:45,"Primeira sessão de trabalho
  Tema: “Como aumentar a confiança na União Europeia num período de riscos crescentes e de uma ordem internacional instável?”",""
@@ -508,13 +508,13 @@ Plovdiv e Sófia, Bulgária, 14 e 15 de setembro 2016",""
 
 Plovdiv e Sófia, Bulgária, 14 e 15 de setembro 2016",""
 15 de setembro de 2016,10:00,"Segunda sessão de trabalho
-Tema: “Os Balcãs – A transformação histórica de um campo de jogos dos interesses das grandes potências numa parte integrante da Europa unida”","Museu de História Natural, Sófia
-"
+Tema: “Os Balcãs – A transformação histórica de um campo de jogos dos interesses das grandes potências numa parte integrante da Europa unida”
+","Museu de História Natural, Sófia"
 15 de setembro de 2016,11:30,Conferência de Imprensa conjunta dos Chefes de Estado,""
 15 de setembro de 2016,12:30,Almoço oficial,""
 15 de setembro de 2016,14:15, Encontro com membros da Câmara de Comércio e Indústria Luso-Búlgara,""
-16 de setembro de 2016,17:15,Sessão de encerramento do Congresso dos Revisores Oficiais de Contas,"Fórum Lisboa, Avenida de Roma, Lisboa
-"
+16 de setembro de 2016,17:15,"Sessão de encerramento do Congresso dos Revisores Oficiais de Contas
+","Fórum Lisboa, Avenida de Roma, Lisboa"
 18 de setembro de 2016,"","71ª Assembleia-Geral da Organização das Nações Unidas
 
 Nova Iorque e Newark, 18 a 22 de setembro 2016",""
@@ -556,22 +556,22 @@ Nova Iorque e Newark, 18 a 22 de setembro 2016",""
 22 de setembro de 2016,11:15,Visita ao Center for Jewish History,""
 22 de setembro de 2016,12:30,Almoço com membros da Portuguese American Postgraduate Society (PAPS),""
 26 de setembro de 2016,10:00,Sessão Solene de Abertura do Ano Letivo 2016/2017 no Conselho Nacional de Educação,""
-26 de setembro de 2016,20:00,Jantar comemorativo dos 40 anos de atividade do Banco Europeu de Investimento em Portugal,"Palácio Foz, Lisboa
-"
-27 de setembro de 2016,15:00,Lançamento da 1ª pedra do novo campus da Faculdade de Economia da Universidade Nova de Lisboa - Nova School of Business and Economics,"Carcavelos, Cascais
-"
-27 de setembro de 2016,18:15,Sessão de Encerramento da III Cimeira da Confederação do Turismo,"Museu do Oriente, Lisboa
-"
-28 de setembro de 2016,09:00,Sessão de Abertura do 26.º Digital Business Congress da Associação Portuguesa para o Desenvolvimento das Comunicações (APDC),"Centro Cultural de Belém, Lisboa
-"
-28 de setembro de 2016,12:00,Comemorações do 50.º Aniversário do Hospital da Cruz Vermelha Portuguesa,"Hospital Cruz Vermelha, Lisboa
-"
+26 de setembro de 2016,20:00,"Jantar comemorativo dos 40 anos de atividade do Banco Europeu de Investimento em Portugal
+","Palácio Foz, Lisboa"
+27 de setembro de 2016,15:00,"Lançamento da 1ª pedra do novo campus da Faculdade de Economia da Universidade Nova de Lisboa - Nova School of Business and Economics
+","Carcavelos, Cascais"
+27 de setembro de 2016,18:15,"Sessão de Encerramento da III Cimeira da Confederação do Turismo
+","Museu do Oriente, Lisboa"
+28 de setembro de 2016,09:00,"Sessão de Abertura do 26.º Digital Business Congress da Associação Portuguesa para o Desenvolvimento das Comunicações (APDC)
+","Centro Cultural de Belém, Lisboa"
+28 de setembro de 2016,12:00,"Comemorações do 50.º Aniversário do Hospital da Cruz Vermelha Portuguesa
+","Hospital Cruz Vermelha, Lisboa"
 29 de setembro de 2016,14:30,"Tomada de Posse do Presidente do Tribunal Constitucional, Juiz Conselheiro Manuel da Costa Andrade, como membro do Conselho de Estado",""
 29 de setembro de 2016,15:00,Reunião do Conselho de Estado,""
-30 de setembro de 2016,14:00,Cerimónia de Compromisso de Honra da GNR perante o Estandarte Nacional,"Centro de Formação de Portalegre da Escola da Guarda Nacional Republicana
-"
-30 de setembro de 2016,18:30,Cerimónia de inauguração da Exposição “Joan Miró: Materialidade e Metamorfose”,"Fundação Serralves, Porto
-"
+30 de setembro de 2016,14:00,"Cerimónia de Compromisso de Honra da GNR perante o Estandarte Nacional
+",Centro de Formação de Portalegre da Escola da Guarda Nacional Republicana
+30 de setembro de 2016,18:30,"Cerimónia de inauguração da Exposição “Joan Miró: Materialidade e Metamorfose”
+","Fundação Serralves, Porto"
 3 de agosto de 2016,12:10,"Chegada de Sua Excelência o Presidente da República ao “Cais da Portuguesa” na Ilha das Cobras
 Embarque de Sua Excelência o Presidente da República no NRP “Sagres”",""
 3 de agosto de 2016,12:25,"Cerimónia da entrega da Bandeira Nacional ao atleta João Rodrigues, porta estandarte de Portugal nos Jogos Olímpicos, na presença do Presidente do Comité Olímpico de Portugal, José Manuel Constantino e Secretário Geral, José Manuel Araújo",""
@@ -630,10 +630,10 @@ Embarque de Sua Excelência o Presidente da República no NRP “Sagres”",""
 30 de agosto de 2016,11:00,"Partida do Presidente da República, em Voo Militar no helicóptero EH-101, para as Ilhas Selvagens",""
 30 de agosto de 2016,12:30,Chegada do Presidente da República ao Planalto da Selvagem Grande e início da visita às Ilhas Selvagens,""
 30 de agosto de 2016,15:00,"Partida do Presidente da República, em Voo Militar no helicóptero EH-101, para o Funchal",""
-31 de agosto de 2016,14:45,"Receção ao Comité Paralímpico de Portugal e à Delegação Paralímpica antes da partida para os Jogos Paralímpicos Rio 2016 que tem lugar no Rio de Janeiro, Brasil","Antigo Museu Nacional dos Coches, Praça Afonso de Albuquerque
-"
-31 de agosto de 2016,18:30,Cerimónia de Agraciamento da Seleção Nacional de Futebol que se sagrou Campeã Europeia no Campeonato da Europa (EURO 2016) realizado em França,"Salão Nobre da Câmara Municipal do Porto
-"
+31 de agosto de 2016,14:45,"Receção ao Comité Paralímpico de Portugal e à Delegação Paralímpica antes da partida para os Jogos Paralímpicos Rio 2016 que tem lugar no Rio de Janeiro, Brasil
+","Antigo Museu Nacional dos Coches, Praça Afonso de Albuquerque"
+31 de agosto de 2016,18:30,"Cerimónia de Agraciamento da Seleção Nacional de Futebol que se sagrou Campeã Europeia no Campeonato da Europa (EURO 2016) realizado em França
+",Salão Nobre da Câmara Municipal do Porto
 1 de julho de 2016,"","Visita à Região Autónoma da Madeira
 
 30 de junho a 2 de julho",""
@@ -660,8 +660,8 @@ Embarque de Sua Excelência o Presidente da República no NRP “Sagres”",""
 2 de julho de 2016,11:15,Inauguração do Núcleo Museológico Jorge Brum do Canto,""
 2 de julho de 2016,11:30,Apresentação Projeto “Porto Santo Sustentável - Smart Fossil Free Island”,""
 2 de julho de 2016,12:45,Inauguração do Hotel Pestana Ilha Dourada,""
-3 de julho de 2016,12:00,Visita à Associação Humanitária dos Bombeiros Voluntários de Cascais,"Quartel da AHBV Cascais
-"
+3 de julho de 2016,12:00,"Visita à Associação Humanitária dos Bombeiros Voluntários de Cascais
+",Quartel da AHBV Cascais
 4 de julho de 2016,"","PORTUGAL PRÓXIMO
 
 4, 5 e 6 de julho de 2016",""
@@ -692,20 +692,22 @@ Embarque de Sua Excelência o Presidente da República no NRP “Sagres”",""
 8 de julho de 2016,14:30,"O Presidente da República recebe, em audiência, uma delegação da FENPROF - Federação Nacional dos Professores",""
 8 de julho de 2016,15:30,"O Presidente da República recebe, em audiência, o secretário-geral da OCDE - Organização para a Cooperação e Desenvolvimento Económico, José Ángel Gurría",""
 8 de julho de 2016,16:30,Encontro com alunos participantes na “Expedição EPIS - À descoberta do Mundo da Inovação”,""
-8 de julho de 2016,18:00,Inauguração do Auditório Machado Macedo,"Faculdade de Ciências Médicas da Universidade Nova Lisboa
-"
+8 de julho de 2016,18:00,"Inauguração do Auditório Machado Macedo
+",Faculdade de Ciências Médicas da Universidade Nova Lisboa
 11 de julho de 2016,13:30,Receção à Seleção Nacional de Futebol que participou na Fase Final do Campeonato da Europa (EURO 2016) em França,""
 11 de julho de 2016,16:00,O Presidente da República preside à reunião do Conselho de Estado,""
 12 de julho de 2016,12:00,"O Presidente da República recebe, em audiência, o Presidente do Tribunal de Contas Europeu, Dr. Vítor Caldeira",""
 12 de julho de 2016,15:00,O Presidente da República preside à reunião do Conselho Superior de Defesa Nacional,""
-12 de julho de 2016,18:00,O Presidente da República recebe o CNJ - Conselho Nacional de Juventude,"Antigo Museu Nacional dos Coches, Praça Afonso de Albuquerque
-"
+12 de julho de 2016,18:00,"O Presidente da República recebe o CNJ - Conselho Nacional de Juventude
+","Antigo Museu Nacional dos Coches, Praça Afonso de Albuquerque"
 13 de julho de 2016,18:15,Cerimónia de Condecoração de Atletas Portugueses Medalhados,""
 13 de julho de 2016,19:00,"Receção ao Comité Olímpico de Portugal e à Delegação Olímpica antes da partida para os Jogos Olímpicos 2016 que tem lugar no Rio de Janeiro, Brasil",""
 14 de julho de 2016,16:00,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal",""
-14 de julho de 2016,18:00,Inauguração da nova ala do Museu Nacional de Arte Antiga,"Museu Nacional de Arte Antiga, Lisboa
-"
-15 de julho de 2016,"",Visita à Polícia de Segurança Pública,"Direção Nacional da PSP, Lisboa"
+14 de julho de 2016,18:00,"Inauguração da nova ala do Museu Nacional de Arte Antiga
+","Museu Nacional de Arte Antiga, Lisboa"
+15 de julho de 2016,"","Visita à Polícia de Segurança Pública
+
+","Direção Nacional da PSP, Lisboa"
 15 de julho de 2016,13:30,Chegada do Presidente da República,""
 15 de julho de 2016,13:35,Honras Policiais,""
 15 de julho de 2016,13:40,Apresentação de cumprimentos,""
@@ -715,10 +717,10 @@ Embarque de Sua Excelência o Presidente da República no NRP “Sagres”",""
 15 de julho de 2016,16:10,Visita à exposição estática de meios,""
 15 de julho de 2016,16:40,Assinatura do Livro de Honra,""
 15 de julho de 2016,16:50,Fotografia de grupo,""
-17 de julho de 2016,12:00,Inauguração do Monumento do Centenário da Aviação Militar,"Vila Nova da Rainha 
-"
-18 de julho de 2016,11:00,Sessão Solene de celebração dos 20 Anos da Comunidade dos Países de Língua Portuguesa (CPLP),"Palácio dos Condes de Penafiel 
-"
+17 de julho de 2016,12:00,"Inauguração do Monumento do Centenário da Aviação Militar
+",Vila Nova da Rainha 
+18 de julho de 2016,11:00,"Sessão Solene de celebração dos 20 Anos da Comunidade dos Países de Língua Portuguesa (CPLP)
+",Palácio dos Condes de Penafiel 
 18 de julho de 2016,16:00,Visita à Base Aérea n.º 6 no Montijo ,""
 19 de julho de 2016,12:45,"Visita do Presidente da República Francesa, François Hollande
 
@@ -734,14 +736,14 @@ Embarque de Sua Excelência o Presidente da República no NRP “Sagres”",""
 
 - Almoço de trabalho
 
-- Declarações à imprensa","Sala das Bicas
-"
-19 de julho de 2016,17:00,"Receção à Seleção Nacional de Hóquei em Patins, Campeã Europeia","Sala das Bicas
-"
-20 de julho de 2016,16:00,Presidente da República recebe Embaixadores asiáticos acreditados em Portugal,"Sala dos Embaixadores
-"
-20 de julho de 2016,18:00,Cerimónia de Entrega do Prémio Calouste Gulbenkian,"Anfiteatro ao ar livre da FCG
-"
+- Declarações à imprensa
+",Sala das Bicas
+19 de julho de 2016,17:00,"Receção à Seleção Nacional de Hóquei em Patins, Campeã Europeia
+",Sala das Bicas
+20 de julho de 2016,16:00,"Presidente da República recebe Embaixadores asiáticos acreditados em Portugal
+",Sala dos Embaixadores
+20 de julho de 2016,18:00,"Cerimónia de Entrega do Prémio Calouste Gulbenkian
+",Anfiteatro ao ar livre da FCG
 21 de julho de 2016,10:00,"Sessão de abertura da Grande Conferência Europa
  ","Pátio da Galé, Praça do Comércio, Lisboa
 "
@@ -771,53 +773,53 @@ Embarque de Sua Excelência o Presidente da República no NRP “Sagres”",""
 1 de junho de 2016,18:25,"Visita às aeronaves parqueadas na placa da zona de aeródromo
 - Fotografia de Grupo",""
 1 de junho de 2016,19:15,Visita ao Museu do Ar (MUSAR),""
-2 de junho de 2016,10:00,"O Presidente da República preside à Sessão de Abertura da Grande Conferência JN | 40 Anos de Poder Local Democrático – “Descentralização, Pedra Angular da Reforma do Estado”","Mosteiro de São Bento da Vitória, Porto
-"
+2 de junho de 2016,10:00,"O Presidente da República preside à Sessão de Abertura da Grande Conferência JN | 40 Anos de Poder Local Democrático – “Descentralização, Pedra Angular da Reforma do Estado”
+","Mosteiro de São Bento da Vitória, Porto"
 3 de junho de 2016,11:00,"O Presidente da República recebe as cartas credenciais do novo Embaixador da Austrália, Peter Brian Rayner",""
-3 de junho de 2016,13:30,O Presidente da República oferece um Almoço aos Ministros participantes no Oceans Meeting 2016 – Encontro dos Oceanos,"Palácio de Belém
-"
-3 de junho de 2016,15:30,O Presidente da República participa na Conferência Oceans Meeting 2016 – Encontro dos Oceanos,"Local: Centro de Congressos de Lisboa
-"
+3 de junho de 2016,13:30,"O Presidente da República oferece um Almoço aos Ministros participantes no Oceans Meeting 2016 – Encontro dos Oceanos
+",Palácio de Belém
+3 de junho de 2016,15:30,"O Presidente da República participa na Conferência Oceans Meeting 2016 – Encontro dos Oceanos
+",Local: Centro de Congressos de Lisboa
 3 de junho de 2016,16:00,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal",""
-3 de junho de 2016,17:00,O Presidente da República preside à Cerimónia de Entrega dos Prémios FAZ – Prémio Empreendedorismo Inovador na Diáspora Portuguesa e do Prémio Ideias de Origem Portuguesa,"Fundação Calouste Gulbenkian, Lisboa
-"
-3 de junho de 2016,20:00,"O Presidente da República recebe, em audiência, o Presidente do Parlamento Europeu, Martin Schulz","Palácio da Cidadela
-"
-4 de junho de 2016,11:30,O Presidente da República visita a Feira Nacional de Agricultura,"CNEMA - Centro Nacional de Exposições, Santarém
-"
-4 de junho de 2016,16:30,O Presidente da República preside à Sessão de Encerramento do XII Congresso Nacional das Misericórdias,"Pavilhão Multiusos do Fundão
-"
-4 de junho de 2016,18:00,O Presidente da República está presente na Abertura da Feira Económica e Social,"Quinta Pedagógica da Santa Casa da Misericórdia do Fundão
-"
-5 de junho de 2016,11:00,O Presidente da República visita “Serralves em Festa!”,"Fundação Serralves, Porto
-"
-5 de junho de 2016,15:00,O Presidente da República visita à Irmandade dos Clérigos,"Rua de São Filipe de Nery, Porto
-"
+3 de junho de 2016,17:00,"O Presidente da República preside à Cerimónia de Entrega dos Prémios FAZ – Prémio Empreendedorismo Inovador na Diáspora Portuguesa e do Prémio Ideias de Origem Portuguesa
+","Fundação Calouste Gulbenkian, Lisboa"
+3 de junho de 2016,20:00,"O Presidente da República recebe, em audiência, o Presidente do Parlamento Europeu, Martin Schulz
+",Palácio da Cidadela
+4 de junho de 2016,11:30,"O Presidente da República visita a Feira Nacional de Agricultura
+","CNEMA - Centro Nacional de Exposições, Santarém"
+4 de junho de 2016,16:30,"O Presidente da República preside à Sessão de Encerramento do XII Congresso Nacional das Misericórdias
+",Pavilhão Multiusos do Fundão
+4 de junho de 2016,18:00,"O Presidente da República está presente na Abertura da Feira Económica e Social
+",Quinta Pedagógica da Santa Casa da Misericórdia do Fundão
+5 de junho de 2016,11:00,"O Presidente da República visita “Serralves em Festa!”
+","Fundação Serralves, Porto"
+5 de junho de 2016,15:00,"O Presidente da República visita à Irmandade dos Clérigos
+","Rua de São Filipe de Nery, Porto"
 7 de junho de 2016,19:30,"Receção à Seleção Nacional de Futebol antes da partida para a Fase Final do Campeonato da Europa (EURO 2016), que se disputa em França",""
 8 de junho de 2016,11:00,Audiência à Direção da Fórum Oceano - Associação da Economia do Mar,""
-8 de junho de 2016,15:15,Visita à Fundação Dr. António Cupertino de Miranda,"Porto
-"
+8 de junho de 2016,15:15,"Visita à Fundação Dr. António Cupertino de Miranda
+",Porto
 9 de junho de 2016,"","Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
 
 Lisboa, 9 e 10 de junho de 2016",""
-9 de junho de 2016,10:15,Cerimónia Militar do Içar da Bandeira Nacional,"Cais das Colunas, Lisboa
-"
-9 de junho de 2016,10:30,Visita às Atividades Militares Complementares,"Ribeira das Naus, Lisboa
-"
-9 de junho de 2016,14:00,Cerimónia da tomada de posse dos Membros do Conselho das Ordens Nacionais,"Sala dos Embaixadores, Palácio de Belém
-"
+9 de junho de 2016,10:15,"Cerimónia Militar do Içar da Bandeira Nacional
+","Cais das Colunas, Lisboa"
+9 de junho de 2016,10:30,"Visita às Atividades Militares Complementares
+","Ribeira das Naus, Lisboa"
+9 de junho de 2016,14:00,"Cerimónia da tomada de posse dos Membros do Conselho das Ordens Nacionais
+","Sala dos Embaixadores, Palácio de Belém"
 9 de junho de 2016,"","Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
 
 Lisboa, 9 e 10 de junho de 2016",""
-9 de junho de 2016,15:30,Visita ao Museu do Combatente,"Forte do Bom Sucesso
-"
-9 de junho de 2016,18:00,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal","Palácio da Cidadela, Cascais
-"
+9 de junho de 2016,15:30,"Visita ao Museu do Combatente
+",Forte do Bom Sucesso
+9 de junho de 2016,18:00,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal
+","Palácio da Cidadela, Cascais"
 9 de junho de 2016,"","Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
 
 Lisboa, 9 e 10 de junho de 2016",""
-9 de junho de 2016,20:00,"Apresentação de cumprimentos pelo Corpo Diplomático ao Presidente da República, com intervenção do Presidente da República","Palácio da Cidadela
-"
+9 de junho de 2016,20:00,"Apresentação de cumprimentos pelo Corpo Diplomático ao Presidente da República, com intervenção do Presidente da República
+",Palácio da Cidadela
 10 de junho de 2016,"","Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
 
 Lisboa, 9 e 10 de junho de 2016",""
@@ -846,8 +848,8 @@ Lisboa, 9 e 10 de junho de 2016",""
 10 de junho de 2016,"","Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
 
 Paris, 10 a 12 de junho de 2016",""
-10 de junho de 2016,17:50,Encontro do Presidente da República e do Primeiro-Ministro com o Presidente da República Francesa e o Primeiro-Ministro Francês,"Palácio do Eliseu, Paris
-"
+10 de junho de 2016,17:50,"Encontro do Presidente da República e do Primeiro-Ministro com o Presidente da República Francesa e o Primeiro-Ministro Francês
+","Palácio do Eliseu, Paris"
 10 de junho de 2016,18:40,"Celebrações oficiais do Dia de Portugal, de Camões e das Comunidades Portuguesas presididas pelo Presidente da República na presença do Primeiro-Ministro
 
 - Intervenção da Maire de Paris, Anne Hidalgo
@@ -864,8 +866,8 @@ Paris, 10 a 12 de junho de 2016",""
 11 de junho de 2016,"","Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
 
 Paris, 10 a 12 de junho de 2016",""
-11 de junho de 2016,10:30,Inauguração da Rotunda “Comendador Armando Lopes”,"Créteil
-"
+11 de junho de 2016,10:30,"Inauguração da Rotunda “Comendador Armando Lopes”
+",Créteil
 11 de junho de 2016,11:00,"Cerimónia de Inauguração do monumento ao Maire Louis Talamoni, aos habitantes de Champigny-sur-Marne e a França
 
 - Intervenção do Maire de Champigny
@@ -882,22 +884,22 @@ Paris, 10 a 12 de junho de 2016",""
 
 - Inauguração do monumento","Avenue Ambroise Croizat, Champigny-sur-Marne
 "
-11 de junho de 2016,13:00,Almoço do Presidente da República e do Primeiro-Ministro com individualidades da comunidade portuguesa residente em Paris,"Embaixada de Portugal
-"
-11 de junho de 2016,16:45,Homenagem do Presidente da República aos militares portugueses mortos na I Grande Guerra em Richebourg e La Couture,"Cemitério Militar Português de Richebourg e Monumento de Homenagem ao Soldado Português em La Couture
-"
-11 de junho de 2016,20:00,Encontro e jantar do Presidente da República e do Primeiro-ministro com a Seleção Nacional de Futebol,"Centro de Treinos de Portugal em França
-"
+11 de junho de 2016,13:00,"Almoço do Presidente da República e do Primeiro-Ministro com individualidades da comunidade portuguesa residente em Paris
+",Embaixada de Portugal
+11 de junho de 2016,16:45,"Homenagem do Presidente da República aos militares portugueses mortos na I Grande Guerra em Richebourg e La Couture
+",Cemitério Militar Português de Richebourg e Monumento de Homenagem ao Soldado Português em La Couture
+11 de junho de 2016,20:00,"Encontro e jantar do Presidente da República e do Primeiro-ministro com a Seleção Nacional de Futebol
+",Centro de Treinos de Portugal em França
 12 de junho de 2016,"","Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas
 
 Paris, 10 a 12 de junho de 2016",""
 12 de junho de 2016,10:00,Visita à delegação da Fundação Calouste Gulbenkian em Paris,""
-12 de junho de 2016,13:00,Visita à Festa Rádio Alfa 2016,"Ile de Loisirs de Créteil
-"
-12 de junho de 2016,16:00,Visita à exposição da arquitetura portuguesa “Printemps portugais: Les Universalistes - 50 ans d'architecture portugaise”,"Cité de l'Architecture et du Patrimoine - Trocadero
-"
-12 de junho de 2016,17:00,Visita à exposição “Amadeo de Souza-Cardoso”,"Grand-Palais
-"
+12 de junho de 2016,13:00,"Visita à Festa Rádio Alfa 2016
+",Ile de Loisirs de Créteil
+12 de junho de 2016,16:00,"Visita à exposição da arquitetura portuguesa “Printemps portugais: Les Universalistes - 50 ans d'architecture portugaise”
+",Cité de l'Architecture et du Patrimoine - Trocadero
+12 de junho de 2016,17:00,"Visita à exposição “Amadeo de Souza-Cardoso”
+",Grand-Palais
 14 de junho de 2016,"",Visita do Presidente da República à Guarda Nacional Republicana,""
 14 de junho de 2016,10:00,"Chegada do Presidente da República ao Comando-Geral da GNR
 - Honras Militares
@@ -905,16 +907,16 @@ Paris, 10 a 12 de junho de 2016",""
 14 de junho de 2016,10:15,Brífingue sobre a Guarda Nacional Republicana pelo Comandante-Geral da GNR,""
 14 de junho de 2016,11:15,Visita ao Centro de Comando e Controlo Operacional,""
 14 de junho de 2016,12:00,Visita ao Museu da GNR,""
-14 de junho de 2016,17:00,Cerimónia Oficial do Dia da Cidade de Abrantes 2016 – 100º Aniversário da elevação de Abrantes a cidade,"Cineteatro São Pedro, Abrantes
-"
-14 de junho de 2016,20:00,Jantar com membros da Associação da Imprensa Estrangeira em Portugal,"Palácio da Cidadela, Cascais
-"
+14 de junho de 2016,17:00,"Cerimónia Oficial do Dia da Cidade de Abrantes 2016 – 100º Aniversário da elevação de Abrantes a cidade
+","Cineteatro São Pedro, Abrantes"
+14 de junho de 2016,20:00,"Jantar com membros da Associação da Imprensa Estrangeira em Portugal
+","Palácio da Cidadela, Cascais"
 15 de junho de 2016,14:00,"O Presidente da República recebe, em audiência, o Senhor Guo Jinlong, Membro do Bureau Político do Comité Central do Partido Comunista da China",""
 15 de junho de 2016,14:30,"O Presidente da República recebe, em audiência, a Direção da AACDN - Associação de Auditores dos Cursos de Defesa Nacional",""
 15 de junho de 2016,15:00,"O Presidente da República recebe, em audiência, o ILAC -  Instituto Luso-Árabe para a Cooperação",""
 15 de junho de 2016,16:00,"O Presidente da República recebe, em audiência, a Fundação Francisco Manuel dos Santos",""
-15 de junho de 2016,18:00,O Presidente da República preside à Homenagem ao Professor Henrique de Barros,"            Antigo Museu Nacional dos Coches, Pça Afonso de Albuquerque
-"
+15 de junho de 2016,18:00,"O Presidente da República preside à Homenagem ao Professor Henrique de Barros
+","            Antigo Museu Nacional dos Coches, Pça Afonso de Albuquerque"
 16 de junho de 2016,"",O Presidente da República participa nas comemorações do Dia da Cidade de Espinho - 43º Aniversário da Elevação a Cidade,""
 16 de junho de 2016,10:30,Inauguração do Centro Escolar de Silvalde,""
 16 de junho de 2016,11:00,Visita à exposição de apresentação do Projeto de Requalificação do Canal Ferroviário (ReCaFe),""
@@ -923,25 +925,25 @@ Paris, 10 a 12 de junho de 2016",""
 17 de junho de 2016,16:30,"O Presidente da República recebe, em audiência, o Comendador Jorge Rocha de Matos, Presidente da Fundação AIP",""
 17 de junho de 2016,17:00,"O Presidente da República recebe, em audiência, a Federação Nacional de Educação",""
 17 de junho de 2016,18:30,"O Presidente da República recebe, em audiência, a direção da Associação Portuguesa de Imprensa",""
-20 de junho de 2016,11:30,O Presidente da República visita o Centro de Acolhimento para Refugiados,"Rua Sra. da Conceição, Bobadela, Loures
-"
+20 de junho de 2016,11:30,"O Presidente da República visita o Centro de Acolhimento para Refugiados
+","Rua Sra. da Conceição, Bobadela, Loures"
 20 de junho de 2016,15:00,"O Presidente da República recebe o Presidente do Conselho Europeu, Donald Tusk",""
-21 de junho de 2016,10:00,Visita ao Hospital das Forças Armadas,"            Azinhaga dos Ulmeiros, Paço do Lumiar
-"
-21 de junho de 2016,15:00,Conferência Comemorativa dos 30 anos de Adesão de Portugal à CEE,"             Sala do Senado, Assembleia da República
-"
-21 de junho de 2016,18:15,Sessão de Encerramento do Congresso “Os Hospitais - Reforma do Serviço Nacional de Saúde”,"           Local: Auditório Prof. Simões dos Santos - Faculdade de Medicina Dentária, Universidade de Lisboa
-"
-22 de junho de 2016,17:00,O Presidente da República assiste ao terceiro jogo da Seleção Nacional na Fase Final do Campeonato da Europa de Futebol - EURO 2016 com a Hungria,"Lyon, França
-"
-23 de junho de 2016,17:30,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal","Casa de Serralves, Porto
-"
-23 de junho de 2016,19:00,"O Presidente da República recebe, em audiência, o Primeiro-Ministro da Costa do Marfim, Daniel Kablan Duncan","Casa de Serralves, Porto
-"
-23 de junho de 2016,20:30,"O Presidente da República, a convite do Presidente da Câmara Municipal do Porto, Rui Moreira, tem um Jantar de S. João no Jardim do Seminário Maior e assiste ao Fogo-de-artifício sobre o Rio Douro","Seminário Maior do Porto
-"
-24 de junho de 2016,11:00,Inauguração da 1ª Unidade de Cuidados Paliativos Pediátricos em Portugal “Kastelo Marta Ortigão” – Associação Nomeiodonada,"Matosinhos
-"
+21 de junho de 2016,10:00,"Visita ao Hospital das Forças Armadas
+","            Azinhaga dos Ulmeiros, Paço do Lumiar"
+21 de junho de 2016,15:00,"Conferência Comemorativa dos 30 anos de Adesão de Portugal à CEE
+","             Sala do Senado, Assembleia da República"
+21 de junho de 2016,18:15,"Sessão de Encerramento do Congresso “Os Hospitais - Reforma do Serviço Nacional de Saúde”
+","           Local: Auditório Prof. Simões dos Santos - Faculdade de Medicina Dentária, Universidade de Lisboa"
+22 de junho de 2016,17:00,"O Presidente da República assiste ao terceiro jogo da Seleção Nacional na Fase Final do Campeonato da Europa de Futebol - EURO 2016 com a Hungria
+","Lyon, França"
+23 de junho de 2016,17:30,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal
+","Casa de Serralves, Porto"
+23 de junho de 2016,19:00,"O Presidente da República recebe, em audiência, o Primeiro-Ministro da Costa do Marfim, Daniel Kablan Duncan
+","Casa de Serralves, Porto"
+23 de junho de 2016,20:30,"O Presidente da República, a convite do Presidente da Câmara Municipal do Porto, Rui Moreira, tem um Jantar de S. João no Jardim do Seminário Maior e assiste ao Fogo-de-artifício sobre o Rio Douro
+",Seminário Maior do Porto
+24 de junho de 2016,11:00,"Inauguração da 1ª Unidade de Cuidados Paliativos Pediátricos em Portugal “Kastelo Marta Ortigão” – Associação Nomeiodonada
+",Matosinhos
 24 de junho de 2016,16:00,"O Presidente da República recebe, em audiência, uma delegação do CDS-PP/Madeira",""
 24 de junho de 2016,16:30,"O Presidente da República recebe, em audiência, uma delegação do PCP/Madeira",""
 24 de junho de 2016,18:30,"O Presidente da República agracia o Prof. Doutor Eugenio Bulygin, presente em Portugal por ocasião XXII Seminário Luso-Hispano-Franco-Italiano de Teoria do Direito",""
@@ -953,10 +955,10 @@ Paris, 10 a 12 de junho de 2016",""
 - Intervenção do Presidente da República
 - Desfile das Forças em parada","Escola das Armas do Exército, Mafra
 "
-26 de junho de 2016,11:00,Sessão solene comemorativa do 126.º Aniversário da Associação Humanitária dos Bombeiros Voluntários de Sintra,"Quartel da AHBV Sintra
-"
-26 de junho de 2016,13:00,Comemoração dos 60 anos da Adega Cooperativa de São Mamede da Ventosa,"Arneiros - Torres Vedras
-"
+26 de junho de 2016,11:00,"Sessão solene comemorativa do 126.º Aniversário da Associação Humanitária dos Bombeiros Voluntários de Sintra
+",Quartel da AHBV Sintra
+26 de junho de 2016,13:00,"Comemoração dos 60 anos da Adega Cooperativa de São Mamede da Ventosa
+",Arneiros - Torres Vedras
 27 de junho de 2016,10:00,"Cerimónia Evocativa dos 40 Anos das Primeiras Eleições Presidenciais em Democracia - Homenagem ao General Ramalho Eanes
 
 - Condecoração do General Ramalho Eanes com o Grande-Colar da
@@ -966,10 +968,10 @@ Paris, 10 a 12 de junho de 2016",""
   Presidente para todos os Portugueses”","Fundação Calouste Gulbenkian, Lisboa
 "
 27 de junho de 2016,"",Visita do Presidente da República ao Reino de Marrocos,""
-27 de junho de 2016,16:30,Encontro do Presidente da República com o Rei de Marrocos,"Palácio Real em Casablanca
-"
-27 de junho de 2016,19:30,Jantar oferecido pelo Rei de Marrocos em honra do Presidente da República,"Palácio Real em Casablanca
-"
+27 de junho de 2016,16:30,"Encontro do Presidente da República com o Rei de Marrocos
+",Palácio Real em Casablanca
+27 de junho de 2016,19:30,"Jantar oferecido pelo Rei de Marrocos em honra do Presidente da República
+",Palácio Real em Casablanca
 27 de junho de 2016,22:00,"Encontro do Presidente da República com o Chefe do Governo marroquino, Abdelilah Benkirane",""
 27 de junho de 2016,22:30,"Encontro do Presidente da República com o Presidente da Câmara dos Representantes do Parlamento, Rachid Talbi Alami",""
 27 de junho de 2016,23:00,"Encontro do Presidente da República com o Presidente da Câmara dos Conselheiros do Parlamento, Abdelhakim Benchamach",""
@@ -977,18 +979,18 @@ Paris, 10 a 12 de junho de 2016",""
 28 de junho de 2016,14:30,Delegação do Partido Popular Monárquico (PPM),""
 28 de junho de 2016,15:00,Delegação do Partido Comunista Português (PCP),""
 28 de junho de 2016,15:30,Delegação do Bloco de Esquerda (B.E.),""
-28 de junho de 2016,20:00,Jantar de Gala da Conferência MOZEFO Portugal,"Centro de Congressos do Estoril
-"
+28 de junho de 2016,20:00,"Jantar de Gala da Conferência MOZEFO Portugal
+",Centro de Congressos do Estoril
 29 de junho de 2016,"","O Presidente da República, no quadro da marcação da data das eleições para a Assembleia Legislativa da Região Autónoma dos Açores, recebe em audiência:",""
 29 de junho de 2016,15:00, Delegação do CDS - Partido Popular (CDS-PP),""
 29 de junho de 2016,15:30, Delegação do Partido Social Democrata (PPD/PSD),""
 29 de junho de 2016,16:00,Delegação do Partido Socialista (PS),""
-29 de junho de 2016,18:00,Projeto “Círculo da Inovação”,"Palácio Nacional da Ajuda, Lisboa
-"
-29 de junho de 2016,20:30,Comemoração dos 40 anos do Teatro Aberto à Cidade de Lisboa,"Teatro Aberto, Lisboa
-"
-30 de junho de 2016,11:00,Cerimónia de entrega do Prémio Norte-Sul do Conselho da Europa 2015,"Sala do Senado, Assembleia da República
-"
+29 de junho de 2016,18:00,"Projeto “Círculo da Inovação”
+","Palácio Nacional da Ajuda, Lisboa"
+29 de junho de 2016,20:30,"Comemoração dos 40 anos do Teatro Aberto à Cidade de Lisboa
+","Teatro Aberto, Lisboa"
+30 de junho de 2016,11:00,"Cerimónia de entrega do Prémio Norte-Sul do Conselho da Europa 2015
+","Sala do Senado, Assembleia da República"
 30 de junho de 2016,15:00,"Cerimónia de Agraciamento, a título póstumo, do Tenente-Coronel Fernando José Salgueiro Maia com a Grã-Cruz da Ordem do Infante D. Henrique",""
 30 de junho de 2016,"","Visita à Região Autónoma da Madeira
 
@@ -997,16 +999,16 @@ Paris, 10 a 12 de junho de 2016",""
 1 de maio de 2016,"","Visita do Presidente da República a Itália
 
 Roma, 1 e 2 de maio de 2016",""
-1 de maio de 2016,19:30,Receção a representantes da Comunidade Portuguesa residente em Itália e aos professores italianos de língua portuguesa,"Residência do Embaixador de Portugal em Itália
-"
+1 de maio de 2016,19:30,"Receção a representantes da Comunidade Portuguesa residente em Itália e aos professores italianos de língua portuguesa
+",Residência do Embaixador de Portugal em Itália
 2 de maio de 2016,"","Visita do Presidente da República a Itália
 
 Roma, 1 e 2 de maio de 2016",""
-2 de maio de 2016,11:30,O Presidente da República visita a exposição “Correggio e Parmigianino - Arte a Parma nel Cinquecento”,"Scuderie del Quirinale
-"
+2 de maio de 2016,11:30,"O Presidente da República visita a exposição “Correggio e Parmigianino - Arte a Parma nel Cinquecento”
+",Scuderie del Quirinale
 2 de maio de 2016,12:25,Chegada do Presidente da República ao Palácio do Quirinale e revista a piquete militar no átrio de honra,""
-2 de maio de 2016,12:30,"Encontro do Presidente da República com o Presidente da República Italiana, Sergio Mattarella","Sala del Bronzino
-"
+2 de maio de 2016,12:30,"Encontro do Presidente da República com o Presidente da República Italiana, Sergio Mattarella
+",Sala del Bronzino
 3 de maio de 2016,"","Visita de Estado a Moçambique
 
 Maputo, 3 a 6 de maio de 2016",""
@@ -1062,26 +1064,26 @@ Maputo, 3 a 6 de maio de 2016",""
 6 de maio de 2016,18:00,Encontro com a Comunidade Portuguesa de Moçambique,""
 6 de maio de 2016,19:30,Jantar oferecido pelo Presidente da República em honra do Presidente da República de Moçambique e Senhora,""
 8 de maio de 2016,17:00,O Presidente da República participa na procissão de Nossa Senhora da Saúde que percorre várias ruas de Lisboa,""
-9 de maio de 2016,14:30,O Presidente da República preside à cerimónia de apresentação da Coleção Digital de Livros Infantis Zero Desperdício,"Fundação Calouste Gulbenkian, Lisboa
-"
-9 de maio de 2016,17:00,O Presidente da República visita 21.ª edição da Feira de Arte e Antiguidades de Lisboa,"Cordoaria Nacional, Lisboa
-"
+9 de maio de 2016,14:30,"O Presidente da República preside à cerimónia de apresentação da Coleção Digital de Livros Infantis Zero Desperdício
+","Fundação Calouste Gulbenkian, Lisboa"
+9 de maio de 2016,17:00,"O Presidente da República visita 21.ª edição da Feira de Arte e Antiguidades de Lisboa
+","Cordoaria Nacional, Lisboa"
 10 de maio de 2016,12:00,"O Presidente da República recebe, em audiência, uma delegação da Confederação Nacional da Agricultura (CNA)",""
-10 de maio de 2016,15:00,O Presidente da República preside à Assembleia Geral da COTEC Portugal - Associação Empresarial para a Inovação,"Pequeno Auditório da Culturgest, Lisboa
-"
-10 de maio de 2016,16:30,O Presidente da República preside à Cerimónia de Tomada de Posse dos novos órgãos sociais da Ordem dos Engenheiros,"Grande Auditório da Culturgest, Lisboa
-"
-10 de maio de 2016,17:30,O Presidente da República preside à Sessão Solene de Abertura das Comemorações do Cinquentenário do Código Civil,"Salão Nobre do Supremo Tribunal de Justiça
-"
-10 de maio de 2016,19:00,O Presidente da República inaugura a Exposição Comemorativa dos 50 anos do Código Civil,"Espaço Justiça, Ministério da Justiça
-"
-11 de maio de 2016,10:00,O Presidente da República preside à Sessão de Abertura do 1º Roteiro Visão 2020 para a Agricultura Portuguesa promovido pela CAP,"Auditório 2, Fundação Calouste Gulbenkian, Lisboa
-"
-11 de maio de 2016,12:00,O Presidente da República preside à Sessão de Encerramento das Comemorações dos 20 anos da Associação dos Amigos do Hospital Santa Maria,"Salão Nobre do Hospital Santa Maria, Lisboa
-"
+10 de maio de 2016,15:00,"O Presidente da República preside à Assembleia Geral da COTEC Portugal - Associação Empresarial para a Inovação
+","Pequeno Auditório da Culturgest, Lisboa"
+10 de maio de 2016,16:30,"O Presidente da República preside à Cerimónia de Tomada de Posse dos novos órgãos sociais da Ordem dos Engenheiros
+","Grande Auditório da Culturgest, Lisboa"
+10 de maio de 2016,17:30,"O Presidente da República preside à Sessão Solene de Abertura das Comemorações do Cinquentenário do Código Civil
+",Salão Nobre do Supremo Tribunal de Justiça
+10 de maio de 2016,19:00,"O Presidente da República inaugura a Exposição Comemorativa dos 50 anos do Código Civil
+","Espaço Justiça, Ministério da Justiça"
+11 de maio de 2016,10:00,"O Presidente da República preside à Sessão de Abertura do 1º Roteiro Visão 2020 para a Agricultura Portuguesa promovido pela CAP
+","Auditório 2, Fundação Calouste Gulbenkian, Lisboa"
+11 de maio de 2016,12:00,"O Presidente da República preside à Sessão de Encerramento das Comemorações dos 20 anos da Associação dos Amigos do Hospital Santa Maria
+","Salão Nobre do Hospital Santa Maria, Lisboa"
 11 de maio de 2016,14:30,O Presidente da República participa na Apresentação da Campanha de Limpeza de Praias 2016 da Associação Brigada do Mar,""
-11 de maio de 2016,18:30,"O Presidente da República preside à cerimónia de lançamento do livro “Os Sonhos não Têm Rugas”, escrito por três dirigentes da APRe! - Associação de Aposentados, Pensionistas e Reformados","Livraria Buchholz, Lisboa
-"
+11 de maio de 2016,18:30,"O Presidente da República preside à cerimónia de lançamento do livro “Os Sonhos não Têm Rugas”, escrito por três dirigentes da APRe! - Associação de Aposentados, Pensionistas e Reformados
+","Livraria Buchholz, Lisboa"
 12 de maio de 2016,12:00,O Presidente da República recebe um grupo de Embaixadores de Países Árabes,""
 12 de maio de 2016,15:00,"O Presidente da República recebe, em audiência, o Presidente do Conselho Nacional de Educação, Prof. Doutor David Justino",""
 12 de maio de 2016,18:00,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal",""
@@ -1092,8 +1094,8 @@ Maputo, 3 a 6 de maio de 2016",""
 15 de maio de 2016,12:00,O Presidente da República preside à cerimónia que assinala a atribuição da nova designação oficial do Aeroporto de Lisboa,""
 15 de maio de 2016,15:30,O Presidente da República visita a Aldeia de Crianças SOS de Bicesse,""
 16 de maio de 2016,11:00,"O Presidente da República participa num Encontro/Debate com Jovens no âmbito das comemorações dos 40 anos das primeiras eleições presidenciais em democracia.
-Nesta sessão, moderada pelo jornalista Joaquim Letria, participam o ex-Presidente da República General António Ramalho Eanes e o Constitucionalista Professor Jorge Miranda.","Cineteatro Avenida, Castelo Branco
-"
+Nesta sessão, moderada pelo jornalista Joaquim Letria, participam o ex-Presidente da República General António Ramalho Eanes e o Constitucionalista Professor Jorge Miranda.
+","Cineteatro Avenida, Castelo Branco"
 16 de maio de 2016,16:00,O Presidente da República inaugura as novas instalações da Faculdade de Medicina da Universidade de Coimbra e preside à Sessão Solene de Encerramento do 4º Congresso Regional “Envelhecimento Ativo e Saudável”,""
 17 de maio de 2016,09:30,O Presidente da República preside à Sessão de Abertura da Conferência “O Presente e o Futuro do Sector Bancário”,""
 17 de maio de 2016,14:00,"O Presidente da República recebe, em audiência, a Direção Nacional da Associação Sindical dos Juízes Portugueses",""
@@ -1101,33 +1103,33 @@ Nesta sessão, moderada pelo jornalista Joaquim Letria, participam o ex-Presiden
 17 de maio de 2016,15:00,"O Presidente da República recebe, em audiência, uma delegação da Associação Sindical dos Conservadores dos Registos",""
 17 de maio de 2016,19:30,"O Presidente Marcelo Rebelo de Sousa oferece um jantar ao Presidente da República de Cabo Verde, Jorge Carlos Fonseca, antecedido por uma receção com a Associação Caboverdeana de Portugal",""
 18 de maio de 2016,12:00,"O Presidente da República recebe, em audiência, promotores do Manifesto sobre a Banca Portuguesa “Reconfiguração da banca em Portugal – Desafios e linhas vermelhas”",""
-18 de maio de 2016,18:30,O Presidente da República preside à Cerimónia de Entrega do Prémio Vasco Graça Moura ao Prof. Eduardo Lourenço,"Auditório do Casino Estoril
-"
+18 de maio de 2016,18:30,"O Presidente da República preside à Cerimónia de Entrega do Prémio Vasco Graça Moura ao Prof. Eduardo Lourenço
+",Auditório do Casino Estoril
 19 de maio de 2016,12:00,O Presidente da República participa no encontro que assinala os 10 anos da EPIS - Empresários pela Inclusão Social,""
 19 de maio de 2016,16:00,O Presidente da República inaugura o edifício-sede do “i3S” – Instituto de Investigação e Inovação em Saúde da Universidade do Porto,""
-19 de maio de 2016,17:20,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal","Porto
-"
-19 de maio de 2016,18:30,"O Presidente da República recebe, em audiência, a Associação Comercial do Porto","Porto
-"
-19 de maio de 2016,19:00,"O Presidente da República recebe, em audiência, o Presidente da Câmara Municipal do Porto, Dr. Rui Moreira","Porto
-"
+19 de maio de 2016,17:20,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal
+",Porto
+19 de maio de 2016,18:30,"O Presidente da República recebe, em audiência, a Associação Comercial do Porto
+",Porto
+19 de maio de 2016,19:00,"O Presidente da República recebe, em audiência, o Presidente da Câmara Municipal do Porto, Dr. Rui Moreira
+",Porto
 20 de maio de 2016,15:00,"O Presidente da República recebe, em audiência, a Direção da Liga dos Bombeiros Portugueses",""
-20 de maio de 2016,17:00,O Presidente da República preside à Sessão de Encerramento da Conferência Nacional da APRe! “O Futuro não tem idade”,"Auditório José Joaquim Laginha, ISCTE – IUL
-"
-20 de maio de 2016,18:00,O Presidente da República preside à Cerimónia Comemorativa do Dia do Autor Português,"Sala-Galeria Carlos Paredes, Sociedade Portuguesa de Autores
-"
-21 de maio de 2016,19:30,O Presidente da República visita o Rally de Portugal,"Service Park do Rally de Portugal, Exponor, Matosinhos
-"
-22 de maio de 2016,10:30,"O Presidente da República assiste à Cerimónia de Doutoramento Honoris Causa, pela Faculdade de Economia da Universidade de Coimbra, do Eng.º António Guterres.","Sala dos Capelos, Universidade de Coimbra
-"
+20 de maio de 2016,17:00,"O Presidente da República preside à Sessão de Encerramento da Conferência Nacional da APRe! “O Futuro não tem idade”
+","Auditório José Joaquim Laginha, ISCTE – IUL"
+20 de maio de 2016,18:00,"O Presidente da República preside à Cerimónia Comemorativa do Dia do Autor Português
+","Sala-Galeria Carlos Paredes, Sociedade Portuguesa de Autores"
+21 de maio de 2016,19:30,"O Presidente da República visita o Rally de Portugal
+","Service Park do Rally de Portugal, Exponor, Matosinhos"
+22 de maio de 2016,10:30,"O Presidente da República assiste à Cerimónia de Doutoramento Honoris Causa, pela Faculdade de Economia da Universidade de Coimbra, do Eng.º António Guterres.
+","Sala dos Capelos, Universidade de Coimbra"
 22 de maio de 2016,17:00,"O Presidente da República assiste à Final da Taça de Portugal em Futebol, disputada entre o Futebol Clube do Porto e o Sporting Clube de Braga",""
-23 de maio de 2016,12:00,O Presidente da República preside à Sessão Solene de Encerramento das Comemorações do 105.º Aniversário do Instituto Superior Técnico (IST),"Salão Nobre do IST, Campus da Alameda, Lisboa
-"
+23 de maio de 2016,12:00,"O Presidente da República preside à Sessão Solene de Encerramento das Comemorações do 105.º Aniversário do Instituto Superior Técnico (IST)
+","Salão Nobre do IST, Campus da Alameda, Lisboa"
 23 de maio de 2016,13:15,O Presidente da República recebe a Seleção Nacional de Futebol Sub-17 que venceu o campeonato europeu em Baku no Azerbaijão,""
-23 de maio de 2016,15:30,O Presidente da República preside à Sessão de Abertura do V Encontro “Triângulo Estratégico: América Latina – Europa – África”,"Sala 1 da Culturgest, Lisboa
-"
-23 de maio de 2016,18:30,O Presidente da República assiste ao Ensaio Geral da Orquestra Sinfónica do Conservatório Nacional,"Escola de Música do Conservatório Nacional
-"
+23 de maio de 2016,15:30,"O Presidente da República preside à Sessão de Abertura do V Encontro “Triângulo Estratégico: América Latina – Europa – África”
+","Sala 1 da Culturgest, Lisboa"
+23 de maio de 2016,18:30,"O Presidente da República assiste ao Ensaio Geral da Orquestra Sinfónica do Conservatório Nacional
+",Escola de Música do Conservatório Nacional
 24 de maio de 2016,"",Visita do Presidente da República ao Exército,""
 24 de maio de 2016,10:00,"Chegada do Presidente da República ao Comando das Forças Terrestres na Amadora
 - Honras Militares pela Guarda de Honra 
@@ -1140,55 +1142,55 @@ Nesta sessão, moderada pelo jornalista Joaquim Letria, participam o ex-Presiden
 24 de maio de 2016,15:45,"O Presidente da República recebe, em audiência, o Presidente do Governo Regional da Madeira, Miguel Albuquerque",""
 24 de maio de 2016,17:00,"O Presidente da República recebe, em audiência, a Secretária-Geral da Conferência Ibero-Americana, Rebeca Grynspan",""
 25 de maio de 2016,10:30,"O Presidente da República participa no 2.º Encontro/Debate com Jovens no âmbito das comemorações dos 40 anos das primeiras eleições presidenciais em democracia.
-Nesta sessão, moderada pelo jornalista Joaquim Letria, participa o ex-Presidente da República General António Ramalho Eanes.","Auditório da Universidade de Évora 
-"
-25 de maio de 2016,19:30,O Presidente da República preside à Cerimónia de Entrega dos Prémios AHRESP 2016,"Pátio da Galé, Lisboa
-"
-26 de maio de 2016,12:15,O Presidente da República visita a Feira de Arte Contemporânea ARCOlisboa,"Cordoaria Nacional, Lisboa
-"
-26 de maio de 2016,15:00,O Presidente da República inaugura a Feira do Livro de Lisboa,"Parque Eduardo VII, Lisboa
-"
-26 de maio de 2016,21:30,O Presidente da República inaugura o Museu da Vista Alegre,"Ílhavo
-"
-27 de maio de 2016,10:00,"O Presidente da República visita as fábricas RiaStone e Vista Alegre, o Palácio Vista Alegre e inaugura o Hotel Vista Alegre","Ílhavo
-"
+Nesta sessão, moderada pelo jornalista Joaquim Letria, participa o ex-Presidente da República General António Ramalho Eanes.
+",Auditório da Universidade de Évora 
+25 de maio de 2016,19:30,"O Presidente da República preside à Cerimónia de Entrega dos Prémios AHRESP 2016
+","Pátio da Galé, Lisboa"
+26 de maio de 2016,12:15,"O Presidente da República visita a Feira de Arte Contemporânea ARCOlisboa
+","Cordoaria Nacional, Lisboa"
+26 de maio de 2016,15:00,"O Presidente da República inaugura a Feira do Livro de Lisboa
+","Parque Eduardo VII, Lisboa"
+26 de maio de 2016,21:30,"O Presidente da República inaugura o Museu da Vista Alegre
+",Ílhavo
+27 de maio de 2016,10:00,"O Presidente da República visita as fábricas RiaStone e Vista Alegre, o Palácio Vista Alegre e inaugura o Hotel Vista Alegre
+",Ílhavo
 27 de maio de 2016,20:00,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal",""
 29 de maio de 2016,"","Visita do Presidente da República à República Federal da Alemanha
 
 Berlim, 29 e 30 de maio de 2016",""
-29 de maio de 2016,19:45,Receção a representantes da Comunidade Portuguesa residente na Alemanha,"Residência do Embaixador de Portugal na Alemanha
-"
+29 de maio de 2016,19:45,"Receção a representantes da Comunidade Portuguesa residente na Alemanha
+",Residência do Embaixador de Portugal na Alemanha
 30 de maio de 2016,"","Visita do Presidente da República à República Federal da Alemanha
 
 Berlim, 29 e 30 de maio de 2016",""
-30 de maio de 2016,11:30,"Encontro do Presidente da República com o Presidente da República Federal da Alemanha, Joachim Gauck, seguido de almoço de trabalho","Palácio Bellevue
-"
-30 de maio de 2016,14:00,"Encontro do Presidente da República com a Chanceler da República Federal da Alemanha, Angela Merkel","Chancelaria Federal
-"
-30 de maio de 2016,15:00,"Encontro do Presidente da República com o Presidente do Bundestag, Norbert Lammert","Parlamento Federal Alemão (Bundestag)
-"
+30 de maio de 2016,11:30,"Encontro do Presidente da República com o Presidente da República Federal da Alemanha, Joachim Gauck, seguido de almoço de trabalho
+",Palácio Bellevue
+30 de maio de 2016,14:00,"Encontro do Presidente da República com a Chanceler da República Federal da Alemanha, Angela Merkel
+",Chancelaria Federal
+30 de maio de 2016,15:00,"Encontro do Presidente da República com o Presidente do Bundestag, Norbert Lammert
+",Parlamento Federal Alemão (Bundestag)
 30 de maio de 2016,15:30,O Presidente da República visita o edifício do Reichstag,""
 31 de maio de 2016,15:00,"O Presidente da República recebe, em audiência, o Comissário Europeu para as Migrações, Assuntos Internos e Cidadania, Dimitris Avramopoulos",""
-31 de maio de 2016,18:00,O Presidente da República preside à Sessão de Encerramento do Fórum das Políticas Públicas,"Sala do Senado, Assembleia da República
-"
-31 de maio de 2016,19:00,O Presidente da República preside à Sessão de Encerramento da IX Conferência sobre Crianças Desaparecidas organizada pelo Instituto de Apoio à Criança,"Auditório Novo, Assembleia da República
-"
+31 de maio de 2016,18:00,"O Presidente da República preside à Sessão de Encerramento do Fórum das Políticas Públicas
+","Sala do Senado, Assembleia da República"
+31 de maio de 2016,19:00,"O Presidente da República preside à Sessão de Encerramento da IX Conferência sobre Crianças Desaparecidas organizada pelo Instituto de Apoio à Criança
+","Auditório Novo, Assembleia da República"
 1 de abril de 2016,15:00,"O Presidente da República recebe, em audiência, as direções da Academia das Ciências de Lisboa, da Academia Portuguesa de História e da Academia Nacional de Belas Artes",""
 2 de abril de 2016,12:30,"O Presidente da República e o Presidente da Assembleia da República promovem, no Palácio de Belém, um almoço com antigos Deputados da Assembleia Constituinte e ex-presidentes da Assembleia da República, por ocasião do 40.º Aniversário da Constituição da República Portuguesa ",""
-4 de abril de 2016,11:00,O Presidente da República preside à Sessão Comemorativa dos 75 anos Liga Portuguesa contra o Cancro.,"Fundação Calouste Gulbenkian, Lisboa
-"
+4 de abril de 2016,11:00,"O Presidente da República preside à Sessão Comemorativa dos 75 anos Liga Portuguesa contra o Cancro.
+","Fundação Calouste Gulbenkian, Lisboa"
 4 de abril de 2016,17:00,"O Presidente da República recebe, em audiência, o Presidente da Liga dos Combatentes, Tenente-general Joaquim Chito Rodrigues",""
 4 de abril de 2016,17:30,"O Presidente da República recebe, em audiência, o Presidente do Partido Social Democrata, Dr. Pedro Passos Coelho",""
-5 de abril de 2016,10:00,O Presidente da República visita o Comando Conjunto para as Operações Militares (CCOM) do Estado-Maior General das Forças Armadas Portuguesas,"Reduto Gomes Freire, Oeiras
-"
-5 de abril de 2016,18:30,O Presidente da República preside à sessão de encerramento do Congresso Científico Comemorativo dos 40 anos da Constituição Portuguesa de 1976,"Reitoria da Universidade Nova de Lisboa
-"
-6 de abril de 2016,12:00,O Presidente da República preside à Cerimónia de Entrega dos Prémios da iniciativa “Ativar Portugal Startups 2016” da Microsoft,"Microsoft Portugal - Parque das Nações, Lisboa
-"
-6 de abril de 2016,14:00,"O Presidente da República participa na iniciativa “E se fosse eu?” promovida pela Plataforma de Apoio aos Refugiados (PAR), Direção Geral da Educação, Alto Comissariado para as Migrações e Conselho Nacional da Juventude","Escola Secundária Eça de Queirós, Lisboa
-"
-6 de abril de 2016,17:00,O Presidente da República associa-se à campanha “Vamos pôr o Sequeira no lugar certo”,"Museu Nacional de Arte Antiga, Lisboa
-"
+5 de abril de 2016,10:00,"O Presidente da República visita o Comando Conjunto para as Operações Militares (CCOM) do Estado-Maior General das Forças Armadas Portuguesas
+","Reduto Gomes Freire, Oeiras"
+5 de abril de 2016,18:30,"O Presidente da República preside à sessão de encerramento do Congresso Científico Comemorativo dos 40 anos da Constituição Portuguesa de 1976
+",Reitoria da Universidade Nova de Lisboa
+6 de abril de 2016,12:00,"O Presidente da República preside à Cerimónia de Entrega dos Prémios da iniciativa “Ativar Portugal Startups 2016” da Microsoft
+","Microsoft Portugal - Parque das Nações, Lisboa"
+6 de abril de 2016,14:00,"O Presidente da República participa na iniciativa “E se fosse eu?” promovida pela Plataforma de Apoio aos Refugiados (PAR), Direção Geral da Educação, Alto Comissariado para as Migrações e Conselho Nacional da Juventude
+","Escola Secundária Eça de Queirós, Lisboa"
+6 de abril de 2016,17:00,"O Presidente da República associa-se à campanha “Vamos pôr o Sequeira no lugar certo”
+","Museu Nacional de Arte Antiga, Lisboa"
 7 de abril de 2016,14:30,"O Presidente da República confere posse aos Conselheiros de Estado Professor Doutor Aníbal António Cavaco Silva, Dr. António Bernardo Aranha da Gama Lobo Xavier, Eng. António Manuel de Oliveira Guterres, Professor Doutor Eduardo Lourenço de Faria, Dr. Luís Manuel Gonçalves Marques Mendes e Dra. Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares",""
 7 de abril de 2016,15:00,O Presidente da República preside à reunião do Conselho de Estado,""
 8 de abril de 2016,12:00,"O Presidente da República recebe, em audiência, a Direção do Comité Paralímpico de Portugal (CPP)",""
@@ -1198,11 +1200,11 @@ Berlim, 29 e 30 de maio de 2016",""
 8 de abril de 2016,17:00,"O Presidente da República recebe, em audiência, a Direção do Comité Olímpico de Portugal (COP)",""
 8 de abril de 2016,18:00,"O Presidente da República recebe, em audiência, a Direção da Confederação dos Agricultores de Portugal (CAP)",""
 8 de abril de 2016,19:00,"O Presidente da República recebe, em audiência, a Direção da Confederação do Turismo Português (CTP)",""
-9 de abril de 2016,11:40,"O Presidente da República preside às Cerimónias de Comemoração do Dia do Combatente, do 98.º aniversário da Batalha de La Lys e 80.ª romagem ao Túmulo do Soldado Desconhecido","Mosteiro de Santa Maria da Vitória, Batalha
-"
+9 de abril de 2016,11:40,"O Presidente da República preside às Cerimónias de Comemoração do Dia do Combatente, do 98.º aniversário da Batalha de La Lys e 80.ª romagem ao Túmulo do Soldado Desconhecido
+","Mosteiro de Santa Maria da Vitória, Batalha"
 10 de abril de 2016,17:30,O Presidente da República desloca-se à Agência da Caixa Geral de Depósitos de Belém no dia do 140.º Aniversário da Instituição,""
-11 de abril de 2016,10:40,O Presidente da República inaugura as novas instalações da Associação Amigas do Peito,"Hospital Santa Maria
-"
+11 de abril de 2016,10:40,"O Presidente da República inaugura as novas instalações da Associação Amigas do Peito
+",Hospital Santa Maria
 11 de abril de 2016,12:00,O Presidente da República recebe um grupo de Embaixadores da União Europeia,""
 11 de abril de 2016,16:30,"O Presidente da República recebe, em audiência, a Direção do Conselho Nacional da Juventude (CNJ)",""
 12 de abril de 2016,"","Visita do Presidente da República ao Parlamento Europeu
@@ -1222,15 +1224,15 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 14 de abril de 2016,12:00,"O Presidente da República recebe do Presidente da Assembleia da República, Dr. Eduardo Ferro Rodrigues, o diploma de Deputado Honorário, aprovado na sessão plenária de 31 de março de 2016, o qual foi atribuído aos Constituintes de 1975-1976",""
 14 de abril de 2016,15:30,"O Presidente da República confere posse ao Ministro da Cultura, Embaixador Luís Filipe de Castro Mendes, ao Secretário de Estado da Cultura, Dr. Miguel Honrado e ao Secretário de Estado da Juventude e do Desporto, Dr. João Paulo de Loureiro Rebelo",""
 14 de abril de 2016,16:00,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal",""
-14 de abril de 2016,21:00,"O Presidente da República assiste peça de teatro “O Impromptu de Versailles”, de Molière, inserida nas comemorações dos 170 anos do Teatro Nacional D. Maria II","Teatro Nacional D. Maria II, Lisboa
-"
+14 de abril de 2016,21:00,"O Presidente da República assiste peça de teatro “O Impromptu de Versailles”, de Molière, inserida nas comemorações dos 170 anos do Teatro Nacional D. Maria II
+","Teatro Nacional D. Maria II, Lisboa"
 15 de abril de 2016,12:00,"O Presidente da República recebe, em audiência, a Direção da União Geral de Trabalhadores (UGT)",""
 15 de abril de 2016,14:00,"O Presidente da República recebe, em audiência, a Direção da Confederação Geral dos Trabalhadores Portugueses (CGTP-IN)",""
 15 de abril de 2016,16:30,"O Presidente da República confere posse ao Chefe do Estado-Maior do Exército, General Frederico José Rovisco Duarte",""
-15 de abril de 2016,19:00,O Presidente da República estará presente na abertura do Meeting Lisboa,"Centro Cultural de Belém, Lisboa
-"
-15 de abril de 2016,19:45,O Presidente da República preside à Cerimónia de entrega do Prémio Pessoa 2015,"Culturgest - Caixa Geral de Depósitos, Lisboa
-"
+15 de abril de 2016,19:00,"O Presidente da República estará presente na abertura do Meeting Lisboa
+","Centro Cultural de Belém, Lisboa"
+15 de abril de 2016,19:45,"O Presidente da República preside à Cerimónia de entrega do Prémio Pessoa 2015
+","Culturgest - Caixa Geral de Depósitos, Lisboa"
 17 de abril de 2016,"",O Presidente da República visita a Associação Académica de Coimbra por ocasião dos 47 anos da crise académica de 1969,""
 17 de abril de 2016,17:00,Visita à sede da Associação Académica de Coimbra,""
 17 de abril de 2016,18:00,Visita à República dos Fantasmas,""
@@ -1240,14 +1242,14 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 18 de abril de 2016,17:45,"O Presidente da República recebe, em audiência, a Direção da Associação Nacional de Municípios Portugueses (ANMP)",""
 18 de abril de 2016,18:30,"O Presidente da República recebe, em audiência, a direção do PS/Madeira",""
 18 de abril de 2016,19:00,"O Presidente da República recebe, em audiência, o Presidente da Assembleia Legislativa da Região Autónoma da Madeira, Dr. José Lino Tranquada Gomes",""
-18 de abril de 2016,20:45,O Presidente da República assiste ao Concerto “Música sem Fronteiras” - Orquestras e Coros do Ensino Superior em Apoio aos Refugiados com direção de Joana Carneiro.,"Grande Auditório, Centro Cultural de Belém, Lisboa
-"
-19 de abril de 2016,16:00,O Presidente da República visita a Academia Nacional de Belas Artes,"Largo da Academia Nacional de Belas Artes, Lisboa
-"
-19 de abril de 2016,17:00,O Presidente da República inaugura o Museu do Dinheiro,"Sede do Banco de Portugal, Lisboa
-"
-19 de abril de 2016,18:30,O Presidente da República preside à Cerimónia de Abertura da Reunião dos Conselhos Superiores de Justiça da CPLP,"Supremo Tribunal de Justiça, Lisboa
-"
+18 de abril de 2016,20:45,"O Presidente da República assiste ao Concerto “Música sem Fronteiras” - Orquestras e Coros do Ensino Superior em Apoio aos Refugiados com direção de Joana Carneiro.
+","Grande Auditório, Centro Cultural de Belém, Lisboa"
+19 de abril de 2016,16:00,"O Presidente da República visita a Academia Nacional de Belas Artes
+","Largo da Academia Nacional de Belas Artes, Lisboa"
+19 de abril de 2016,17:00,"O Presidente da República inaugura o Museu do Dinheiro
+","Sede do Banco de Portugal, Lisboa"
+19 de abril de 2016,18:30,"O Presidente da República preside à Cerimónia de Abertura da Reunião dos Conselhos Superiores de Justiça da CPLP
+","Supremo Tribunal de Justiça, Lisboa"
 20 de abril de 2016,"",Visita do Presidente da República à Marinha,""
 20 de abril de 2016,10:10,"Embarque, no Cais Fluvial de Belém, do Presidente da República no N.R.P. “Oríon” com destino à Base Naval de Lisboa",""
 20 de abril de 2016,10:40,Chegada do N.R.P. “Oríon” à bacia de manobra da Base Naval de Lisboa e início da Revista Naval,""
@@ -1259,10 +1261,10 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 20 de abril de 2016,15:30,"O Presidente da República recebe, em audiência, o Presidente da Associação Cultural e Museu Cavaquinho, Júlio Pereira",""
 20 de abril de 2016,16:30,"O Presidente da República recebe, em audiência, o Conselho Diretivo da Associação Nacional de Freguesias (ANAFRE)",""
 20 de abril de 2016,17:30,"O Presidente da República recebe, em audiência, a Direção da APRe! - Associação de Aposentados, Pensionistas e Reformados",""
-20 de abril de 2016,18:45,O Presidente da República preside à cerimónia de lançamento dos Livros RTP “Coleção Essencial”,"Livraria Buchholz, Lisboa
-"
-21 de abril de 2016,10:00,O Presidente da República preside à Sessão Solene de Abertura do Colóquio Comemorativo do 40.º Aniversário da Constituição da República Portuguesa,"Auditório do Tribunal Constitucional, Palácio Ratton, Lisboa
-"
+20 de abril de 2016,18:45,"O Presidente da República preside à cerimónia de lançamento dos Livros RTP “Coleção Essencial”
+","Livraria Buchholz, Lisboa"
+21 de abril de 2016,10:00,"O Presidente da República preside à Sessão Solene de Abertura do Colóquio Comemorativo do 40.º Aniversário da Constituição da República Portuguesa
+","Auditório do Tribunal Constitucional, Palácio Ratton, Lisboa"
 21 de abril de 2016,"","PORTUGAL PRÓXIMO - Alentejo
 
 21, 22 e 23 de abril de 2016",""
@@ -1285,8 +1287,8 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 22 de abril de 2016,"","PORTUGAL PRÓXIMO - Alentejo
 
 21, 22 e 23 de abril de 2016",""
-22 de abril de 2016,09:30,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal","Évora
-"
+22 de abril de 2016,09:30,"O Presidente da República recebe o Primeiro-Ministro, Dr. António Costa, para a reunião semanal
+",Évora
 22 de abril de 2016,11:00,"Évora
 - Vista ao Colégio do Espírito Santo da Universidade de Évora
 - Vista ao Laboratório Hércules da Universidade de Évora
@@ -1324,24 +1326,24 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 – Visita à Ovibeja
 – Encontro com os deputados eleitos pelos distritos de Portalegre, Évora
   e Beja na sede da ACOS",""
-25 de abril de 2016,00:01,O Presidente da República está presente na abertura do NewsMuseum,"Rua Visconde de Monserrate, Sintra
-"
+25 de abril de 2016,00:01,"O Presidente da República está presente na abertura do NewsMuseum
+","Rua Visconde de Monserrate, Sintra"
 25 de abril de 2016,10:00,Sessão Solene Comemorativa do 42.º Aniversário do 25 de Abril na Assembleia da República,""
-25 de abril de 2016,15:00,O Presidente da República associa-se à homenagem ao Tenente-Coronel Fernando José Salgueiro Maia,"Jardim dos Cravos, Santarém
-"
-25 de abril de 2016,17:30,O Presidente da República agracia com a Grã-Cruz da Ordem da Liberdade o Dr. António Arnaut e o Professor João Lobo Antunes,"Sala dos Embaixadores, Palácio de Belém
-"
-25 de abril de 2016,19:00,"O Presidente da República preside à Cerimónia de Entrega do Prémio Vida Literária a Manuel Alegre, atribuído pela Associação Portuguesa de Escritores em parceria com a Caixa Geral de Depósitos","Salão Nobre da Caixa Geral de Depósitos, Lisboa
-"
+25 de abril de 2016,15:00,"O Presidente da República associa-se à homenagem ao Tenente-Coronel Fernando José Salgueiro Maia
+","Jardim dos Cravos, Santarém"
+25 de abril de 2016,17:30,"O Presidente da República agracia com a Grã-Cruz da Ordem da Liberdade o Dr. António Arnaut e o Professor João Lobo Antunes
+","Sala dos Embaixadores, Palácio de Belém"
+25 de abril de 2016,19:00,"O Presidente da República preside à Cerimónia de Entrega do Prémio Vida Literária a Manuel Alegre, atribuído pela Associação Portuguesa de Escritores em parceria com a Caixa Geral de Depósitos
+","Salão Nobre da Caixa Geral de Depósitos, Lisboa"
 26 de abril de 2016,10:30,"O Presidente da República recebe, em audiência, uma delegação do Pessoas-Animais-Natureza (PAN)",""
 26 de abril de 2016,11:00,"O Presidente da República recebe, em audiência, uma delegação do Partido Ecologista «Os Verdes» (PEV)",""
 26 de abril de 2016,12:00,"O Presidente da República recebe, em audiência, uma delegação do Partido Comunista Português (PCP)",""
-26 de abril de 2016,13:45,O Presidente da República está presente no Torneio de Ténis Estoril Open 2016,"Clube Ténis Estoril
-"
+26 de abril de 2016,13:45,"O Presidente da República está presente no Torneio de Ténis Estoril Open 2016
+",Clube Ténis Estoril
 26 de abril de 2016,16:00,"O Presidente da República recebe, em audiência, uma delegação do Bloco de Esquerda (BE)",""
 26 de abril de 2016,17:00,"O Presidente da República recebe, em audiência, uma delegação do Partido Socialista (PS)",""
-26 de abril de 2016,19:30,O Presidente da República preside à Sessão de Encerramento das Comemorações dos 40 Anos da Constituição da República Portuguesa,"Salão Nobre da Ordem dos Advogados, Lisboa
-"
+26 de abril de 2016,19:30,"O Presidente da República preside à Sessão de Encerramento das Comemorações dos 40 Anos da Constituição da República Portuguesa
+","Salão Nobre da Ordem dos Advogados, Lisboa"
 27 de abril de 2016,11:00,"O Presidente da República recebe as cartas credenciais do novo Embaixador da Argentina em Portugal, Oscar Armando Moscariello",""
 27 de abril de 2016,12:00,"Visita de Trabalho a Portugal do Presidente da República da Polónia, Andrzej Duda
 
@@ -1353,11 +1355,11 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 27 de abril de 2016,19:00,O Presidente da República recebe os Conselheiros das Comunidades Portuguesas,""
 28 de abril de 2016,15:00,"O Presidente da República recebe, em audiência, uma delegação do Conselho Nacional das Ordens Profissionais (CNOP)",""
 28 de abril de 2016,18:00,"O Presidente da República recebe o Primeiro-ministro, Dr. António Costa, para a reunião semanal ",""
-29 de abril de 2016,18:00,O Presidente da República visita as instalações da Faculdade de Belas-Artes da Universidade de Lisboa (FBAUL),"Largo da Academia Nacional de Belas-Artes, Lisboa
-"
+29 de abril de 2016,18:00,"O Presidente da República visita as instalações da Faculdade de Belas-Artes da Universidade de Lisboa (FBAUL)
+","Largo da Academia Nacional de Belas-Artes, Lisboa"
 10 de março de 2016,11:00,O Presidente da República recebe cumprimentos dos funcionários da Secretaria-geral da Presidência da República.,""
-10 de março de 2016,15:15,Apresentação de cumprimentos pelo Corpo Diplomático,"Palácio da Ajuda
-"
+10 de março de 2016,15:15,"Apresentação de cumprimentos pelo Corpo Diplomático
+",Palácio da Ajuda
 10 de março de 2016,18:00,"O Presidente da República recebe o Primeiro-ministro, Dr. António Costa, para a reunião semanal",""
 11 de março de 2016,"",O Presidente da República visita a Cidade do Porto,""
 11 de março de 2016,11:00,"Chegada do Presidente da República aos Paços do Concelho do Porto
@@ -1368,8 +1370,8 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 - Momento musical pela Orquestra Juvenil da Bonjóia
 - Intervenção do Presidente da Câmara do Porto
 - Intervenção do Presidente da República",""
-11 de março de 2016,11:45,Assinatura do Livro de honra e Apresentação de cumprimentos pelos participantes na cerimónia,"sala D. Maria
-"
+11 de março de 2016,11:45,"Assinatura do Livro de honra e Apresentação de cumprimentos pelos participantes na cerimónia
+",sala D. Maria
 11 de março de 2016,12:35,"Partida do Presidente da República, acompanhado pelo Presidente da Câmara Municipal, para a Casa do Roseiral",""
 11 de março de 2016,13:00,"Chegada à Casa do Roseiral
 - Almoço",""
@@ -1381,8 +1383,8 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 - Visita ao Centro de Dia do Bairro do Cerco do Porto",""
 12 de março de 2016,"",Abertura ao Público do Palácio Nacional de Belém e Render Solene da Guarda,""
 12 de março de 2016,10:00,"Abertura dos portões da entrada principal do Palácio de Belém, para os visitantes que pretendem assistir à cerimónia na Varanda",""
-12 de março de 2016,10:20,Atuação da Banda da Armada,"Local: Varanda do Palácio de Belém
-"
+12 de março de 2016,10:20,"Atuação da Banda da Armada
+",Local: Varanda do Palácio de Belém
 12 de março de 2016,10:45,Saída do Esquadrão Presidencial e Banda da GNR do Páteo das Equipagens em direção ao exterior do Palácio onde se vai postar,""
 12 de março de 2016,10:50,Integração do Estandarte Nacional com escolta,""
 12 de março de 2016,10:55,"Chegada do Presidente da República ao Palácio de Belém
@@ -1393,21 +1395,22 @@ Estrasburgo, 12 e 13 de abril de 2016",""
 "
 12 de março de 2016,11:10,"Início 1.º Render Solene da Guarda ao Palácio Nacional de Belém ao Presidente da República, Marcelo Rebelo de Sousa",""
 12 de março de 2016,11:55,Fim da cerimónia do Render Solene da Guarda ao Palácio de Belém,""
-12 de março de 2016,12:30,Atuação da Banda da Armada,"Varanda do Palácio de Belém
-"
-12 de março de 2016,14:00,Atuação da Banda do Exército,"Varanda do Jardim da Cascata
-"
-12 de março de 2016,15:00,Atuação da Banda do Exército,"Varanda do Jardim da Cascata
-"
-12 de março de 2016,16:00,Atuação da Banda da Força Aérea,"Varanda do Jardim da Cascata
-"
-12 de março de 2016,17:00,Atuação da Banda da Força Aérea,"Varanda do Jardim da Cascata
-"
+12 de março de 2016,12:30,"Atuação da Banda da Armada
+",Varanda do Palácio de Belém
+12 de março de 2016,14:00,"Atuação da Banda do Exército
+",Varanda do Jardim da Cascata
+12 de março de 2016,15:00,"Atuação da Banda do Exército
+",Varanda do Jardim da Cascata
+12 de março de 2016,16:00,"Atuação da Banda da Força Aérea
+",Varanda do Jardim da Cascata
+12 de março de 2016,17:00,"Atuação da Banda da Força Aérea
+",Varanda do Jardim da Cascata
 14 de março de 2016,12:00,"O Presidente da República visita a sede da Comunidade dos Países de Língua Portuguesa (CPLP) em Lisboa.
 
 - Encontro com o Secretário Executivo da CPLP, Embaixador Murade Murargy.
-- Encontro com os representantes permanentes da CPLP em Lisboa.","Palácio Conde de Penafiel - Rua de S. Mamede (ao Caldas), 21 – Lisboa
-"
+- Encontro com os representantes permanentes da CPLP em Lisboa.
+
+","Palácio Conde de Penafiel - Rua de S. Mamede (ao Caldas), 21 – Lisboa"
 14 de março de 2016,15:00,"O Presidente da República confere posse ao Representante da República na Região Autónoma dos Açores, Embaixador Pedro Catarino e ao Representante da República na Região Autónoma da Madeira, Juiz Conselheiro Ireneu Cabral Barreto.",""
 14 de março de 2016,15:30,"O Presidente da República recebe, em audiência, o Presidente do Governo Regional dos Açores, Dr. Vasco Cordeiro.",""
 14 de março de 2016,16:00,"O Presidente da República recebe, em audiência, o Presidente do PSD/Açores, Dr. Duarte Freitas.",""
@@ -1440,12 +1443,12 @@ Mafra",""
 21 de março de 2016,11:45,Início do desfile das Forças em Parada,""
 21 de março de 2016,12:20,Saltos de Paraquedistas,""
 21 de março de 2016,12:30,Fim da Cerimónia Militar,""
-21 de março de 2016,12:35,Concerto “Os Seis Órgãos da Basílica de Mafra”,"Basílica de Mafra
-"
+21 de março de 2016,12:35,"Concerto “Os Seis Órgãos da Basílica de Mafra”
+",Basílica de Mafra
 21 de março de 2016,12:55,"Plantação de uma Magnólia soulangeana “Alexandrina” por ocasião do Dia Mundial da Árvore, com a presença de alunos das Escolas de Mafra",""
 22 de março de 2016,12:30,"O Presidente da República recebe, em audiência, o Presidente, os Vice-Presidentes, os Líderes dos Grupos Parlamentares e os Secretários da Mesa da Assembleia da República, que lhe apresentam cumprimentos",""
-22 de março de 2016,15:00,O Presidente da República visita a exposição “Belas Artes da Academia”,"Galeria D. Luis, Palácio Nacional da Ajuda
-"
+22 de março de 2016,15:00,"O Presidente da República visita a exposição “Belas Artes da Academia”
+","Galeria D. Luis, Palácio Nacional da Ajuda"
 23 de março de 2016,12:00,O Presidente da República confere posse aos Chanceleres das Ordens Honoríficas Portuguesas,""
 23 de março de 2016,12:30,"O Presidente da República recebe o Primeiro-Ministro e os membros do Governo, que lhe apresentam cumprimentos",""
 23 de março de 2016,15:00,"O Presidente da República recebe, em audiência, as Câmaras de Comércio Portuguesas presentes em Lisboa para a sua V Reunião Anual",""

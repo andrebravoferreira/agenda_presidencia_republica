@@ -36,8 +36,9 @@ data,hora,evento,local
 22 de janeiro de 2007,12:00,"O Presidente da República recebe, em audiência, o deputado Eng. João Cravinho, indigitado administrador do Banco Europeu para a Reconstrução e Desenvolvimento (BERD)",""
 22 de janeiro de 2007,21:30,"O Presidente da República está presente na cerimónia de reabertura do Teatro José Lúcio da Silva, em Leiria, assistindo ao concerto 
 
-inaugural","Teatro José Lúcio da Silva, Leiria
-"
+inaugural
+
+","Teatro José Lúcio da Silva, Leiria"
 23 de janeiro de 2007,12:00,"O Presidente da República recebe, em audiência, uma delegação da Ordem dos Arquitectos.",""
 25 de janeiro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 25 de janeiro de 2007,21:30,"O Presidente da República assiste ao 3ºConcerto de Angariação de Fundos a favor da Associação Portuguesa contra a Leucemia.
@@ -65,16 +66,19 @@ inaugural","Teatro José Lúcio da Silva, Leiria
 7 de fevereiro de 2007,16:30,"O Presidente da República recebe, em audiência, o ex-piloto de Fórmula 1 Pedro Lamy.",""
 8 de fevereiro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal.,""
 9 de fevereiro de 2007,18:30,"O Presidente da República recebe, em audiência, a direcção da Fundação Luso-Brasileira e alguns dos participantes no Fórum Brasil 2007, promovido pela Fundação.",""
-10 de fevereiro de 2007,21:30,O Presidente da República e a Dr.ª Maria Cavaco Silva assistem ao espectáculo musical Música no Coração.,"- Teatro Politeama, Lisboa
-"
+10 de fevereiro de 2007,21:30,"O Presidente da República e a Dr.ª Maria Cavaco Silva assistem ao espectáculo musical Música no Coração.
+
+","- Teatro Politeama, Lisboa"
 11 de fevereiro de 2007,12:00,O Presidente da República exerce o direito de voto no Referendo sobre a Despenalização da Interrupção Voluntária da Gravidez,""
 13 de fevereiro de 2007,10:30,"O Presidente da República recebe, em audiência, o Presidente da República de Cabo Verde, Pedro Pires",""
 13 de fevereiro de 2007,16:30,"O Presidente da República recebe, em audiência, uma delegação do Secretariado Nacional dos Trabalhadores Sociais Democratas (TSD)",""
 14 de fevereiro de 2007,16:30,"O Presidente da República recebe, em audiência, o Presidente da Câmara de representantes do Reino de Marrocos, Abdelwahed Radi",""
-14 de fevereiro de 2007,19:00,O Presidente da República participa na sessão de Abertura do Ano Académico do Colégio Universitário da Cooperação,"Fundação Cidade de Lisboa, Campo Grande, 380, Lisboa
-"
-15 de fevereiro de 2007,11:00,O Presidente da República participa na cerimónia de inauguração da pista municipal de atletismo Prof. Mário Moniz Pereira,"Parque Oeste, Alto do Lumiar, Lisboa (Junto à Av. Krus Abecasis)
-"
+14 de fevereiro de 2007,19:00,"O Presidente da República participa na sessão de Abertura do Ano Académico do Colégio Universitário da Cooperação
+
+","Fundação Cidade de Lisboa, Campo Grande, 380, Lisboa"
+15 de fevereiro de 2007,11:00,"O Presidente da República participa na cerimónia de inauguração da pista municipal de atletismo Prof. Mário Moniz Pereira
+
+","Parque Oeste, Alto do Lumiar, Lisboa (Junto à Av. Krus Abecasis)"
 15 de fevereiro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 19 de fevereiro de 2007,17:00,"O Presidente da República recebe, em audiência, o Governador do Estado brasileiro de São Paulo, José Serra.",""
 21 de fevereiro de 2007,11:30,"O Presidente da República recebe, em audiência, o accionista maioritário do Maersk Group, Maersk Moller.",""
@@ -120,9 +124,15 @@ inaugural","Teatro José Lúcio da Silva, Leiria
 8 de março de 2007,11:30,O Presidente da República recebe os membros do Conselho Permanente do Conselho das Comunidades Portuguesas,""
 9 de março de 2007,14:00,Chegada do Presidente da República e da Drª Maria Cavaco Silva ao Grã-Ducado do Luxemburgo,""
 9 de março de 2007,15:45,Visita à Escola Primária DEich,""
-9 de março de 2007,16:20,Inauguração da Exposição Portugal  mais do que imagina,Mediateca da Caixa Geral de Depósitos
-9 de março de 2007,17:30,Reunião com os Representantes da Comunidade Portuguesa no Luxemburgo,Residência da Embaixada de Portugal
-9 de março de 2007,18:30,Encontro com jovens quadros médios e superiores da Comunidade Portuguesa no Luxemburgo,Residência da Embaixada de Portugal
+9 de março de 2007,16:20,"Inauguração da Exposição Portugal  mais do que imagina
+
+",Mediateca da Caixa Geral de Depósitos
+9 de março de 2007,17:30,"Reunião com os Representantes da Comunidade Portuguesa no Luxemburgo
+
+",Residência da Embaixada de Portugal
+9 de março de 2007,18:30,"Encontro com jovens quadros médios e superiores da Comunidade Portuguesa no Luxemburgo
+
+",Residência da Embaixada de Portugal
 9 de março de 2007,20:15,"Chegada ao Parc Hotel onde haverá um momento musical por Raquel Barreira e alocução do Presidente da República seguido de um jantar volante oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva, em honra da Comunidade Portuguesa no Luxemburgo",""
 12 de março de 2007,09:45,"Roteiro para a Ciência - 2ª Jornada - ""Tecnologias Limpas""
 
@@ -144,8 +154,9 @@ Barragem de Castelo de Bode (Tomar)",""
 15 de março de 2007,11:30,"O Presidente da República recebe, em audiência, o Presidente do Banco Europeu de Investimentos, Philippe Maystadt",""
 15 de março de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 16 de março de 2007,11:30,"O Presidente da República recebe, em audiência, uma delegação do Partido Social Democrata.",""
-19 de março de 2007,11:30,O Presidente da República participa na Cerimónia de Entrega do Prémio Norte-Sul de Lisboa a Mukhtaran Bibi e ao Rev. Padre Francisco van der Hoff,"Salão Nobre da Assembleia da República
-"
+19 de março de 2007,11:30,"O Presidente da República participa na Cerimónia de Entrega do Prémio Norte-Sul de Lisboa a Mukhtaran Bibi e ao Rev. Padre Francisco van der Hoff
+
+",Salão Nobre da Assembleia da República
 19 de março de 2007,14:55,"Visita do Presidente da República do Gana e Presidente da União Africana
 
 
@@ -278,14 +289,20 @@ Embaixador do Qatar, Mohamed Jaham Al Kuwari",""
 
 - Palácio de Belém",""
 27 de março de 2007,16:30,"O Presidente da República recebe, em audiência, o Prof. James Dewey Watson, Prémio Nobel da Medicina e Fisiologia de 1962 e futuro Presidente do Conselho Científico da Fundação Champalimaud",""
-28 de março de 2007,16:00,O Presidente da República participa na cerimónia de entrega dos Prémios Bial 2006,"Auditório do IPATIMUP, R. Dr. Roberto Frias, Porto"
+28 de março de 2007,16:00,"O Presidente da República participa na cerimónia de entrega dos Prémios Bial 2006
+
+","Auditório do IPATIMUP, R. Dr. Roberto Frias, Porto"
 29 de março de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 30 de março de 2007,11:30,"O Presidente da República recebe, em audiência, o Presidente da Assembleia Nacional da Turquia, Bülent Arinç",""
 30 de março de 2007,17:00,"O Presidente da República recebe, em audiência, o Primeiro-Ministro da Antiga República Jugoslava da Macedónia, Nikola Gruevski",""
-30 de março de 2007,19:00,O Presidente da República participa na cerimónia de entrega dos Prémios Secil Universidades  Arquitectura e Engenharia Civil - e Prémio Secil Arquitectura 2006,"Auditório Prof. Simões dos Santos, Cidade Universitária, Lisboa"
+30 de março de 2007,19:00,"O Presidente da República participa na cerimónia de entrega dos Prémios Secil Universidades  Arquitectura e Engenharia Civil - e Prémio Secil Arquitectura 2006
+
+","Auditório Prof. Simões dos Santos, Cidade Universitária, Lisboa"
 2 de abril de 2007,10:00,"O Presidente da República recebe, em audiência, o Ministro dos Negócios Estrangeiros da Suécia, Carl Bildt",""
 2 de abril de 2007,11:00,"O Presidente da República recebe, em audiência, a direcção do Conselho Nacional da Juventude",""
-3 de abril de 2007,18:00,O Presidente da República está presente na apresentação do livro Encontros e Desencontros Ibéricos  Tratados Hispano - Portugueses desde a Idade Média,"Torre do Tombo, Cidade Universitária de Lisboa"
+3 de abril de 2007,18:00,"O Presidente da República está presente na apresentação do livro Encontros e Desencontros Ibéricos  Tratados Hispano - Portugueses desde a Idade Média
+
+","Torre do Tombo, Cidade Universitária de Lisboa"
 4 de abril de 2007,12:00,"O Presidente da República recebe, em audiência, o Presidente do Tribunal Constitucional, Conselheiro Artur Maurício",""
 4 de abril de 2007,16:30,"O Presidente da República confere posse a seis novos juízes do Tribunal Constitucional, designados pela Assembleia da República",""
 4 de abril de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
@@ -353,17 +370,20 @@ Centro Nacional de Exposições, Santarém
 16 de abril de 2007,12:00,"O Presidente da República recebe, em Audiência, o Presidente da Assembleia da República",""
 18 de abril de 2007,11:00,"O Presidente da República inaugura o Hospital da Luz, em Lisboa",""
 19 de abril de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-19 de abril de 2007,21:15,"O Presidente da República assiste à ante-estreia do filme O Mistério da Estrada de Sintra, do realizador Jorge Paixão da Costa","Auditório da Culturgest, Lisboa
-"
+19 de abril de 2007,21:15,"O Presidente da República assiste à ante-estreia do filme O Mistério da Estrada de Sintra, do realizador Jorge Paixão da Costa
+
+","Auditório da Culturgest, Lisboa"
 20 de abril de 2007,11:30,"O Presidente da República recebe, em audiência, o Presidente do Instituto Universitário de Florença",""
 20 de abril de 2007,12:00,"O Presidente da República recebe, em audiência, uma delegação da Ordem dos Biólogos",""
 20 de abril de 2007,16:00,"O Presidente da República recebe, em audiência, o Primeiro-Ministro da Polónia, Jaroslaw Kaczynski",""
-22 de abril de 2007,17:30,O Presidente da República participa na cerimónia de abertura do XXVIII Congresso Português de Cardiologia,"Tivoli Marinotel, Vilamoura
-"
+22 de abril de 2007,17:30,"O Presidente da República participa na cerimónia de abertura do XXVIII Congresso Português de Cardiologia
+
+","Tivoli Marinotel, Vilamoura"
 23 de abril de 2007,12:00,"O Presidente da República recebe, em audiência, o Chefe do Estado-Maior General das Forças Armadas, General Luís Valença Pinto",""
 24 de abril de 2007,11:30,"O Presidente da República recebe, em audiência, a Presidente do Parlamento da África do Sul, Baleka Mbete",""
-25 de abril de 2007,10:00,"O Presidente da República participa na Cerimónia Comemorativa do XXXIII Aniversário do 25 de Abril, proferindo um discurso","Assembleia da República
-"
+25 de abril de 2007,10:00,"O Presidente da República participa na Cerimónia Comemorativa do XXXIII Aniversário do 25 de Abril, proferindo um discurso
+
+",Assembleia da República
 26 de abril de 2007,16:30,"O Presidente da República recebe, em audiência, o Presidente do Tribunal Constitucional, Rui Moura Ramos",""
 27 de abril de 2007,11:00,"O Presidente da República recebe, em audiência, o Primeiro-Ministro da Hungria, Ferenc Gyurcsány",""
 27 de abril de 2007,16:30,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
@@ -379,26 +399,42 @@ Centro Nacional de Exposições, Santarém
 4 de maio de 2007,15:30,"O Presidente da República recebe, em audiência, o Primeiro-Ministro da Bulgária, Sergey Stanishev",""
 4 de maio de 2007,16:30,"O Presidente da República recebe, em audiência, o Dr. José Ribeiro e Castro",""
 7 de maio de 2007,12:00,"O Presidente da República recebe, em audiência, o ex-jogador internacional de futebol Eusébio da Silva Ferreira",""
-7 de maio de 2007,17:30,O Presidente da República participa na inauguração do Pólo e Inovação de Aveiro da Nokia Siemens Network,Campus da Universidade de Aveiro
-8 de maio de 2007,10:15,"O Presidente da República visita o Colégio Internato dos Carvalhos, acompanhando as aulas de formação em laboratórios e percorrendo uma exposição de arte e indústrias gráficas","Carvalhos, Vila Nova de Gaia
-"
-8 de maio de 2007,12:00,O Presidente da República visita o CINCORK  Centro de Formação Profissional da Indústria da Cortiça,Santa Maria de Lamas
-8 de maio de 2007,18:00,"O Presidente da República visita a Escola Secundária Marquês de Pombal, participando na sessão de entrega de diplomas de formação de curta duração","Rua Alexandre Sá Pinto, Lisboa"
+7 de maio de 2007,17:30,"O Presidente da República participa na inauguração do Pólo e Inovação de Aveiro da Nokia Siemens Network
+
+",Campus da Universidade de Aveiro
+8 de maio de 2007,10:15,"O Presidente da República visita o Colégio Internato dos Carvalhos, acompanhando as aulas de formação em laboratórios e percorrendo uma exposição de arte e indústrias gráficas
+
+","Carvalhos, Vila Nova de Gaia"
+8 de maio de 2007,12:00,"O Presidente da República visita o CINCORK  Centro de Formação Profissional da Indústria da Cortiça
+
+",Santa Maria de Lamas
+8 de maio de 2007,18:00,"O Presidente da República visita a Escola Secundária Marquês de Pombal, participando na sessão de entrega de diplomas de formação de curta duração
+
+","Rua Alexandre Sá Pinto, Lisboa"
 9 de maio de 2007,11:30,"Assinalando a passagem do Dia da Europa, o Presidente da República visita o Centro de Informação Europeia Jacques Delors e é convidado para um encontro com jovens de todo o país, aos quais falará sobre a União Europeia e a participação de Portugal.
 
-O debate com os jovens será transmitido em directo através do sítio da Presidência na Internet.","Centro de Informação Europeia Jacques Delors, Centro Cultural de Belém, Lisboa
-"
-9 de maio de 2007,13:15,O Presidente da República participa no almoço comemorativo da Assembleia Geral Electiva dos Órgãos Sociais da Associação EIS - Empresários pela Inclusão Social,"Hotel Lapa Palace, Lisboa"
+O debate com os jovens será transmitido em directo através do sítio da Presidência na Internet.
+
+","Centro de Informação Europeia Jacques Delors, Centro Cultural de Belém, Lisboa"
+9 de maio de 2007,13:15,"O Presidente da República participa no almoço comemorativo da Assembleia Geral Electiva dos Órgãos Sociais da Associação EIS - Empresários pela Inclusão Social
+
+","Hotel Lapa Palace, Lisboa"
 9 de maio de 2007,17:30,"O Presidente da República recebe, em audiência, o Presidente do Governo Regional dos Açores, Carlos César",""
 10 de maio de 2007,12:00,"O Presidente da República recebe, em audiência, representantes de Tribunais de Contas e de entidades fiscalizadoras e de controlo da Europa, América Latina e Caraíbas, que participam na V Conferência EUROSAI-OLACEFS, a decorrer em Lisboa",""
 10 de maio de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-10 de maio de 2007,21:30,O Presidente da República assiste ao espectáculo de homenagem à actriz Maria de Lurdes de Almeida Lemos (Milú),"Teatro Municipal de São Luiz, Lisboa"
+10 de maio de 2007,21:30,"O Presidente da República assiste ao espectáculo de homenagem à actriz Maria de Lurdes de Almeida Lemos (Milú)
+
+","Teatro Municipal de São Luiz, Lisboa"
 11 de maio de 2007,11:30,"O Presidente da República recebe, em audiência, o Primeiro-Ministro de Cabo Verde, José Maria Neves",""
 11 de maio de 2007,15:30,"O Presidente da República recebe, em audiência, a Presidente da Confederação Suíça, Micheline Calmy-Rey",""
-12 de maio de 2007,12:15,"O Presidente da República participa na sessão de encerramento da Cimeira do Conselho Mundial de Viagens e Turismo, proferindo uma intervenção.",Centro de Congressos de Lisboa
+12 de maio de 2007,12:15,"O Presidente da República participa na sessão de encerramento da Cimeira do Conselho Mundial de Viagens e Turismo, proferindo uma intervenção.
+
+",Centro de Congressos de Lisboa
 14 de maio de 2007,10:00,"O Presidente da República recebe, em audiência, o Cardeal Angelo Sodano",""
 14 de maio de 2007,13:00,"O Presidente da República encontra-se com os embaixadores dos países africanos acreditados em Lisboa, aos quais oferece depois um almoço",""
-14 de maio de 2007,18:00,O Presidente da República participa na homenagem ao Dr. João Morais Leitão,"Auditório da Morais Leitão, Galvão Teles, Soares da Silva & Associados  Rua Castilho, 165, Lisboa"
+14 de maio de 2007,18:00,"O Presidente da República participa na homenagem ao Dr. João Morais Leitão
+
+","Auditório da Morais Leitão, Galvão Teles, Soares da Silva & Associados  Rua Castilho, 165, Lisboa"
 15 de maio de 2007,12:00,"O Presidente da República recebe, em audiência, o Presidente do Parlamento da Suécia, Per Westerberg",""
 16 de maio de 2007,12:00,"O Presidente da República recebe, em audiência, o Presidente do Partido Liberal Democrata (FDP) alemão, Guido Westerwelle",""
 16 de maio de 2007,17:00,"O Presidente da República participa no 4º Encontro Nacional Inovação COTEC- Associação Empresarial para a Inovação e preside à Assembleia Geral da COTEC
@@ -415,8 +451,12 @@ Palácio de Belém",""
 22 de maio de 2007,11:30,"O Presidente da República recebe, em audiência, a direcção do Sindicato dos Magistrados do Ministério Público.",""
 23 de maio de 2007,11:30,"O Presidente da República recebe, em audiência, o Presidente da CISCO Europe, Chris Dedicoat",""
 23 de maio de 2007,15:30,"O Presidente da República recebe, em audiência, o Presidente da Cruz Vermelha Internacional, Jakob Kellenberger",""
-23 de maio de 2007,18:00,"O Presidente da República está presente na sessão solene de abertura do Congresso de Medicina Interna, proferindo uma intervenção",Centro de Congressos de Lisboa (à Junqueira)
-23 de maio de 2007,20:00,O Presidente da República está presente na cerimónia de entrega do Prémio Pessoa 2006,Museu Militar de Lisboa
+23 de maio de 2007,18:00,"O Presidente da República está presente na sessão solene de abertura do Congresso de Medicina Interna, proferindo uma intervenção
+
+",Centro de Congressos de Lisboa (à Junqueira)
+23 de maio de 2007,20:00,"O Presidente da República está presente na cerimónia de entrega do Prémio Pessoa 2006
+
+",Museu Militar de Lisboa
 24 de maio de 2007,11:00,"O Presidente da República recebe, em audiência, o Representante Especial do Secretário-Geral das Nações Unidas para a República Democrática de Timor-Leste, Atul Khare",""
 24 de maio de 2007,11:40,"O Presidente da República recebe, em audiência, o Secretário-Geral da Liga Árabe, Amre Mahmoud Moussa",""
 24 de maio de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
@@ -438,7 +478,9 @@ Palácio de Belém",""
 - Guarda de honra dos Bombeiros Voluntários de Aguiar da Beira e execução do Hino Nacional;
 - Descerramento de placa alusiva à visita e assinatura do livro de honra, nos Paços do Concelho;
 - Saída a pé e visita à Biblioteca Municipal e ao Centro Cultural.",""
-27 de maio de 2007,17:00,O Presidente da República assiste à Final da Taça de Portugal em futebol,"Estádio Nacional, Jamor"
+27 de maio de 2007,17:00,"O Presidente da República assiste à Final da Taça de Portugal em futebol
+
+","Estádio Nacional, Jamor"
 28 de maio de 2007,10:00,"O Presidente da República recebe as cartas credenciais de novos Embaixadores em Portugal:
 
 10:00 horas  Embaixador da Bélgica, Rudy Huygelen
@@ -456,8 +498,8 @@ Amadora",""
 30 de maio de 2007,11:30,"O Presidente da República recebe, em audiência, o Presidente do Supremo Tribunal de Justiça, Conselheiro Luís Noronha Nascimento",""
 31 de maio de 2007,12:00,"O Presidente da República recebe o Presidente da República da Lituânia, Valdas Adamkus, no início da sua visita de Estado a Portugal",""
 31 de maio de 2007,13:15,"Almoço restrito oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva, em honra do Presidente da República da Lituânia e Senhora de Valdas Adamkus",""
-31 de maio de 2007,20:20,"Banquete oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva, em honra do Presidente da República da Lituânia e Senhora de Valdas Adamkus","Palácio Nacional da Ajuda
-"
+31 de maio de 2007,20:20,"Banquete oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva, em honra do Presidente da República da Lituânia e Senhora de Valdas Adamkus
+",Palácio Nacional da Ajuda
 1 de junho de 2007,12:45,"Programa da deslocação do Presidente da República ao distrito de Braga e ao Porto 
 
 12:45 horas - Chegada a Guimarães 
@@ -471,8 +513,8 @@ Amadora",""
 17:30 horas - Chegada à Cooperativa Agrícola de Barcelos 
 Sessão comemorativa do 75º aniversário da Cooperativa Agrícola de Barcelos 
 
-19:45 horas - Homenagem ao Dr. Miguel Veiga","Fundação Dr. António Cupertino de Miranda. Porto
-"
+19:45 horas - Homenagem ao Dr. Miguel Veiga 
+",Fundação Dr. António Cupertino de Miranda. Porto
 2 de junho de 2007,12:00,"Programa da deslocação do Presidente da República ao distrito de Braga e ao Porto (cont.)
  
 12:00 horas - Sessão de Encerramento do VIII Congresso Nacional das Misericórdias 
@@ -487,10 +529,10 @@ Sessão comemorativa do 75º aniversário da Cooperativa Agrícola de Barcelos
 
 17:30 horas - Inauguração da requalificação dos Paços do Concelho de Vila Verde 
 
-19:00 horas - Visita às exposições patentes na Fundação Serralves, no âmbito do programa “Serralves em Festa”","Fundação Serralves, Porto
-"
-3 de junho de 2007,12:00,"O Presidente da República visita a Feira Nacional da Agricultura, onde entregará os prémios do Concurso Nacional de Azeite","Centro Nacional de Exposições, Santarém
-"
+19:00 horas - Visita às exposições patentes na Fundação Serralves, no âmbito do programa “Serralves em Festa” 
+","Fundação Serralves, Porto"
+3 de junho de 2007,12:00,"O Presidente da República visita a Feira Nacional da Agricultura, onde entregará os prémios do Concurso Nacional de Azeite
+","Centro Nacional de Exposições, Santarém"
 4 de junho de 2007,12:00,"O Presidente da República recebe, em audiência, a direcção do Centro Democrático Social-Partido Popular",""
 5 de junho de 2007,12:50,"O Presidente da República recebe, em audiência, a Presidente da República das Filipinas, Glória Macapagal-Arroyo, após o que lhe oferece um almoço",""
 6 de junho de 2007,18:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
@@ -514,16 +556,16 @@ Sessão comemorativa do 75º aniversário da Cooperativa Agrícola de Barcelos
 
 19:30 horas – Sessão de Cumprimentos do Corpo Diplomático 
 
-20:30 horas – Banquete oferecido pelo Presidente da República por ocasião das Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas ","Edifício do Porto de Setúbal
-"
+20:30 horas – Banquete oferecido pelo Presidente da República por ocasião das Comemorações do Dia de Portugal, de Camões e das Comunidades Portuguesas 
+",Edifício do Porto de Setúbal
 10 de junho de 2007,10:30,"Comemorações do 10 de Junho Dia de Portugal, de Camões e das Comunidades Portuguesas (Cont)
 
 10:30 horas  Cerimónias militares com a participação dos três ramos das Forças Armadas 
 
 12:15 horas  Sessão Solene comemorativa do Dia de Portugal 
 
-13:45 horas  Almoço oferecido pela Presidente da Câmara Municipal de Setúbal","Quinta de Catralvos, Azeitão
-"
+13:45 horas  Almoço oferecido pela Presidente da Câmara Municipal de Setúbal 
+","Quinta de Catralvos, Azeitão"
 11 de junho de 2007,11:00,"O Presidente da República recebe, em audiência, o Presidente da Confederação da Indústria Portuguesa (CIP), Eng. Francisco Van Zeller",""
 11 de junho de 2007,12:00,"O Presidente da República recebe, em audiência, o Vice-Ministro dos Negócios Estrangeiros da Índia, Anand Sharma",""
 11 de junho de 2007,15:30,"O Presidente da República recebe, em audiência, o Presidente do Grupo Socialista no Parlamento Europeu, Martin Schulz",""
@@ -534,8 +576,8 @@ Sessão comemorativa do 75º aniversário da Cooperativa Agrícola de Barcelos
 15 de junho de 2007,10:30,"O Presidente da República recebe, em audiência, o Primeiro-Ministro da Grécia, Kostas Karamanlis",""
 15 de junho de 2007,11:30,"O Presidente da República recebe, em audiência, o Alto Comissário das Nações Unidas para os Refugiados, Eng. António Guterres",""
 15 de junho de 2007,18:00,"O Presidente da República preside à reunião do Conselho de Estado, convocada para analisar a presidência portuguesa do Conselho da União Europeia, no segundo semestre de 2007",""
-18 de junho de 2007,18:45,"O Presidente da República inaugura a exposição de artes plásticas “Artistas de Moçambique, Percursos recentes”","Átrio central do edifício sede da Caixa Geral de Depósitos, Av. João XXI, Lisboa
-"
+18 de junho de 2007,18:45,"O Presidente da República inaugura a exposição de artes plásticas “Artistas de Moçambique, Percursos recentes” 
+","Átrio central do edifício sede da Caixa Geral de Depósitos, Av. João XXI, Lisboa"
 19 de junho de 2007,11:45,Partida com destino aos EUA - Newark,""
 19 de junho de 2007,14:35,Chegada ao Aeroporto Internacional Newark Liberty,""
 19 de junho de 2007,15:20,Chegada ao Consulado Geral de Portugal em Newark,""
@@ -595,15 +637,15 @@ Sessão comemorativa do 75º aniversário da Cooperativa Agrícola de Barcelos
 29 de junho de 2007,13:30,"O Presidente da República oferece um almoço ao Presidente do Parlamento Europeu, Hans-Gert Pöttering",""
 29 de junho de 2007,15:30,"O Presidente da República recebe, em audiência, uma delegação do Partido Comunista Português",""
 2 de julho de 2007,16:30,"O Presidente da República recebe, em audiência, uma delegação do Bloco de Esquerda",""
-4 de julho de 2007,20:00,"Por ocasião da Cimeira União Europeia-Brasil, o Presidente da República oferece um jantar em honra do Presidente da República Federativa do Brasil e dos Chefes de Estado e de Governo da UE","Centro Cultural de Belém
-"
-6 de julho de 2007,10:30,O Presidente da República participa na cerimónia comemorativa do Dia da Polícia de Segurança Pública,"Praça do Império (junto ao Mosteiro dos Jerónimos)
-"
+4 de julho de 2007,20:00,"Por ocasião da Cimeira União Europeia-Brasil, o Presidente da República oferece um jantar em honra do Presidente da República Federativa do Brasil e dos Chefes de Estado e de Governo da UE 
+",Centro Cultural de Belém
+6 de julho de 2007,10:30,"O Presidente da República participa na cerimónia comemorativa do Dia da Polícia de Segurança Pública 
+",Praça do Império (junto ao Mosteiro dos Jerónimos)
 6 de julho de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-7 de julho de 2007,20:15,O Presidente da República assiste ao espectáculo durante o qual decorrerá a eleição das 7 Maravilhas de Portugal e das 7 Maravilhas do Mundo,"Estádio da Luz, Lisboa
-"
-8 de julho de 2007,15:45,"O Presidente da República desloca-se a Tomar, por ocasião da Festa dos Tabuleiros, assistindo ao cortejo e à bênção dos tabuleiros","Rua Serpa Pinto (Corredoura) e Paços do Concelho
-"
+7 de julho de 2007,20:15,"O Presidente da República assiste ao espectáculo durante o qual decorrerá a eleição das 7 Maravilhas de Portugal e das 7 Maravilhas do Mundo 
+","Estádio da Luz, Lisboa"
+8 de julho de 2007,15:45,"O Presidente da República desloca-se a Tomar, por ocasião da Festa dos Tabuleiros, assistindo ao cortejo e à bênção dos tabuleiros 
+",Rua Serpa Pinto (Corredoura) e Paços do Concelho
 9 de julho de 2007,10:00,"O Presidente da República recebe, em audiência, o Secretário-Geral das Nações Unidas, Ban Ki-moon",""
 9 de julho de 2007,16:30,"O Presidente da República recebe, em audiência, o Presidente da Assembleia Legislativa da Madeira, Dr. José Miguel Mendonça",""
 11 de julho de 2007,11:30,"Roteiro para o Património
@@ -663,14 +705,14 @@ modalidade",""
 24 de julho de 2007,11:00,"O Presidente da República recebe, em audiência, a Direcção da Confederação do Turismo Português",""
 26 de julho de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 26 de julho de 2007,18:00,"O Presidente da República participa na reunião do Conselho Superior de Defesa Nacional, à qual preside",""
-27 de julho de 2007,19:00,O Presidente da República está presente na Cerimónia de Entrega do Prémio Carreira Internacional Trienal de Arquitectura de Lisboa 2007,"Museu da Electricidade, Lisboa
-"
+27 de julho de 2007,19:00,"O Presidente da República está presente na Cerimónia de Entrega do Prémio Carreira Internacional Trienal de Arquitectura de Lisboa 2007 
+","Museu da Electricidade, Lisboa"
 4 de agosto de 2007,17:00,"O Presidente da República está presente na inauguração do edifício do Arquivo Municipal de Loulé
 Chegada junto ao edificio da Câmara Municipal de Loulé",""
-20 de agosto de 2007,11:00,"O Presidente da República participa numa cerimónia de homenagem a todos os autarcas eleitos no município de Albufeira, desde as primeiras eleições após o 25 de Abril","Paços do Concelho de Albufeira
-"
-22 de agosto de 2007,18:00,"O Presidente da República está presente no Congresso do Instituto Internacional de Estatística, proferindo uma intervenção","Centro de Congressos de Lisboa (à Junqueira)
-"
+20 de agosto de 2007,11:00,"O Presidente da República participa numa cerimónia de homenagem a todos os autarcas eleitos no município de Albufeira, desde as primeiras eleições após o 25 de Abril 
+",Paços do Concelho de Albufeira
+22 de agosto de 2007,18:00,"O Presidente da República está presente no Congresso do Instituto Internacional de Estatística, proferindo uma intervenção 
+",Centro de Congressos de Lisboa (à Junqueira)
 3 de setembro de 2007,18:30,"Visita Oficial do Presidente da República às Instituições Europeias
 
 18:30 - Chegada ao Aeroporto de Estrasburgo-Entzheim
@@ -713,8 +755,8 @@ Chegada junto ao edificio da Câmara Municipal de Loulé",""
 15:00 - Regresso a Lisboa","          - VIP Podium, Piso 0
 "
 6 de setembro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal.,""
-7 de setembro de 2007,18:00,O Presidente da República está presente na Cerimónia de Entrega do Prémio António Champalimaud de Visão proferindo uma intervenção,"Mosteiro dos Jerónimos, Lisboa
-"
+7 de setembro de 2007,18:00,"O Presidente da República está presente na Cerimónia de Entrega do Prémio António Champalimaud de Visão proferindo uma intervenção 
+","Mosteiro dos Jerónimos, Lisboa"
 10 de setembro de 2007,10:30,"O Presidente da República recebe as cartas credenciais de novos Embaixadores em Portugal: 
 
 10:30 horas – Embaixador da Sérvia, Dusko Lopandic 
@@ -738,18 +780,18 @@ Chegada junto ao edificio da Câmara Municipal de Loulé",""
 
 16:15 - Visita à Fábrica Cácio – Indústria de Mobiliário, SA 
 
-18:00 - Cerimónia de Entrega do Prémio D. Dinis, ao escritor Fernando Echevarria, e apresentação do livro sobre a correspondência do Morgado de Mateus.","             Casa de Mateus (Vila Real)
-"
+18:00 - Cerimónia de Entrega do Prémio D. Dinis, ao escritor Fernando Echevarria, e apresentação do livro sobre a correspondência do Morgado de Mateus. 
+",             Casa de Mateus (Vila Real)
 15 de setembro de 2007,12:00,"Deslocação do Presidente da República a Tábua
 12:00 - Cerimónia de inauguração do Hospital da Misericórdia de Tábua",""
 17 de setembro de 2007,12:00,"O Presidente da República recebe, em audiência, o Ministro de Estado para o Trabalho e Emprego da Índia, Óscar Fernandes",""
 17 de setembro de 2007,16:30,"O Presidente da República recebe, em audiência, os Presidentes dos Parlamentos do Trio de Presidências da União Europeia, Norbert Lammert, Jaime Gama e France Cukjati, da Alemanha, Portugal e Eslovénia",""
 18 de setembro de 2007,11:30,"O Presidente da República recebe, em audiência, a Presidente da Assembleia Nacional da Áustria, Barbara Prammer",""
 18 de setembro de 2007,18:30,"O Presidente da República recebe, em audiência, a delegação portuguesa que participará, em Xangai, nos Jogos Mundiais de Verão do Special Olympics",""
-19 de setembro de 2007,11:00,O Presidente da República participa nas cerimónias de trasladação dos restos mortais de Aquilino Ribeiro para o Panteão Nacional,"Panteão Nacional, Lisboa
-"
-19 de setembro de 2007,20:30,"O Presidente da República oferece um jantar em honra do Presidente da República Oriental do Uruguai e Presidente ProTempore do Mercosul, Tabaré Vasquez, que realiza uma visita oficial a Portugal","Palácio Nacional da Ajuda, Lisboa
-"
+19 de setembro de 2007,11:00,"O Presidente da República participa nas cerimónias de trasladação dos restos mortais de Aquilino Ribeiro para o Panteão Nacional 
+","Panteão Nacional, Lisboa"
+19 de setembro de 2007,20:30,"O Presidente da República oferece um jantar em honra do Presidente da República Oriental do Uruguai e Presidente ProTempore do Mercosul, Tabaré Vasquez, que realiza uma visita oficial a Portugal 
+","Palácio Nacional da Ajuda, Lisboa"
 20 de setembro de 2007,10:00,"O Presidente da República recebe o Presidente da República Oriental do Uruguai e Presidente ProTempore do Mercosul, Tabaré Vasquez, que realiza uma visita oficial a Portugal
 
 - Honras militares 
@@ -772,16 +814,16 @@ Chegada junto ao edificio da Câmara Municipal de Loulé",""
 
 18:20  Assembleia Figueirense (Cultura e Recreio, Fundada em 1839) 
 
-18:45  Sessão Solene Comemorativa do 125º Aniversário da elevação a cidade","             Câmara Municipal da Figueira da Foz
-"
+18:45  Sessão Solene Comemorativa do 125º Aniversário da elevação a cidade 
+",             Câmara Municipal da Figueira da Foz
 24 de setembro de 2007,12:00,"O Presidente da República recebe, em audiência, o Dr. Mário Soares e o Engº Manuel Ferreira de Oliveira",""
 24 de setembro de 2007,15:30,"O Presidente da República recebe, em audiência, um grupo de alunos participantes na XXII Olimpíadas ibero americanas da Matemática",""
 25 de setembro de 2007,11:30,"O Presidente da República recebe, em audiência, o Presidente do Parlamento da Finlândia, Sauli Niinistö",""
-25 de setembro de 2007,20:00,"O Presidente da República participa no jantar anual do Clube dos Jornalistas, durante o qual serão entregues os Prémios Gazeta 2006","Ruínas do Convento do Carmo, Lisboa
-"
+25 de setembro de 2007,20:00,"O Presidente da República participa no jantar anual do Clube dos Jornalistas, durante o qual serão entregues os Prémios Gazeta 2006 
+","Ruínas do Convento do Carmo, Lisboa"
 27 de setembro de 2007,16:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
-27 de setembro de 2007,20:30,"O Presidente da República oferece um jantar aos participantes no 2º Encontro do Conselho para a Globalização e aos representantes dos associados da COTEC-Associação Empresarial para a Inovação e da rede PMEs Inovação, que participam num debate sobre “Assuntos Globais, Crescimento e Inovação”","Palácio Nacional da Ajuda
-"
+27 de setembro de 2007,20:30,"O Presidente da República oferece um jantar aos participantes no 2º Encontro do Conselho para a Globalização e aos representantes dos associados da COTEC-Associação Empresarial para a Inovação e da rede PMEs Inovação, que participam num debate sobre “Assuntos Globais, Crescimento e Inovação” 
+",Palácio Nacional da Ajuda
 28 de setembro de 2007,09:00,"Conselho para a Globalização 2007
 
   09:00 - Abertura pelo Presidente da República
@@ -843,8 +885,8 @@ esquadrão motorizado da Guarda Nacional Republicana 
 
 18:30 - Audiência do Presidente da República ao Presidente do Governo Regional dos Açores, Carlos César
 
-20:00 - Jantar em honra do Presidente da República, oferecido pelo Representante da República na Região Autónoma dos Açores","      - Solar da Madre de Deus
-"
+20:00 - Jantar em honra do Presidente da República, oferecido pelo Representante da República na Região Autónoma dos Açores
+",      - Solar da Madre de Deus
 7 de outubro de 2007,11:30,"Visita à Região Autónoma dos Açores (Continuação)
 
     11:30 - Partida para o Pico
@@ -898,8 +940,8 @@ esquadrão motorizado da Guarda Nacional Republicana 
       - Intervenção do Presidente da República
       - Cerimónia de Apresentação de Cumprimentos
 
-20:00 - Jantar em Honra do Presidente da República oferecido pelo Presidente da Assembleia Legislativa Regional","      - Hotel do Faial
-"
+20:00 - Jantar em Honra do Presidente da República oferecido pelo Presidente da Assembleia Legislativa Regional
+",      - Hotel do Faial
 9 de outubro de 2007,10:00,"Visita à Região Autónoma dos Açores (Continuação)
 
     10:00 - Partida para S. Miguel
@@ -940,8 +982,8 @@ esquadrão motorizado da Guarda Nacional Republicana 
 
 12:00 - Partida para Lisboa",""
 10 de outubro de 2007,17:30,"O Presidente da República recebe, em audiência, uma delegação do NEC Fórum (Reunião dos Conselhos Nacionais de Ética Europeus)",""
-11 de outubro de 2007,09:30,O Presidente da República preside à Sessão de Abertura do II Congresso Nacional dos Economistas.,"Centro de Congressos de Lisboa
-"
+11 de outubro de 2007,09:30,"O Presidente da República preside à Sessão de Abertura do II Congresso Nacional dos Economistas. 
+",Centro de Congressos de Lisboa
 11 de outubro de 2007,12:30,"O Presidente da República recebe o Presidente da República do Malawi, Bingu Wa Mutharika, para um encontro seguido de almoço",""
 11 de outubro de 2007,17:00,O Presidente da República recebe o Primeiro Ministro para a reunião semanal,""
 12 de outubro de 2007,10:30,"O Presidente da República recebe, em audiência, o Cardeal Tarcisio Bertone, Secretario de Estado do Vaticano.",""
@@ -981,16 +1023,16 @@ esquadrão motorizado da Guarda Nacional Republicana 
 13.40 - Almoço 
 
 14.45 - Final da Visita",""
-17 de outubro de 2007,18:00,"O Presidente da República inaugura as instalações do novo Banco de Bens Doados, iniciativa da Associação Entrajuda","Bairro do Cabrinha, Avª de Ceuta, Lisboa
-"
+17 de outubro de 2007,18:00,"O Presidente da República inaugura as instalações do novo Banco de Bens Doados, iniciativa da Associação Entrajuda 
+","Bairro do Cabrinha, Avª de Ceuta, Lisboa"
 18 de outubro de 2007,11:00,"O Presidente da República recebe, em audiência, o Presidente da República da Ucrânia, Viktor Yushchenko",""
 19 de outubro de 2007,11:00,"O Presidente da República recebe, em audiência, uma delegação da Associação dos Jovens Agricultores de Portugal - AJAP",""
 19 de outubro de 2007,16:30,"O Presidente da República recebe, em audiência, o Representante da República para a Região Autónoma da Madeira, Juiz Conselheiro Antero Alves Monteiro Diniz",""
-20 de outubro de 2007,15:30,O Presidente da República estará presente na inauguração do Museu do Neo-realismo,"Vila Franca de Xira
-"
+20 de outubro de 2007,15:30,"O Presidente da República estará presente na inauguração do Museu do Neo-realismo 
+",Vila Franca de Xira
 23 de outubro de 2007,11:30,"O Presidente da República recebe, em audiência, o Presidente do Partido Social Democrata, Dr. Luís Filipe de Menezes.",""
-23 de outubro de 2007,17:30,O Presidente da República está presente na Inauguração da Exposição Antológica Comemorativa dos 90 anos do Mestre Júlio Resende,"Edifício da Alfândega do Porto
-"
+23 de outubro de 2007,17:30,"O Presidente da República está presente na Inauguração da Exposição Antológica Comemorativa dos 90 anos do Mestre Júlio Resende 
+",Edifício da Alfândega do Porto
 24 de outubro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 25 de outubro de 2007,15:00,"Visita Oficial a Portuga do Presidente da Federação da Rússia, Vladimir Putin 
 
@@ -1011,8 +1053,8 @@ esquadrão motorizado da Guarda Nacional Republicana 
 
 21.15 - Banquete oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva em honra do Presidente da Federação da Rússia","             Sala das Bicas 
 "
-29 de outubro de 2007,15:30,O Presidente da República estará presente na Sessão de Encerramento do II Congresso do GEEF – Grupo Europeu das Empresas Familiares,"Hotel Ritz
-"
+29 de outubro de 2007,15:30,"O Presidente da República estará presente na Sessão de Encerramento do II Congresso do GEEF – Grupo Europeu das Empresas Familiares
+",Hotel Ritz
 30 de outubro de 2007,16:30,"O Presidente da República recebe, em audiência, o Presidente do Supremo Tribunal de Justiça, Conselheiro Luís Noronha Nascimento.",""
 31 de outubro de 2007,11:30,"O Presidente da República recebe, em audiência, o Director-Geral da Organização Internacional do Trabalho (OIT), Juan Somavia",""
 31 de outubro de 2007,18:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
@@ -1089,13 +1131,13 @@ esquadrão motorizado da Guarda Nacional Republicana 
 - Embaixador da Coreia do Norte, Han Tae Song 
 - Embaixador do Mónaco, Henri Fissore 
 - Embaixador do Bangladesh, Ruhul Amin",""
-13 de novembro de 2007,14:45,O Presidente da República preside à Sessão Solene de Encerramento das Comemorações do 60º aniversário do Laboratório Nacional de Engenharia Civil,"Sede do LNEC, Av. do Brasil, Lisboa
-"
+13 de novembro de 2007,14:45,"O Presidente da República preside à Sessão Solene de Encerramento das Comemorações do 60º aniversário do Laboratório Nacional de Engenharia Civil 
+","Sede do LNEC, Av. do Brasil, Lisboa"
 13 de novembro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 14 de novembro de 2007,11:30,"O Presidente da República recebe, em audiência, Dirigentes da Comunidade Israelita em Lisboa",""
 14 de novembro de 2007,16:30,"O Presidente da República recebe, em audiência, o Prof. Doutor Jagdish Bhagwati e o Director da Faculdade de Economia da Universidade Nova de Lisboa, Prof. Doutor José Ferreira Machado.",""
-15 de novembro de 2007,09:35,O Presidente da República estará presente na Sessão de Abertura da II Conferência de Lisboa sobre o Direito e a Economia da Concorrência,"Centro Cultural de Belém
-"
+15 de novembro de 2007,09:35,"O Presidente da República estará presente na Sessão de Abertura da II Conferência de Lisboa sobre o Direito e a Economia da Concorrência 
+",Centro Cultural de Belém
 15 de novembro de 2007,11:35,"Visita Oficial a Portugal do Presidente da República Democrática de Timor-Leste, José Ramos Horta 
 
 11:35 - Chegada do Presidente da República Democrática de Timor-Leste ao Mosteiro dos Jerónimos, onde depositará uma coroa de flores junto ao Túmulo de Luís Vaz de Camões 
@@ -1119,8 +1161,8 @@ esquadrão motorizado da Guarda Nacional Republicana 
 
 13:00 - Almoço oferecido pelo Presidente da República em honra do Presidente da República Democrática de Timor Leste 
            
-20:20 - Banquete oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva, em honra do Presidente da República Democrática de Timor-Leste","             Palácio Nacional de Queluz
-"
+20:20 - Banquete oferecido pelo Presidente da República e Dr.ª Maria Cavaco Silva, em honra do Presidente da República Democrática de Timor-Leste
+",             Palácio Nacional de Queluz
 15 de novembro de 2007,16:30,"O Presidente da República recebe, em audiência, uma representação das Câmaras de Comércio Luso-Brasileiras",""
 16 de novembro de 2007,10:00,"Roteiro para a Ciência - 3ª Jornada - Ciências e Tecnologias do Mar
 
@@ -1155,16 +1197,16 @@ esquadrão motorizado da Guarda Nacional Republicana 
 19 de novembro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 20 de novembro de 2007,11:30,"O Presidente da República recebe, em audiência, a Associação dos Deficientes das Forças Armadas",""
 21 de novembro de 2007,11:30,"O Presidente da República recebe, em audiência, uma delegação a Associação Portuguesa de Hospitalização Privada",""
-21 de novembro de 2007,18:05,"O Presidente da República participa na cerimónia de entrega do Prémio Vida Literária, da Associação Portuguesa de Escritores, ao Prof. Doutor Vitor Aguiar e Silva","Culturgest, CGD
-"
+21 de novembro de 2007,18:05,"O Presidente da República participa na cerimónia de entrega do Prémio Vida Literária, da Associação Portuguesa de Escritores, ao Prof. Doutor Vitor Aguiar e Silva 
+","Culturgest, CGD"
 23 de novembro de 2007,16:30,"Visita aos Concelhos da Guarda e Gouveia
 
 16:30 – Visita à Plataforma Logística de Iniciativa Empresarial Guarda 
 
 17:15 – Visita ao Instituto de S. Miguel 
 
-20:00 – Jantar de trabalho com os Presidentes de Câmara do Distrito da Guarda","             Hotel Lusitânia Parque.
-"
+20:00 – Jantar de trabalho com os Presidentes de Câmara do Distrito da Guarda 
+",             Hotel Lusitânia Parque.
 24 de novembro de 2007,11:00,"Visita aos Concelhos da Guarda e Gouveia (cont.)
 
 11:00 horas - Recepção em frente da Câmara Municipal de Gouveia. 
@@ -1178,34 +1220,34 @@ esquadrão motorizado da Guarda Nacional Republicana 
 12:30 horas - Visita à Fundação D. Laura dos Santos 
                         Visita ao Centro de Acolhimento Temporário para crianças abandonadas e à Comunidade de Inserção para mães adolescentes e seus filhos 
 
-13:15 horas – Almoço oferecido pelo Presidente da Câmara de Gouveia","                       Hotel de Gouveia.
-"
+13:15 horas – Almoço oferecido pelo Presidente da Câmara de Gouveia 
+",                       Hotel de Gouveia.
 26 de novembro de 2007,11:00,"O Presidente da República recebe, em audiência, o Presidente do Conselho de Administração da EDP, António Mexia",""
-26 de novembro de 2007,18:00,O Presidente da República preside à Sessão de Abertura das I Jornadas Comemorativas da Partida da Família Real para o Brasil,"Salão Nobre, Academia das Ciências
-"
+26 de novembro de 2007,18:00,"O Presidente da República preside à Sessão de Abertura das I Jornadas Comemorativas da Partida da Família Real para o Brasil 
+","Salão Nobre, Academia das Ciências"
 3 de dezembro de 2007,18:00,"O Presidente da República recebe, em audiência, uma delegação do Conselho Científico das Regiões Marítimas Periféricas da Europa.",""
-5 de dezembro de 2007,09:30,O Presidente da República preside à Sessão de Abertura da Cimeira da Juventude África – Europa,"Centro Ismaili – Avenida Lusíada
-"
+5 de dezembro de 2007,09:30,"O Presidente da República preside à Sessão de Abertura da Cimeira da Juventude África – Europa 
+",Centro Ismaili – Avenida Lusíada
 5 de dezembro de 2007,17:00,O Presidente da República recebe o Primeiro-Ministro para a reunião semanal,""
 5 de dezembro de 2007,18:30,"O Presidente da República participa na reunião do Conselho Superior de Defesa Nacional, à qual preside",""
 6 de dezembro de 2007,15:00,"O Presidente da República recebe, em audiência, uma delegação da BusinessEurope (União das Confederações Industriais da Europa)",""
-6 de dezembro de 2007,18:00,"O Presidente da República preside à Sessão de Encerramento do Congresso das Comunicações, promovido pela Associação Portuguesa de Desenvolvimento das Comunicações (APDC)","Centro de Congressos do Estoril
-"
+6 de dezembro de 2007,18:00,"O Presidente da República preside à Sessão de Encerramento do Congresso das Comunicações, promovido pela Associação Portuguesa de Desenvolvimento das Comunicações (APDC) 
+",Centro de Congressos do Estoril
 7 de dezembro de 2007,18:30,"O Presidente da República e a Dra. Maria Cavaco Silva inauguram, no Palácio de Belém, a exposição Olhares sobre Jesus Menino, a árvore de Natal da Presidência e a mesa da Ceia de Natal. 
 Na ocasião, haverá actuações do Coral Infantil Municipal dos Pequenos Cantores da Maia e do Grupo de Gospel de Lisboa. 
 Crianças da Freguesia de Belém participarão, também, na apresentação da árvore de Natal.",""
-8 de dezembro de 2007,20:30,O Presidente da República oferece um banquete oficial em honra dos Chefes das Delegações participantes na Cimeira União Europeia-África,"Palácio da Ajuda
-"
+8 de dezembro de 2007,20:30,"O Presidente da República oferece um banquete oficial em honra dos Chefes das Delegações participantes na Cimeira União Europeia-África 
+",Palácio da Ajuda
 12 de dezembro de 2007,11:30,"O Presidente da República recebe, em audiência, a direcção da Ordem dos Farmacêuticos",""
-13 de dezembro de 2007,13:30,O Presidente da República oferece um almoço em honra dos signatários do Tratado de Lisboa,"Museu Nacional dos Coches, Lisboa
-"
+13 de dezembro de 2007,13:30,"O Presidente da República oferece um almoço em honra dos signatários do Tratado de Lisboa
+","Museu Nacional dos Coches, Lisboa"
 14 de dezembro de 2007,16:30,"Deslocações do Presidente da República nos dias 14 e 15 de Dezembro 
 
 16.30 - Inauguração da biblioteca Municipal Ferreira de Castro 
              - Entrega da medalha de ouro do concelho ao Senhor Presidente da República 
 
-18.30 - O Presidente da República condecora o Dr. Mário Júlio Montalvão Machado ","             Câmara Municipal do Porto
-"
+18.30 - O Presidente da República condecora o Dr. Mário Júlio Montalvão Machado 
+",             Câmara Municipal do Porto
 15 de dezembro de 2007,09:30,"Deslocações do Presidente da República nos dias 14 e 15 de Dezembro (cont.) 
 
 09:30 horas – Visita a Santa Casa da Misericórdia do Bom Jesus de Matosinhos, por ocasião da comemoração dos 400 anos da sua existência
@@ -1219,8 +1261,8 @@ Crianças da Freguesia de Belém participarão, também, na apresentação da á
                        - Visita À Casa do Barco 
 
 16:30 horas – Inauguração do Carsoscópio – Centro de Ciência Viva do Alviela 
-                       - Visita ao Centro de Ciência Viva","                       Alcanena
-"
+                       - Visita ao Centro de Ciência Viva 
+",                       Alcanena
 17 de dezembro de 2007,11:30,"O Presidente da República recebe, em audiência, uma delegação da Confederação do Comércio e Serviços de Portugal",""
 18 de dezembro de 2007,10:00,"Visitas do Presidente da República a instituições de solidariedade social na região de Lisboa 
 
@@ -1230,8 +1272,8 @@ Crianças da Freguesia de Belém participarão, também, na apresentação da á
 
 17:00 horas – ACREDITAR 
 
-18:00 horas – Associação O Companheiro. ","                       Benfica, Lisboa
-"
+18:00 horas – Associação O Companheiro. 
+","                       Benfica, Lisboa"
 19 de dezembro de 2007,11:00,"O Presidente da República recebe, em audiência, uma delegação do CDS-PP",""
 19 de dezembro de 2007,12:00,"O Presidente da República recebe, em audiência, uma delegação da Association Internacional dês Étudiants en Sciences Economiques et Commerciales (AIESEC)",""
 19 de dezembro de 2007,16:50,"O Presidente da República recebe o Primeiro-Ministro e os membros do Governo, que lhe apresentam cumprimentos de Boas Festas",""
@@ -1239,5 +1281,5 @@ Crianças da Freguesia de Belém participarão, também, na apresentação da á
 20 de dezembro de 2007,11:00,O Presidente da República recebe o Ministro da Justiça para apreciação anual dos processos de indulto.,""
 21 de dezembro de 2007,15:30,"O Presidente da República recebe o Presidente, os Vice-Presidentes e os Líderes dos Grupos Parlamentares da Assembleia da República, que lhe apresentam cumprimentos de Boas Festas",""
 21 de dezembro de 2007,16:30,"O Presidente da República recebe, em audiência, o Presidente do Partido Social Democrata, Dr. Luís Filipe Menezes",""
-23 de dezembro de 2007,17:00,O Presidente da República assiste ao Concerto de Natal da Orquestra de Câmara Portuguesa e coro Voces Caelestes,"Centro Cultural de Belém
-"
+23 de dezembro de 2007,17:00,"O Presidente da República assiste ao Concerto de Natal da Orquestra de Câmara Portuguesa e coro Voces Caelestes 
+",Centro Cultural de Belém
