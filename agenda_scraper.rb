@@ -2,6 +2,9 @@ require 'nokogiri'
 require 'open-uri'
 require 'csv'
 
+# TODO
+# - for Cavaco, extract indays event
+
 # Portuguese Presidents with an online schedule
 presidents = [
   {
@@ -50,6 +53,8 @@ presidents.each do |president|
               end
             end
           end
+          # Removes carriage return (not needed)
+          evento.gsub!(/\r/, " ")#.gsub(/\n/, "")
 
           # Output during processing
           puts "#{data} - #{hora}: #{evento}"
