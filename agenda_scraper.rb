@@ -21,7 +21,7 @@ presidents = [
 presidents.each do |president|
 
   # Iterate through years in office
-  (president['years_in_office']).each do |year|
+  president['years_in_office'].each do |year|
 
     # Get the schedule webpage
     page = Nokogiri::HTML(open(president['schedule'] + year.to_s))
@@ -67,4 +67,4 @@ presidents.each do |president|
 
   end # end year range
 
-end # end of presidentes iterating
+end # end of presidents iterating
