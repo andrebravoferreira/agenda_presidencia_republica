@@ -2,6 +2,8 @@ require 'nokogiri'
 require 'open-uri'
 require 'csv'
 
+@sleep_interval = 5
+
 # TODO
 # - for Cavaco, extract indays event
 
@@ -69,6 +71,10 @@ presidents.each do |president|
       puts "#{dias.size} eventos em #{year}"
 
     end # end of CSV operations
+
+    # Sleep as to not overload the server
+    puts "Sleeping #{@sleep_interval} seconds..."
+    sleep @sleep_interval
 
   end # end year range
 
